@@ -16,9 +16,9 @@ Sistema analítico de alerta temprana desarrollado bajo la metodología **CRISP-
 * **Notebook en Google Colab:** [Pegar aquí el enlace compartido de Colab]
 
 ## Estructura del Repositorio
-* `fidelizacion_clientes_crispdm.ipynb`: Notebook reproducible con las 6 etapas CRISP-DM y semilla fija (`random_state=42`).
+* `MD_Proyecto_Final_Integrador.ipynb`: Notebook reproducible con las 6 etapas CRISP-DM y semilla fija (`random_state=42`).
 * `clientes_fitness.csv`: Dataset base original (2.015 registros).
-* `clientes_fitness_limpio.csv`: Dataset depurado y transformado (2.000 registros).
+* `tablero_fidelizacion.csv`: Dataset depurado y transformado (2.000 registros).
 * `requirements.txt`: Dependencias de Python necesarias para ejecutar el proyecto.
 
 ## Instalación y Ejecución Local
