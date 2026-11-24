@@ -2,6 +2,7 @@
 
 **Proyecto Final Integrador — Minería de Datos (Ciclo Lectivo 2026)**  
 *Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial — IES N° 7 «Populorum Progressio - In.Te.La.»*
+
 *Integrante: Solange Magalí Dominguez*
 
 ## Descripción del Proyecto
@@ -12,8 +13,8 @@ Sistema analítico de alerta temprana desarrollado bajo la metodología **CRISP-
 4. **Reglas de asociación:** Extracción de patrones conductuales con `Apriori` (28 reglas, *Lift* máximo de **2,78**).
 
 ## Enlaces del Proyecto
-* **Tablero Interactivo de Visualización (Lovable):** [Pegar aquí tu enlace .lovable.app]
-* **Notebook en Google Colab:** [Pegar aquí el enlace compartido de Colab]
+* **Tablero Interactivo de Visualización (Lovable):** https://pulso-de-retencion.lovable.app
+* **Notebook en Google Colab:** https://colab.research.google.com/drive/1i-yv6xqbR1j6dDNKdWOJtvRQ4HbRB1H6#scrollTo=ctOvk1rDCFoI
 
 ## Estructura del Repositorio
 * `MD_Proyecto_Final_Integrador.ipynb`: Notebook reproducible con las 6 etapas CRISP-DM y semilla fija (`random_state=42`).
