@@ -1,0 +1,2001 @@
+id_alumno,nombre_alumno,dias_inactividad,asistencias_mes,variacion_asistencia,inasistencias_mes,demora_pago_dias,antiguedad_meses,tipo_disciplina,abandona,tasa_cumplimiento,indice_riesgo_conductual,caida_critica,riesgo_abandono_pct,alerta_sistema
+1001,Emilia Díaz,54.0,0.0,-7.0,4.0,20.0,5.0,Pilates,1,0.0,40.4,1,66.1,En Riesgo
+1002,Antonella Herrera,11.0,12.0,-5.0,1.0,2.0,1.0,Gimnasio,0,0.92,7.4,1,4.9,Activo
+1003,Julián Pereyra,15.0,11.0,-2.0,1.0,9.0,15.0,Pilates,0,0.92,12.6,0,4.9,Activo
+1004,Rocío Núñez,26.0,6.0,-9.0,3.0,22.0,49.0,Danza,0,0.67,24.4,1,100.0,En Riesgo
+1005,Florencia Ortiz,60.0,0.0,-13.0,4.0,14.0,17.0,Gimnasio,1,0.0,41.6,1,66.1,En Riesgo
+1006,Paula González,10.0,13.0,-2.0,1.0,2.0,1.0,Gimnasio,0,0.93,6.8,0,4.9,Activo
+1007,Juan Cruz Silva,9.0,15.0,-1.0,1.0,6.0,1.0,Yoga,0,0.94,7.8,0,4.9,Activo
+1008,Facundo González,42.0,0.0,-16.0,6.0,26.0,2.0,Danza,1,0.0,35.6,1,66.1,En Riesgo
+1009,Emilia Pereyra,18.0,2.0,-12.0,7.0,31.0,19.0,Gimnasio,1,0.22,23.2,1,100.0,En Riesgo
+1010,Victoria Ortiz,3.0,17.0,5.0,1.0,8.0,20.0,Gimnasio,0,0.94,5.0,0,4.9,Activo
+1011,Joaquín Fernández,28.0,12.0,-13.0,2.0,34.0,3.0,Gimnasio,0,0.86,30.4,1,100.0,En Riesgo
+1012,Gonzalo Pereyra,11.0,0.0,-17.0,7.0,36.0,70.0,Gimnasio,1,0.0,21.0,1,80.0,En Riesgo
+1013,Ezequiel Pérez,15.0,12.0,1.0,1.0,8.0,44.0,Gimnasio,0,0.92,12.2,0,4.9,Activo
+1014,Paula Giménez,4.0,11.0,-1.0,3.0,10.0,13.0,Gimnasio,0,0.79,6.4,0,4.9,Activo
+1015,Santiago Gómez,9.0,19.0,4.0,2.0,1.0,34.0,Gimnasio,0,0.9,5.8,0,4.9,Activo
+1016,Catalina Rojas,11.0,14.0,-1.0,0.0,7.0,18.0,Boxeo,0,1.0,9.4,0,4.9,Activo
+1017,Franco Gutiérrez,5.0,11.0,-5.0,2.0,12.0,22.0,Danza,1,0.85,7.8,1,80.0,En Riesgo
+1018,Catalina Cabrera,11.0,0.0,-3.0,7.0,10.0,7.0,Gimnasio,1,0.0,10.6,0,80.0,En Riesgo
+1019,Tomás Luna,12.0,12.0,-1.0,2.0,2.0,4.0,Danza,0,0.86,8.0,0,4.9,Activo
+1020,Delfina Díaz,5.0,10.0,-2.0,3.0,3.0,25.0,Gimnasio,1,0.77,4.2,0,4.9,Activo
+1021,Victoria Núñez,13.0,11.0,-2.0,0.0,1.0,5.0,Pilates,0,1.0,8.2,0,4.9,Activo
+1022,Matías Cabrera,10.0,14.0,-1.0,1.0,8.0,7.0,Boxeo,0,0.93,9.2,0,4.9,Activo
+1023,Sofía Rodríguez,10.0,15.0,0.0,2.0,3.0,5.0,Danza,0,0.88,7.2,0,4.9,Activo
+1024,Facundo Castro,11.0,16.0,2.0,0.0,8.0,1.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+1025,Antonella González,71.0,0.0,-7.0,1.0,29.0,11.0,Gimnasio,1,0.0,54.2,1,100.0,En Riesgo
+1026,Leandro Ortiz,58.0,0.0,-16.0,5.0,8.0,8.0,Pilates,0,0.0,38.0,1,66.1,En Riesgo
+1027,Agustín Rodríguez,3.0,12.0,-4.0,0.0,5.0,20.0,Gimnasio,0,1.0,3.8,0,4.9,Activo
+1028,Lara Flores,34.0,0.0,-17.0,5.0,39.0,4.0,Gimnasio,1,0.0,36.0,1,66.1,En Riesgo
+1029,Franco Domínguez,27.0,3.0,-11.0,4.0,12.0,12.0,Danza,1,0.43,21.0,1,100.0,En Riesgo
+1030,Brisa Godoy,56.0,0.0,-11.0,5.0,35.0,13.0,Gimnasio,0,0.0,47.6,1,66.1,En Riesgo
+1031,Lara Giménez,10.0,14.0,3.0,2.0,4.0,10.0,Yoga,0,0.88,7.6,0,4.9,Activo
+1032,Victoria Fernández,11.0,14.0,3.0,2.0,9.0,4.0,Yoga,0,0.88,10.2,0,4.9,Activo
+1033,Ezequiel Núñez,22.0,2.0,-8.0,7.0,39.0,2.0,Gimnasio,1,0.22,28.8,1,100.0,En Riesgo
+1034,Milagros Rojas,67.0,0.0,-17.0,1.0,8.0,37.0,Pilates,1,0.0,43.4,1,100.0,En Riesgo
+1035,Julián López,5.0,13.0,-1.0,3.0,9.0,2.0,Gimnasio,0,0.81,6.6,0,4.9,Activo
+1036,Lucas Castro,15.0,14.0,0.0,1.0,9.0,9.0,Boxeo,0,0.93,12.6,0,4.9,Activo
+1037,Tomás Fernández,66.0,0.0,-7.0,4.0,30.0,8.0,Boxeo,1,0.0,51.6,1,100.0,En Riesgo
+1038,Milagros Rodríguez,9.0,15.0,-1.0,0.0,3.0,37.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+1039,Agustín Álvarez,61.0,0.0,-17.0,3.0,10.0,12.0,Boxeo,1,0.0,40.6,1,66.1,En Riesgo
+1040,Brisa Molina,14.0,10.0,2.0,0.0,8.0,5.0,Yoga,0,1.0,11.6,0,4.9,Activo
+1041,Milagros Luna,11.0,12.0,0.0,0.0,7.0,11.0,Danza,0,1.0,9.4,0,4.9,Activo
+1042,Joaquín Fernández,50.0,0.0,-13.0,6.0,10.0,8.0,Yoga,1,0.0,34.0,1,66.1,En Riesgo
+1043,Sofía Ríos,41.0,0.0,-17.0,4.0,39.0,12.0,Yoga,1,0.0,40.2,1,66.1,En Riesgo
+1044,Bautista Ortiz,2.0,13.0,0.0,1.0,5.0,31.0,Gimnasio,0,0.93,3.2,0,4.9,Activo
+1045,Franco Fernández,2.0,11.0,-5.0,3.0,8.0,16.0,Gimnasio,1,0.79,4.4,1,4.9,Activo
+1046,Antonella Cabrera,10.0,13.0,-2.0,1.0,10.0,2.0,Pilates,0,0.93,10.0,0,4.9,Activo
+1047,Agustín Domínguez,7.0,15.0,-2.0,0.0,4.0,18.0,Danza,0,1.0,5.8,0,4.9,Activo
+1048,Ignacio López,1.0,12.0,-5.0,1.0,10.0,7.0,Gimnasio,0,0.92,4.6,1,4.9,Activo
+1049,Delfina Martínez,25.0,0.0,-16.0,5.0,12.0,3.0,Gimnasio,1,0.0,19.8,1,100.0,En Riesgo
+1050,Ramiro Molina,3.0,15.0,0.0,0.0,6.0,17.0,Danza,0,1.0,4.2,0,4.9,Activo
+1051,Juan Cruz Silva,90.0,10.0,-1.0,0.0,10.0,1.0,Boxeo,0,1.0,58.0,0,80.0,En Riesgo
+1052,Ezequiel Suárez,12.0,14.0,0.0,1.0,3.0,3.0,Boxeo,0,0.93,8.4,0,4.9,Activo
+1053,Camila Núñez,15.0,14.0,-2.0,0.0,9.0,11.0,Gimnasio,0,1.0,12.6,0,4.9,Activo
+1054,Agustín López,6.0,13.0,-1.0,1.0,1.0,10.0,Gimnasio,0,0.93,4.0,0,4.9,Activo
+1055,Paula Fernández,42.0,0.0,-11.0,3.0,42.0,1.0,Gimnasio,1,0.0,42.0,1,100.0,En Riesgo
+1056,Mateo López,17.0,1.0,-11.0,7.0,44.0,10.0,Gimnasio,1,0.12,27.8,1,100.0,En Riesgo
+1057,Ezequiel Pérez,43.0,0.0,-14.0,4.0,9.0,6.0,Gimnasio,1,0.0,29.4,1,100.0,En Riesgo
+1058,Agustín Álvarez,15.0,12.0,4.0,1.0,1.0,23.0,Gimnasio,0,0.92,9.4,0,4.9,Activo
+1059,Julieta Rodríguez,48.0,0.0,-10.0,4.0,37.0,24.0,Gimnasio,1,0.0,43.6,1,66.1,En Riesgo
+1060,Franco Aguirre,68.0,0.0,-13.0,5.0,24.0,5.0,Pilates,1,0.0,50.4,1,100.0,En Riesgo
+1061,Delfina Juárez,28.0,4.0,-6.0,2.0,13.0,11.0,Pilates,0,0.67,22.0,1,100.0,En Riesgo
+1062,Milagros Pereyra,3.0,16.0,-1.0,1.0,1.0,1.0,Yoga,0,0.94,2.2,0,4.9,Activo
+1063,Lautaro Gutiérrez,28.0,2.0,-10.0,6.0,9.0,24.0,Yoga,1,0.25,20.4,1,100.0,En Riesgo
+1064,Julieta Sosa,14.0,10.0,2.0,3.0,8.0,1.0,Gimnasio,0,0.77,11.6,0,4.9,Activo
+1065,Sofía Aguirre,10.0,13.0,-2.0,2.0,2.0,5.0,Boxeo,0,0.87,6.8,0,4.9,Activo
+1066,Julieta Molina,9.0,17.0,2.0,0.0,1.0,7.0,Boxeo,0,1.0,5.8,0,4.9,Activo
+1067,Milagros Flores,11.0,13.0,-3.0,0.0,4.0,43.0,Yoga,0,1.0,8.2,0,4.9,Activo
+1068,Juan Cruz Medina,5.0,15.0,-1.0,0.0,7.0,25.0,Pilates,0,1.0,5.8,0,4.9,Activo
+1069,Emilia González,15.0,15.0,3.0,0.0,8.0,23.0,Pilates,0,1.0,12.2,0,4.9,Activo
+1070,Ezequiel Giménez,12.0,12.0,4.0,0.0,0.0,1.0,Gimnasio,0,1.0,7.2,0,4.9,Activo
+1071,Florencia Ferreyra,9.0,16.0,4.0,2.0,7.0,21.0,Gimnasio,0,0.89,8.2,0,4.9,Activo
+1072,Delfina López,8.0,16.0,-1.0,0.0,0.0,21.0,Gimnasio,0,1.0,4.8,0,4.9,Activo
+1073,Facundo Fernández,11.0,10.0,0.0,0.0,0.0,9.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+1074,Nicolás Rodríguez,74.0,0.0,-4.0,1.0,23.0,8.0,Boxeo,1,0.0,53.6,0,100.0,En Riesgo
+1075,Catalina Pérez,9.0,13.0,3.0,1.0,3.0,31.0,Boxeo,0,0.93,6.6,0,4.9,Activo
+1076,Florencia Sosa,60.0,0.0,-13.0,3.0,41.0,120.0,Yoga,1,0.0,52.4,1,100.0,En Riesgo
+1077,Mateo Ruiz,7.0,7.0,-3.0,3.0,0.0,11.0,Danza,0,0.7,4.2,0,4.9,Activo
+1078,Matías Acosta,0.0,18.0,-1.0,0.0,1.0,29.0,Gimnasio,0,1.0,0.4,0,4.9,Activo
+1079,Julieta Ramírez,10.0,12.0,-4.0,2.0,6.0,2.0,Gimnasio,0,0.86,8.4,0,4.9,Activo
+1080,Brisa Ortiz,11.0,10.0,-5.0,0.0,3.0,11.0,Pilates,0,1.0,7.8,1,4.9,Activo
+1081,Florencia Ramírez,69.0,0.0,-8.0,2.0,9.0,20.0,Pilates,1,0.0,45.0,1,100.0,En Riesgo
+1082,Camila Rodríguez,12.0,9.0,-4.0,1.0,2.0,5.0,Gimnasio,0,0.9,8.0,0,4.9,Activo
+1083,Rocío Romero,13.0,11.0,-4.0,2.0,6.0,16.0,Pilates,0,0.85,10.2,0,4.9,Activo
+1084,Paula Fernández,13.0,15.0,4.0,1.0,9.0,4.0,Boxeo,0,0.94,11.4,0,4.9,Activo
+1085,Ignacio Ferreyra,46.0,0.0,-5.0,7.0,21.0,5.0,Pilates,1,0.0,36.0,1,100.0,En Riesgo
+1086,Camila Ríos,5.0,12.0,-4.0,0.0,10.0,6.0,Gimnasio,1,1.0,7.0,0,4.9,Activo
+1087,Mía Aguirre,7.0,15.0,2.0,4.0,1.0,26.0,Danza,0,0.79,4.6,0,4.9,Activo
+1088,Mía Gómez,9.0,18.0,5.0,1.0,2.0,7.0,Danza,0,0.95,6.2,0,4.9,Activo
+1089,Antonella Herrera,11.0,0.0,-13.0,4.0,39.0,2.0,Gimnasio,0,0.0,22.2,1,80.0,En Riesgo
+1090,Lucas Herrera,11.0,12.0,-2.0,3.0,5.0,28.0,Yoga,0,0.8,8.6,0,4.9,Activo
+1091,Bautista Silva,0.0,20.0,5.0,0.0,5.0,11.0,Pilates,0,1.0,2.0,0,4.9,Activo
+1092,Julieta Gutiérrez,46.0,2.0,-6.0,6.0,20.0,6.0,Gimnasio,1,0.25,35.6,1,66.1,En Riesgo
+1093,Sofía Silva,1.0,18.0,5.0,0.0,7.0,28.0,Gimnasio,0,1.0,3.4,0,4.9,Activo
+1094,Julieta Acosta,55.0,0.0,-15.0,3.0,18.0,12.0,Gimnasio,1,0.0,40.2,1,66.1,En Riesgo
+1095,Victoria Flores,12.0,12.0,-2.0,3.0,8.0,49.0,Pilates,0,0.8,10.4,0,4.9,Activo
+1096,Gonzalo Ferreyra,7.0,12.0,-1.0,3.0,9.0,12.0,Yoga,0,0.8,7.8,0,4.9,Activo
+1097,Ignacio Ferreyra,11.0,17.0,5.0,1.0,1.0,7.0,Gimnasio,0,0.94,7.0,0,4.9,Activo
+1098,Facundo Domínguez,44.0,0.0,-7.0,5.0,34.0,6.0,Yoga,1,0.0,40.0,1,66.1,En Riesgo
+1099,Brisa Ruiz,8.0,12.0,-3.0,0.0,2.0,7.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+1100,Lara Herrera,69.0,0.0,-10.0,3.0,16.0,9.0,Yoga,1,0.0,47.8,1,100.0,En Riesgo
+1101,Gonzalo Giménez,15.0,10.0,3.0,0.0,9.0,6.0,Danza,0,1.0,12.6,0,4.9,Activo
+1102,Lautaro Ortiz,6.0,12.0,-5.0,0.0,2.0,21.0,Danza,0,1.0,4.4,1,4.9,Activo
+1103,Santiago Fernández,52.0,0.0,-14.0,3.0,10.0,3.0,Yoga,0,0.0,35.2,1,66.1,En Riesgo
+1104,Juan Cruz Ramírez,7.0,20.0,5.0,0.0,3.0,38.0,Gimnasio,0,1.0,5.4,0,4.9,Activo
+1105,Martina Medina,48.0,0.0,-12.0,3.0,35.0,4.0,Yoga,1,0.0,42.8,1,66.1,En Riesgo
+1106,Delfina Silva,1.0,16.0,3.0,2.0,1.0,17.0,Danza,0,0.89,1.0,0,4.9,Activo
+1107,Santiago Pérez,12.0,14.0,2.0,1.0,1.0,91.0,Yoga,0,0.93,7.6,0,4.9,Activo
+1108,Bautista Aguirre,14.0,12.0,0.0,0.0,8.0,5.0,Boxeo,0,1.0,11.6,0,4.9,Activo
+1109,Camila Castro,45.0,0.0,-15.0,4.0,8.0,20.0,Boxeo,0,0.0,30.2,1,100.0,En Riesgo
+1110,Delfina Ruiz,34.0,0.0,-14.0,3.0,11.0,3.0,Gimnasio,1,0.0,24.8,1,100.0,En Riesgo
+1111,Julieta Núñez,56.0,0.0,-4.0,4.0,35.0,4.0,Gimnasio,1,0.0,47.6,0,66.1,En Riesgo
+1112,Delfina Gómez,14.0,10.0,0.0,1.0,5.0,13.0,Gimnasio,0,0.91,10.4,0,4.9,Activo
+1113,Candela Benítez,10.0,13.0,0.0,0.0,6.0,5.0,Boxeo,0,1.0,8.4,0,4.9,Activo
+1114,Agustín Acosta,11.0,0.0,-15.0,2.0,29.0,43.0,Boxeo,1,0.0,18.2,1,80.0,En Riesgo
+1115,Nicolás López,4.0,11.0,-1.0,1.0,6.0,48.0,Gimnasio,0,0.92,4.8,0,4.9,Activo
+1116,Emilia Juárez,15.0,16.0,2.0,0.0,11.0,7.0,Pilates,0,1.0,13.4,0,4.9,Activo
+1117,Abril Álvarez,63.0,0.0,-11.0,2.0,16.0,8.0,Pilates,0,0.0,44.2,1,66.1,En Riesgo
+1118,Martina Herrera,14.0,10.0,2.0,1.0,9.0,18.0,Gimnasio,0,0.91,12.0,0,4.9,Activo
+1119,Milagros Álvarez,11.0,14.0,-3.0,0.0,6.0,12.0,Pilates,0,1.0,9.0,0,4.9,Activo
+1120,Nicolás Cabrera,74.0,0.0,-15.0,1.0,43.0,20.0,Yoga,1,0.0,61.6,1,100.0,En Riesgo
+1121,Emilia Moreno,11.0,12.0,-2.0,1.0,7.0,4.0,Pilates,0,0.92,9.4,0,4.9,Activo
+1122,Franco Flores,15.0,18.0,3.0,0.0,5.0,4.0,Yoga,0,1.0,11.0,0,4.9,Activo
+1123,Lucía Pereyra,17.0,10.0,-1.0,3.0,11.0,4.0,Pilates,1,0.77,14.6,0,100.0,En Riesgo
+1124,Tomás Flores,7.0,12.0,5.0,4.0,11.0,3.0,Gimnasio,0,0.75,8.6,0,4.9,Activo
+1125,Delfina Medina,16.0,8.0,-7.0,2.0,8.0,7.0,Pilates,1,0.8,12.8,1,100.0,En Riesgo
+1126,Ignacio Álvarez,2.0,13.0,-2.0,3.0,3.0,3.0,Pilates,0,0.81,2.4,0,4.9,Activo
+1127,Paula Ruiz,9.0,18.0,4.0,1.0,11.0,13.0,Pilates,0,0.95,9.8,0,4.9,Activo
+1128,Antonella Núñez,11.0,13.0,-1.0,1.0,7.0,42.0,Gimnasio,1,0.93,9.4,0,4.9,Activo
+1129,Florencia Romero,1.0,19.0,4.0,1.0,5.0,12.0,Pilates,0,0.95,2.6,0,4.9,Activo
+1130,Sofía Benítez,8.0,19.0,5.0,0.0,0.0,20.0,Pilates,0,1.0,4.8,0,4.9,Activo
+1131,Lucas Aguirre,13.0,14.0,2.0,2.0,4.0,7.0,Gimnasio,0,0.88,9.4,0,4.9,Activo
+1132,Ezequiel Pérez,1.0,18.0,4.0,3.0,5.0,12.0,Gimnasio,0,0.86,2.6,0,4.9,Activo
+1133,Matías Rojas,3.0,17.0,4.0,1.0,11.0,16.0,Boxeo,0,0.94,6.2,0,4.9,Activo
+1134,Camila Silva,38.0,2.0,-6.0,6.0,20.0,24.0,Gimnasio,1,0.25,30.8,1,100.0,En Riesgo
+1135,Julián Castro,15.0,10.0,-5.0,2.0,1.0,15.0,Gimnasio,0,0.83,9.4,1,4.9,Activo
+1136,Matías Acosta,22.0,2.0,-13.0,3.0,21.0,18.0,Gimnasio,1,0.4,21.6,1,100.0,En Riesgo
+1137,Valentina Morales,10.0,15.0,2.0,0.0,2.0,24.0,Yoga,0,1.0,6.8,0,4.9,Activo
+1138,Julián Giménez,13.0,13.0,-1.0,0.0,4.0,23.0,Boxeo,0,1.0,9.4,0,4.9,Activo
+1139,Ignacio Martínez,11.0,13.0,-2.0,1.0,3.0,31.0,Gimnasio,0,0.93,7.8,0,4.9,Activo
+1140,Leandro Cabrera,29.0,9.0,-6.0,2.0,17.0,4.0,Boxeo,0,0.82,24.2,1,100.0,En Riesgo
+1141,Florencia Díaz,19.0,0.0,-16.0,3.0,25.0,4.0,Gimnasio,1,0.0,21.4,1,100.0,En Riesgo
+1142,Bautista Torres,68.0,0.0,-14.0,1.0,37.0,7.0,Yoga,1,0.0,55.6,1,100.0,En Riesgo
+1143,Abril Sosa,9.0,10.0,-4.0,2.0,2.0,9.0,Pilates,0,0.83,6.2,0,4.9,Activo
+1144,Catalina Juárez,28.0,3.0,-9.0,3.0,38.0,18.0,Gimnasio,0,0.5,32.0,1,66.1,En Riesgo
+1145,Gonzalo Gutiérrez,6.0,15.0,4.0,2.0,8.0,2.0,Boxeo,0,0.88,6.8,0,4.9,Activo
+1146,Mateo Giménez,14.0,15.0,2.0,0.0,5.0,4.0,Gimnasio,0,1.0,10.4,0,4.9,Activo
+1147,Candela Martínez,3.0,17.0,4.0,0.0,0.0,13.0,Boxeo,0,1.0,1.8,0,4.9,Activo
+1148,Ramiro Luna,5.0,15.0,1.0,0.0,10.0,2.0,Gimnasio,0,1.0,7.0,0,4.9,Activo
+1149,Florencia Luna,11.0,2.0,-8.0,4.0,24.0,34.0,Gimnasio,1,0.33,16.2,1,80.0,En Riesgo
+1150,Martina González,14.0,10.0,-5.0,3.0,9.0,14.0,Pilates,0,0.77,12.0,1,4.9,Activo
+1151,Sofía Ruiz,11.0,15.0,5.0,1.0,7.0,6.0,Gimnasio,0,0.94,9.4,0,4.9,Activo
+1152,Candela Gutiérrez,3.0,15.0,5.0,4.0,3.0,11.0,Pilates,0,0.79,3.0,0,4.9,Activo
+1153,Emilia Morales,3.0,11.0,-4.0,3.0,9.0,5.0,Yoga,0,0.79,5.4,0,4.9,Activo
+1154,Julián López,10.0,15.0,5.0,1.0,6.0,14.0,Yoga,0,0.94,8.4,0,4.9,Activo
+1155,Milagros Rojas,69.0,12.0,-3.0,6.0,43.0,2.0,Pilates,1,0.67,58.6,0,80.0,En Riesgo
+1156,Valentina Ortiz,12.0,14.0,-3.0,1.0,9.0,27.0,Gimnasio,1,0.93,10.8,0,4.9,Activo
+1157,Franco Ríos,4.0,16.0,1.0,1.0,8.0,4.0,Yoga,0,0.94,5.6,0,4.9,Activo
+1158,Paula Gutiérrez,0.0,14.0,-2.0,2.0,8.0,1.0,Pilates,0,0.88,3.2,0,4.9,Activo
+1159,Valentina Suárez,11.0,15.0,5.0,3.0,7.0,15.0,Gimnasio,0,0.83,9.4,0,4.9,Activo
+1160,Facundo Sánchez,4.0,13.0,-3.0,2.0,3.0,16.0,Gimnasio,0,0.87,3.6,0,4.9,Activo
+1161,Agustín Giménez,35.0,0.0,-11.0,7.0,38.0,13.0,Gimnasio,1,0.0,36.2,1,100.0,En Riesgo
+1162,Santiago López,7.0,11.0,-3.0,0.0,6.0,9.0,Pilates,0,1.0,6.6,0,4.9,Activo
+1163,Ignacio Ríos,15.0,12.0,2.0,1.0,0.0,2.0,Pilates,0,0.92,9.0,0,4.9,Activo
+1164,Santiago Sánchez,11.0,12.0,-2.0,0.0,1.0,8.0,Gimnasio,0,1.0,7.0,0,4.9,Activo
+1165,Matías Fernández,7.0,12.0,-5.0,1.0,8.0,27.0,Danza,0,0.92,7.4,1,4.9,Activo
+1166,Mía Suárez,6.0,15.0,3.0,0.0,9.0,5.0,Danza,0,1.0,7.2,0,4.9,Activo
+1167,Milagros Molina,14.0,14.0,-1.0,1.0,7.0,6.0,Gimnasio,0,0.93,11.2,0,4.9,Activo
+1168,Camila Morales,6.0,14.0,2.0,2.0,5.0,9.0,Gimnasio,0,0.88,5.6,0,4.9,Activo
+1169,Brisa Aguirre,44.0,0.0,-6.0,6.0,35.0,5.0,Yoga,1,0.0,40.4,1,66.1,En Riesgo
+1170,Florencia Aguirre,0.0,19.0,4.0,3.0,11.0,6.0,Yoga,0,0.86,4.4,0,4.9,Activo
+1171,Milagros Godoy,7.0,16.0,5.0,0.0,9.0,7.0,Gimnasio,0,1.0,7.8,0,4.9,Activo
+1172,Candela Díaz,3.0,14.0,-4.0,1.0,9.0,10.0,Gimnasio,0,0.93,5.4,0,4.9,Activo
+1173,Florencia Cabrera,63.0,0.0,-17.0,2.0,15.0,10.0,Pilates,1,0.0,43.8,1,66.1,En Riesgo
+1174,Matías Godoy,10.0,12.0,-3.0,1.0,9.0,13.0,Gimnasio,0,0.92,9.6,0,4.9,Activo
+1175,Rocío Suárez,64.0,0.0,-3.0,6.0,18.0,4.0,Boxeo,1,0.0,45.6,0,66.1,En Riesgo
+1176,Sofía Romero,12.0,12.0,0.0,0.0,6.0,4.0,Danza,0,1.0,9.6,0,4.9,Activo
+1177,Leandro Ramírez,14.0,14.0,1.0,1.0,8.0,13.0,Pilates,0,0.93,11.6,0,4.9,Activo
+1178,Delfina Acosta,8.0,14.0,4.0,0.0,10.0,3.0,Gimnasio,0,1.0,8.8,0,4.9,Activo
+1179,Franco Torres,5.0,16.0,-5.0,0.0,8.0,9.0,Gimnasio,0,1.0,6.2,1,4.9,Activo
+1180,Julián Romero,5.0,16.0,1.0,1.0,0.0,2.0,Boxeo,0,0.94,3.0,0,4.9,Activo
+1181,Nicolás Moreno,23.0,2.0,-11.0,3.0,17.0,8.0,Yoga,1,0.4,20.6,1,100.0,En Riesgo
+1182,Martina Pereyra,16.0,1.0,-16.0,6.0,33.0,40.0,Danza,1,0.14,22.8,1,100.0,En Riesgo
+1183,Matías Rojas,8.0,12.0,-3.0,0.0,6.0,1.0,Pilates,0,1.0,7.2,0,4.9,Activo
+1184,Candela Sánchez,4.0,15.0,-2.0,2.0,6.0,39.0,Gimnasio,0,0.88,4.8,0,4.9,Activo
+1185,Delfina Fernández,9.0,13.0,4.0,1.0,3.0,24.0,Gimnasio,0,0.93,6.6,0,4.9,Activo
+1186,Agustín Flores,6.0,12.0,-1.0,0.0,0.0,3.0,Danza,0,1.0,3.6,0,4.9,Activo
+1187,Santiago Díaz,5.0,18.0,5.0,0.0,4.0,8.0,Pilates,0,1.0,4.6,0,4.9,Activo
+1188,Mía Gómez,0.0,13.0,-5.0,0.0,0.0,18.0,Yoga,0,1.0,0.0,1,4.9,Activo
+1189,Paula Suárez,14.0,13.0,4.0,0.0,5.0,12.0,Danza,0,1.0,10.4,0,4.9,Activo
+1190,Paula Molina,50.0,2.0,-6.0,6.0,14.0,30.0,Gimnasio,0,0.25,35.6,1,66.1,En Riesgo
+1191,Agustín Morales,0.0,15.0,0.0,3.0,5.0,5.0,Gimnasio,0,0.83,2.0,0,4.9,Activo
+1192,Catalina González,13.0,12.0,-1.0,4.0,5.0,2.0,Gimnasio,0,0.75,9.8,0,4.9,Activo
+1193,Facundo Rojas,40.0,0.0,-11.0,3.0,20.0,15.0,Boxeo,1,0.0,32.0,1,66.1,En Riesgo
+1194,Benjamín López,11.0,12.0,4.0,3.0,5.0,1.0,Boxeo,0,0.8,8.6,0,4.9,Activo
+1195,Benjamín González,10.0,16.0,4.0,1.0,9.0,3.0,Pilates,0,0.94,9.6,0,4.9,Activo
+1196,Ezequiel Rojas,8.0,15.0,-2.0,0.0,0.0,8.0,Yoga,0,1.0,4.8,0,4.9,Activo
+1197,Rocío Ortiz,11.0,12.0,-3.0,1.0,5.0,9.0,Danza,1,0.92,8.6,0,4.9,Activo
+1198,Facundo González,3.0,12.0,1.0,0.0,6.0,2.0,Boxeo,1,1.0,4.2,0,4.9,Activo
+1199,Tomás Cabrera,0.0,13.0,0.0,0.0,1.0,1.0,Gimnasio,0,1.0,0.4,0,4.9,Activo
+1200,Rocío Fernández,13.0,13.0,0.0,2.0,9.0,10.0,Pilates,0,0.87,11.4,0,4.9,Activo
+1201,Abril Fernández,2.0,12.0,-1.0,2.0,6.0,11.0,Pilates,0,0.86,3.6,0,4.9,Activo
+1202,Mía Aguirre,11.0,12.0,-5.0,0.0,0.0,10.0,Gimnasio,0,1.0,6.6,1,4.9,Activo
+1203,Milagros Cabrera,2.0,12.0,0.0,0.0,7.0,4.0,Pilates,0,1.0,4.0,0,4.9,Activo
+1204,Bautista Ríos,8.0,12.0,-1.0,2.0,4.0,9.0,Danza,0,0.86,6.4,0,4.9,Activo
+1205,Bautista Rodríguez,69.0,12.0,-17.0,1.0,29.0,6.0,Danza,1,0.92,53.0,1,80.0,En Riesgo
+1206,Martina López,46.0,0.0,-18.0,6.0,28.0,3.0,Gimnasio,1,0.0,38.8,1,66.1,En Riesgo
+1207,Brisa Pérez,2.0,16.0,-5.0,0.0,5.0,6.0,Gimnasio,0,1.0,3.2,1,4.9,Activo
+1208,Agustín Benítez,1.0,13.0,2.0,1.0,9.0,4.0,Boxeo,0,0.93,4.2,0,4.9,Activo
+1209,Milagros Castro,30.0,6.0,-3.0,1.0,8.0,4.0,Gimnasio,1,0.86,21.2,0,100.0,En Riesgo
+1210,Benjamín Silva,15.0,10.0,2.0,2.0,11.0,9.0,Gimnasio,0,0.83,13.4,0,4.9,Activo
+1211,Antonella Martínez,2.0,15.0,1.0,0.0,3.0,9.0,Boxeo,0,1.0,2.4,0,4.9,Activo
+1212,Juan Cruz Rodríguez,40.0,3.0,-9.0,2.0,12.0,2.0,Gimnasio,1,0.6,28.8,1,100.0,En Riesgo
+1213,Paula Rodríguez,58.0,0.0,-10.0,6.0,20.0,24.0,Gimnasio,0,0.0,42.8,1,66.1,En Riesgo
+1214,Ezequiel Núñez,39.0,0.0,-6.0,6.0,35.0,31.0,Gimnasio,1,0.0,37.4,1,66.1,En Riesgo
+1215,Lucas Morales,11.0,0.0,-18.0,5.0,11.0,15.0,Pilates,1,0.0,11.0,1,80.0,En Riesgo
+1216,Valentina López,3.0,12.0,-3.0,0.0,5.0,5.0,Yoga,0,1.0,3.8,0,4.9,Activo
+1217,Nicolás Gómez,16.0,4.0,-17.0,3.0,14.0,57.0,Boxeo,1,0.57,15.2,1,100.0,En Riesgo
+1218,Benjamín Fernández,55.0,0.0,-17.0,7.0,15.0,11.0,Pilates,1,0.0,39.0,1,100.0,En Riesgo
+1219,Lautaro Ortiz,3.0,14.0,3.0,2.0,6.0,10.0,Pilates,0,0.88,4.2,0,4.9,Activo
+1220,Lucía Acosta,5.0,11.0,-4.0,4.0,9.0,37.0,Gimnasio,0,0.73,6.6,0,4.9,Activo
+1221,Nicolás Rodríguez,6.0,16.0,4.0,2.0,0.0,6.0,Gimnasio,0,0.89,3.6,0,4.9,Activo
+1222,Delfina Benítez,12.0,12.0,-5.0,0.0,9.0,37.0,Pilates,0,1.0,10.8,1,4.9,Activo
+1223,Nicolás Godoy,15.0,12.0,1.0,2.0,11.0,13.0,Gimnasio,0,0.86,13.4,0,4.9,Activo
+1224,Franco Núñez,27.0,12.0,-8.0,7.0,10.0,20.0,Yoga,1,0.63,20.2,1,100.0,En Riesgo
+1225,Victoria Pérez,4.0,14.0,0.0,1.0,5.0,9.0,Danza,0,0.93,4.4,0,4.9,Activo
+1226,Benjamín Giménez,15.0,7.0,-3.0,1.0,9.0,6.0,Boxeo,0,0.88,12.6,0,4.9,Activo
+1227,Nicolás Acosta,11.0,11.0,-5.0,0.0,9.0,5.0,Yoga,0,1.0,10.2,1,4.9,Activo
+1228,Franco Morales,43.0,1.0,-4.0,1.0,20.0,1.0,Pilates,1,0.5,33.8,0,66.1,En Riesgo
+1229,Abril Godoy,13.0,12.0,5.0,1.0,4.0,41.0,Gimnasio,0,0.92,9.4,0,4.9,Activo
+1230,Gonzalo Ruiz,49.0,0.0,-18.0,7.0,33.0,3.0,Boxeo,1,0.0,42.6,1,100.0,En Riesgo
+1231,Ramiro Ramírez,11.0,15.0,4.0,0.0,8.0,18.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+1232,Santiago Acosta,13.0,15.0,0.0,0.0,2.0,17.0,Pilates,0,1.0,8.6,0,4.9,Activo
+1233,Nicolás Fernández,10.0,15.0,2.0,1.0,7.0,15.0,Boxeo,0,0.94,8.8,0,4.9,Activo
+1234,Martina Fernández,20.0,5.0,-12.0,2.0,15.0,5.0,Gimnasio,0,0.71,18.0,1,100.0,En Riesgo
+1235,Catalina Ramírez,5.0,12.0,-2.0,3.0,4.0,13.0,Yoga,0,0.8,4.6,0,4.9,Activo
+1236,Juan Cruz Juárez,7.0,16.0,2.0,2.0,1.0,11.0,Gimnasio,0,0.89,4.6,0,4.9,Activo
+1237,Brisa Ruiz,7.0,11.0,-4.0,2.0,10.0,9.0,Gimnasio,0,0.85,8.2,0,4.9,Activo
+1238,Candela Aguirre,11.0,11.0,-5.0,1.0,1.0,24.0,Gimnasio,0,0.92,7.0,1,4.9,Activo
+1239,Lautaro Rodríguez,2.0,13.0,-4.0,3.0,7.0,3.0,Gimnasio,0,0.81,4.0,0,4.9,Activo
+1240,Lucas Aguirre,47.0,0.0,-6.0,4.0,22.0,27.0,Gimnasio,0,0.0,37.0,1,66.1,En Riesgo
+1241,Valentina Pérez,5.0,14.0,-4.0,2.0,0.0,9.0,Gimnasio,0,0.88,3.0,0,4.9,Activo
+1242,Florencia Romero,4.0,13.0,1.0,3.0,3.0,1.0,Yoga,0,0.81,3.6,0,4.9,Activo
+1243,Florencia Juárez,14.0,9.0,-2.0,0.0,1.0,38.0,Pilates,0,1.0,8.8,0,4.9,Activo
+1244,Agustín Pereyra,17.0,6.0,-13.0,1.0,24.0,6.0,Danza,1,0.86,19.8,1,100.0,En Riesgo
+1245,Gonzalo Godoy,2.0,13.0,-3.0,0.0,5.0,45.0,Gimnasio,0,1.0,3.2,0,4.9,Activo
+1246,Emilia Sánchez,4.0,14.0,-5.0,1.0,7.0,43.0,Gimnasio,0,0.93,5.2,1,4.9,Activo
+1247,Lautaro López,0.0,16.0,0.0,0.0,4.0,21.0,Yoga,0,1.0,1.6,0,4.9,Activo
+1248,Tomás Benítez,11.0,12.0,-2.0,3.0,6.0,39.0,Danza,0,0.8,9.0,0,4.9,Activo
+1249,Lautaro Pérez,72.0,0.0,-14.0,3.0,38.0,61.0,Pilates,1,0.0,58.4,1,100.0,En Riesgo
+1250,Franco Fernández,15.0,10.0,-3.0,3.0,1.0,3.0,Yoga,0,0.77,9.4,0,4.9,Activo
+1251,Tomás Sosa,11.0,0.0,-18.0,5.0,21.0,31.0,Yoga,1,0.0,15.0,1,80.0,En Riesgo
+1252,Camila Juárez,10.0,11.0,0.0,4.0,10.0,2.0,Gimnasio,0,0.73,10.0,0,4.9,Activo
+1253,Mateo Acosta,14.0,11.0,-1.0,3.0,3.0,5.0,Boxeo,0,0.79,9.6,0,4.9,Activo
+1254,Catalina Sánchez,1.0,16.0,-1.0,2.0,10.0,1.0,Boxeo,0,0.89,4.6,0,4.9,Activo
+1255,Valentina Núñez,19.0,5.0,-5.0,6.0,19.0,3.0,Danza,0,0.45,19.0,1,100.0,En Riesgo
+1256,Julieta Cabrera,14.0,9.0,-3.0,1.0,6.0,9.0,Gimnasio,1,0.9,10.8,0,4.9,Activo
+1257,Abril Cabrera,8.0,13.0,-5.0,0.0,2.0,27.0,Boxeo,0,1.0,5.6,1,4.9,Activo
+1258,Benjamín Godoy,56.0,0.0,-16.0,6.0,32.0,15.0,Pilates,1,0.0,46.4,1,66.1,En Riesgo
+1259,Nicolás Godoy,15.0,12.0,1.0,4.0,5.0,1.0,Danza,0,0.75,11.0,0,4.9,Activo
+1260,Lautaro Benítez,50.0,0.0,-11.0,3.0,39.0,17.0,Pilates,1,0.0,45.6,1,66.1,En Riesgo
+1261,Joaquín Aguirre,66.0,1.0,-3.0,3.0,17.0,20.0,Gimnasio,1,0.25,46.4,0,100.0,En Riesgo
+1262,Lara Molina,8.0,12.0,-5.0,1.0,9.0,6.0,Yoga,0,0.92,8.4,1,4.9,Activo
+1263,Mía Sosa,38.0,0.0,-12.0,4.0,29.0,6.0,Gimnasio,1,0.0,34.4,1,66.1,En Riesgo
+1264,Rocío Medina,7.0,14.0,2.0,1.0,7.0,5.0,Danza,0,0.93,7.0,0,4.9,Activo
+1265,Julián Luna,15.0,13.0,-1.0,1.0,2.0,7.0,Danza,0,0.93,9.8,0,4.9,Activo
+1266,Candela Acosta,42.0,0.0,-14.0,2.0,35.0,6.0,Pilates,1,0.0,39.2,1,66.1,En Riesgo
+1267,Mía Gutiérrez,35.0,0.0,-9.0,6.0,42.0,7.0,Pilates,1,0.0,37.8,1,100.0,En Riesgo
+1268,Lucas Flores,8.0,13.0,-5.0,1.0,2.0,11.0,Yoga,0,0.93,5.6,1,4.9,Activo
+1269,Delfina Castro,33.0,0.0,-15.0,5.0,33.0,20.0,Gimnasio,1,0.0,33.0,1,66.1,En Riesgo
+1270,Victoria Romero,70.0,0.0,-13.0,3.0,16.0,4.0,Danza,1,0.0,48.4,1,100.0,En Riesgo
+1271,Bautista Romero,9.0,12.0,2.0,0.0,4.0,1.0,Boxeo,0,1.0,7.0,0,4.9,Activo
+1272,Mateo Suárez,6.0,17.0,2.0,0.0,0.0,4.0,Danza,0,1.0,3.6,0,4.9,Activo
+1273,Camila Núñez,9.0,19.0,5.0,0.0,8.0,21.0,Gimnasio,0,1.0,8.6,0,4.9,Activo
+1274,Lucas Aguirre,11.0,11.0,-5.0,2.0,10.0,4.0,Boxeo,0,0.85,10.6,1,4.9,Activo
+1275,Julián Castro,6.0,15.0,-1.0,0.0,5.0,14.0,Danza,0,1.0,5.6,0,4.9,Activo
+1276,Paula López,11.0,11.0,0.0,1.0,2.0,8.0,Gimnasio,0,0.92,7.4,0,4.9,Activo
+1277,Brisa Ramírez,9.0,15.0,1.0,0.0,8.0,32.0,Gimnasio,0,1.0,8.6,0,4.9,Activo
+1278,Mateo Godoy,4.0,12.0,-1.0,0.0,0.0,1.0,Yoga,0,1.0,2.4,0,4.9,Activo
+1279,Florencia Flores,14.0,12.0,-5.0,0.0,2.0,1.0,Gimnasio,0,1.0,9.2,1,4.9,Activo
+1280,Milagros Fernández,2.0,18.0,0.0,0.0,4.0,34.0,Yoga,0,1.0,2.8,0,4.9,Activo
+1281,Lautaro Giménez,38.0,0.0,-17.0,6.0,23.0,23.0,Gimnasio,1,0.0,32.0,1,66.1,En Riesgo
+1282,Sofía Ferreyra,23.0,3.0,-12.0,3.0,18.0,16.0,Gimnasio,0,0.5,21.0,1,100.0,En Riesgo
+1283,Ramiro Suárez,4.0,13.0,2.0,2.0,5.0,6.0,Danza,0,0.87,4.4,0,4.9,Activo
+1284,Mía Herrera,57.0,0.0,-10.0,4.0,32.0,25.0,Gimnasio,1,0.0,47.0,1,66.1,En Riesgo
+1285,Matías Torres,10.0,9.0,0.0,1.0,3.0,3.0,Gimnasio,0,0.9,7.2,0,4.9,Activo
+1286,Leandro Pérez,3.0,16.0,3.0,2.0,6.0,17.0,Boxeo,0,0.89,4.2,0,4.9,Activo
+1287,Rocío Herrera,15.0,14.0,-2.0,3.0,0.0,8.0,Yoga,0,0.82,9.0,0,4.9,Activo
+1288,Milagros López,4.0,17.0,4.0,0.0,2.0,11.0,Yoga,0,1.0,3.2,0,4.9,Activo
+1289,Facundo Torres,12.0,13.0,0.0,4.0,11.0,38.0,Boxeo,0,0.76,11.6,0,4.9,Activo
+1290,Juan Cruz Silva,11.0,0.0,-10.0,4.0,22.0,1.0,Gimnasio,1,0.0,15.4,1,80.0,En Riesgo
+1291,Mía Medina,13.0,13.0,5.0,0.0,0.0,1.0,Gimnasio,0,1.0,7.8,0,4.9,Activo
+1292,Rocío Díaz,43.0,0.0,-9.0,3.0,35.0,48.0,Gimnasio,1,0.0,39.8,1,66.1,En Riesgo
+1293,Facundo Cabrera,0.0,13.0,-4.0,0.0,7.0,8.0,Pilates,0,1.0,2.8,0,4.9,Activo
+1294,Emilia Pereyra,1.0,12.0,-5.0,0.0,9.0,10.0,Pilates,0,1.0,4.2,1,4.9,Activo
+1295,Ramiro Díaz,23.0,2.0,-11.0,6.0,31.0,38.0,Danza,1,0.25,26.2,1,100.0,En Riesgo
+1296,Brisa Herrera,11.0,0.0,-15.0,3.0,30.0,16.0,Danza,0,0.0,18.6,1,80.0,En Riesgo
+1297,Matías Benítez,50.0,0.0,-9.0,3.0,8.0,3.0,Gimnasio,1,0.0,33.2,1,66.1,En Riesgo
+1298,Franco Martínez,14.0,10.0,-2.0,2.0,8.0,42.0,Pilates,0,0.83,11.6,0,4.9,Activo
+1299,Julieta Ramírez,1.0,13.0,-1.0,1.0,11.0,24.0,Pilates,0,0.93,5.0,0,4.9,Activo
+1300,Agustín Núñez,0.0,15.0,-3.0,0.0,10.0,23.0,Gimnasio,0,1.0,4.0,0,4.9,Activo
+1301,Agustín Benítez,26.0,2.0,-12.0,5.0,25.0,1.0,Gimnasio,1,0.29,25.6,1,100.0,En Riesgo
+1302,Julián Luna,11.0,9.0,-4.0,3.0,1.0,6.0,Danza,0,0.75,7.0,0,4.9,Activo
+1303,Delfina Gutiérrez,5.0,15.0,1.0,0.0,2.0,1.0,Gimnasio,0,1.0,3.8,0,4.9,Activo
+1304,Lautaro Domínguez,60.0,0.0,-14.0,4.0,22.0,3.0,Yoga,1,0.0,44.8,1,66.1,En Riesgo
+1305,Nicolás Flores,3.0,12.0,1.0,0.0,0.0,29.0,Pilates,0,1.0,1.8,0,4.9,Activo
+1306,Florencia Fernández,34.0,1.0,-9.0,4.0,24.0,10.0,Gimnasio,1,0.2,30.0,1,100.0,En Riesgo
+1307,Tomás Domínguez,8.0,14.0,-3.0,1.0,2.0,1.0,Gimnasio,0,0.93,5.6,0,4.9,Activo
+1308,Nicolás Aguirre,28.0,4.0,-7.0,6.0,11.0,22.0,Gimnasio,1,0.4,21.2,1,100.0,En Riesgo
+1309,Juan Cruz Suárez,52.0,0.0,-10.0,6.0,8.0,6.0,Danza,0,0.0,34.4,1,66.1,En Riesgo
+1310,Leandro Ortiz,0.0,19.0,2.0,3.0,3.0,1.0,Gimnasio,0,0.86,1.2,0,4.9,Activo
+1311,Tomás Ruiz,25.0,6.0,-7.0,1.0,18.0,20.0,Gimnasio,1,0.86,22.2,1,100.0,En Riesgo
+1312,Antonella Juárez,9.0,16.0,2.0,3.0,6.0,26.0,Yoga,0,0.84,7.8,0,4.9,Activo
+1313,Mateo Benítez,3.0,13.0,-5.0,3.0,3.0,22.0,Yoga,0,0.81,3.0,1,4.9,Activo
+1314,Joaquín Pérez,0.0,15.0,1.0,2.0,11.0,2.0,Danza,0,0.88,4.4,0,4.9,Activo
+1315,Gonzalo Pérez,9.0,12.0,-5.0,0.0,0.0,5.0,Pilates,1,1.0,5.4,1,4.9,Activo
+1316,Brisa Cabrera,10.0,14.0,1.0,0.0,11.0,9.0,Pilates,0,1.0,10.4,0,4.9,Activo
+1317,Florencia Ramírez,5.0,13.0,1.0,1.0,10.0,22.0,Danza,0,0.93,7.0,0,4.9,Activo
+1318,Sofía Luna,70.0,0.0,-6.0,1.0,40.0,13.0,Pilates,1,0.0,58.0,1,100.0,En Riesgo
+1319,Santiago Domínguez,7.0,17.0,3.0,0.0,11.0,1.0,Gimnasio,0,1.0,8.6,0,4.9,Activo
+1320,Valentina Sosa,11.0,12.0,-3.0,2.0,8.0,17.0,Gimnasio,0,0.86,9.8,0,4.9,Activo
+1321,Gonzalo Ferreyra,20.0,12.0,-4.0,5.0,36.0,2.0,Gimnasio,1,0.71,26.4,0,100.0,En Riesgo
+1322,Paula López,23.0,3.0,-11.0,5.0,16.0,5.0,Gimnasio,1,0.38,20.2,1,100.0,En Riesgo
+1323,Tomás López,11.0,12.0,-4.0,4.0,37.0,1.0,Yoga,0,0.75,21.4,0,80.0,En Riesgo
+1324,Lautaro Medina,25.0,2.0,-7.0,2.0,26.0,49.0,Yoga,1,0.5,25.4,1,100.0,En Riesgo
+1325,Mía Morales,26.0,0.0,-18.0,7.0,22.0,14.0,Gimnasio,1,0.0,24.4,1,100.0,En Riesgo
+1326,Santiago Álvarez,19.0,3.0,-5.0,5.0,37.0,10.0,Yoga,1,0.38,26.2,1,100.0,En Riesgo
+1327,Lautaro Benítez,4.0,15.0,0.0,0.0,7.0,3.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+1328,Agustín Herrera,46.0,0.0,-6.0,5.0,42.0,2.0,Boxeo,1,0.0,44.4,1,100.0,En Riesgo
+1329,Abril Suárez,9.0,14.0,4.0,3.0,9.0,13.0,Gimnasio,0,0.82,9.0,0,4.9,Activo
+1330,Nicolás Sosa,15.0,13.0,0.0,0.0,3.0,3.0,Gimnasio,1,1.0,10.2,0,4.9,Activo
+1331,Lucía Ríos,4.0,15.0,2.0,0.0,7.0,4.0,Pilates,0,1.0,5.2,0,4.9,Activo
+1332,Lautaro Torres,13.0,12.0,0.0,0.0,10.0,3.0,Danza,0,1.0,11.8,0,4.9,Activo
+1333,Juan Cruz López,5.0,14.0,3.0,1.0,4.0,40.0,Danza,0,0.93,4.6,0,4.9,Activo
+1334,Florencia Fernández,54.0,0.0,-14.0,2.0,29.0,17.0,Gimnasio,1,0.0,44.0,1,66.1,En Riesgo
+1335,Santiago López,5.0,12.0,4.0,1.0,11.0,11.0,Gimnasio,0,0.92,7.4,0,4.9,Activo
+1336,Julieta Ferreyra,15.0,14.0,2.0,1.0,7.0,12.0,Danza,0,0.93,11.8,0,4.9,Activo
+1337,Valentina Juárez,0.0,14.0,-2.0,0.0,11.0,14.0,Gimnasio,0,1.0,4.4,0,4.9,Activo
+1338,Juan Cruz Flores,14.0,12.0,2.0,1.0,8.0,20.0,Gimnasio,0,0.92,11.6,0,4.9,Activo
+1339,Camila Herrera,8.0,12.0,-3.0,0.0,6.0,8.0,Boxeo,0,1.0,7.2,0,4.9,Activo
+1340,Gonzalo Giménez,56.0,0.0,-18.0,3.0,16.0,4.0,Pilates,1,0.0,40.0,1,66.1,En Riesgo
+1341,Florencia Acosta,7.0,16.0,0.0,0.0,8.0,5.0,Gimnasio,0,1.0,7.4,0,4.9,Activo
+1342,Ramiro Álvarez,0.0,12.0,4.0,0.0,10.0,4.0,Yoga,0,1.0,4.0,0,4.9,Activo
+1343,Brisa Morales,4.0,14.0,-2.0,0.0,1.0,36.0,Yoga,0,1.0,2.8,0,4.9,Activo
+1344,Delfina Álvarez,6.0,12.0,-2.0,0.0,7.0,25.0,Pilates,0,1.0,6.4,0,4.9,Activo
+1345,Florencia Álvarez,4.0,13.0,3.0,0.0,6.0,5.0,Gimnasio,0,1.0,4.8,0,4.9,Activo
+1346,Santiago Fernández,8.0,12.0,-4.0,2.0,11.0,5.0,Pilates,0,0.86,9.2,0,4.9,Activo
+1347,Mateo Gutiérrez,0.0,11.0,-5.0,1.0,6.0,10.0,Boxeo,0,0.92,2.4,1,4.9,Activo
+1348,Facundo Ferreyra,13.0,12.0,5.0,2.0,7.0,35.0,Boxeo,0,0.86,10.6,0,4.9,Activo
+1349,Paula Rojas,71.0,0.0,-6.0,2.0,19.0,44.0,Pilates,1,0.0,50.2,1,100.0,En Riesgo
+1350,Camila López,23.0,0.0,-15.0,4.0,43.0,6.0,Danza,1,0.0,31.0,1,100.0,En Riesgo
+1351,Rocío Pérez,5.0,13.0,0.0,1.0,9.0,4.0,Yoga,0,0.93,6.6,0,4.9,Activo
+1352,Candela González,43.0,5.0,-3.0,3.0,21.0,11.0,Gimnasio,1,0.62,34.2,0,66.1,En Riesgo
+1353,Victoria Pérez,6.0,15.0,4.0,1.0,0.0,30.0,Gimnasio,0,0.94,3.6,0,4.9,Activo
+1354,Julieta Martínez,9.0,13.0,-4.0,0.0,5.0,1.0,Gimnasio,0,1.0,7.4,0,4.9,Activo
+1355,Ramiro González,37.0,0.0,-15.0,4.0,8.0,7.0,Gimnasio,0,0.0,25.4,1,100.0,En Riesgo
+1356,Santiago Rodríguez,2.0,12.0,-2.0,1.0,2.0,13.0,Gimnasio,1,0.92,2.0,0,4.9,Activo
+1357,Agustín Díaz,11.0,13.0,-5.0,0.0,9.0,17.0,Danza,0,1.0,10.2,1,4.9,Activo
+1358,Antonella Martínez,44.0,4.0,-4.0,2.0,31.0,14.0,Gimnasio,1,0.67,38.8,0,66.1,En Riesgo
+1359,Gonzalo Ferreyra,42.0,0.0,-16.0,6.0,44.0,8.0,Gimnasio,1,0.0,42.8,1,100.0,En Riesgo
+1360,Bautista López,35.0,2.0,-5.0,3.0,28.0,6.0,Pilates,1,0.4,32.2,1,66.1,En Riesgo
+1361,Tomás Ríos,5.0,14.0,2.0,0.0,4.0,44.0,Gimnasio,0,1.0,4.6,0,4.9,Activo
+1362,Sofía Sánchez,0.0,12.0,-5.0,1.0,2.0,1.0,Danza,0,0.92,0.8,1,4.9,Activo
+1363,Ignacio Benítez,15.0,14.0,-2.0,0.0,4.0,4.0,Boxeo,0,1.0,10.6,0,4.9,Activo
+1364,Tomás Giménez,3.0,14.0,-4.0,2.0,8.0,14.0,Boxeo,0,0.88,5.0,0,4.9,Activo
+1365,Delfina Juárez,15.0,14.0,3.0,0.0,11.0,11.0,Yoga,0,1.0,13.4,0,4.9,Activo
+1366,Lucía Godoy,10.0,11.0,3.0,3.0,0.0,15.0,Yoga,0,0.79,6.0,0,4.9,Activo
+1367,Mateo Castro,5.0,13.0,-2.0,0.0,3.0,7.0,Gimnasio,0,1.0,4.2,0,4.9,Activo
+1368,Matías Fernández,15.0,11.0,2.0,0.0,10.0,7.0,Pilates,0,1.0,13.0,0,4.9,Activo
+1369,Joaquín Díaz,2.0,14.0,0.0,1.0,8.0,4.0,Boxeo,0,0.93,4.4,0,4.9,Activo
+1370,Juan Cruz Aguirre,14.0,14.0,0.0,0.0,5.0,55.0,Gimnasio,0,1.0,10.4,0,4.9,Activo
+1371,Nicolás Flores,13.0,11.0,1.0,0.0,5.0,2.0,Boxeo,0,1.0,9.8,0,4.9,Activo
+1372,Matías Domínguez,3.0,13.0,-5.0,1.0,9.0,9.0,Gimnasio,0,0.93,5.4,1,4.9,Activo
+1373,Benjamín Suárez,7.0,20.0,5.0,0.0,0.0,17.0,Yoga,0,1.0,4.2,0,4.9,Activo
+1374,Gonzalo Álvarez,56.0,0.0,-15.0,5.0,13.0,11.0,Pilates,1,0.0,38.8,1,66.1,En Riesgo
+1375,Paula Castro,52.0,0.0,-13.0,3.0,31.0,9.0,Pilates,0,0.0,43.6,1,66.1,En Riesgo
+1376,Julián Gómez,13.0,15.0,-1.0,1.0,3.0,31.0,Yoga,0,0.94,9.0,0,4.9,Activo
+1377,Ramiro Gómez,37.0,0.0,-12.0,4.0,37.0,22.0,Gimnasio,0,0.0,37.0,1,66.1,En Riesgo
+1378,Nicolás Rojas,11.0,15.0,5.0,1.0,4.0,22.0,Gimnasio,0,0.94,8.2,0,4.9,Activo
+1379,Santiago Fernández,0.0,14.0,3.0,3.0,7.0,7.0,Gimnasio,0,0.82,2.8,0,4.9,Activo
+1380,Lara Ruiz,46.0,1.0,-3.0,2.0,36.0,8.0,Gimnasio,1,0.33,42.0,0,66.1,En Riesgo
+1381,Brisa Cabrera,11.0,15.0,-2.0,0.0,11.0,1.0,Boxeo,0,1.0,11.0,0,4.9,Activo
+1382,Benjamín Gómez,1.0,12.0,-3.0,1.0,7.0,4.0,Gimnasio,0,0.92,3.4,0,4.9,Activo
+1383,Lucía González,10.0,12.0,-3.0,3.0,5.0,9.0,Gimnasio,0,0.8,8.0,0,4.9,Activo
+1384,Mateo Gómez,0.0,12.0,-4.0,2.0,4.0,7.0,Pilates,0,0.86,1.6,0,4.9,Activo
+1385,Lucas Martínez,10.0,14.0,-1.0,0.0,11.0,21.0,Pilates,0,1.0,10.4,0,4.9,Activo
+1386,Julieta Díaz,13.0,15.0,4.0,0.0,7.0,1.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+1387,Brisa Sosa,9.0,11.0,-2.0,0.0,11.0,26.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+1388,Brisa Rojas,4.0,15.0,0.0,0.0,2.0,6.0,Yoga,0,1.0,3.2,0,4.9,Activo
+1389,Ramiro Godoy,2.0,13.0,0.0,1.0,10.0,32.0,Gimnasio,0,0.93,5.2,0,4.9,Activo
+1390,Nicolás Álvarez,0.0,15.0,4.0,0.0,11.0,13.0,Yoga,0,1.0,4.4,0,4.9,Activo
+1391,Catalina Rojas,14.0,14.0,-3.0,0.0,7.0,22.0,Gimnasio,0,1.0,11.2,0,4.9,Activo
+1392,Julián Romero,10.0,16.0,-1.0,0.0,3.0,14.0,Pilates,0,1.0,7.2,0,4.9,Activo
+1393,Candela Ríos,8.0,13.0,-5.0,0.0,3.0,50.0,Pilates,0,1.0,6.0,1,4.9,Activo
+1394,Victoria Martínez,14.0,12.0,1.0,0.0,10.0,21.0,Gimnasio,0,1.0,12.4,0,4.9,Activo
+1395,Joaquín Moreno,9.0,13.0,-3.0,1.0,3.0,12.0,Pilates,0,0.93,6.6,0,4.9,Activo
+1396,Nicolás Medina,5.0,16.0,-3.0,0.0,8.0,7.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+1397,Ezequiel Núñez,11.0,12.0,0.0,0.0,9.0,29.0,Yoga,0,1.0,10.2,0,4.9,Activo
+1398,Catalina Luna,2.0,12.0,5.0,1.0,4.0,1.0,Gimnasio,0,0.92,2.8,0,4.9,Activo
+1399,Ramiro Álvarez,4.0,12.0,5.0,1.0,7.0,2.0,Pilates,0,0.92,5.2,0,4.9,Activo
+1400,Mía Herrera,11.0,11.0,-3.0,0.0,7.0,12.0,Pilates,0,1.0,9.4,0,4.9,Activo
+1401,Lautaro Juárez,8.0,16.0,4.0,1.0,11.0,4.0,Gimnasio,0,0.94,9.2,0,4.9,Activo
+1402,Ezequiel Ferreyra,51.0,0.0,-8.0,4.0,39.0,6.0,Boxeo,0,0.0,46.2,1,66.1,En Riesgo
+1403,Benjamín Godoy,10.0,17.0,2.0,0.0,5.0,6.0,Yoga,0,1.0,8.0,0,4.9,Activo
+1404,Florencia Cabrera,1.0,15.0,0.0,0.0,6.0,8.0,Yoga,0,1.0,3.0,0,4.9,Activo
+1405,Florencia Medina,69.0,0.0,-11.0,1.0,34.0,7.0,Pilates,1,0.0,55.0,1,100.0,En Riesgo
+1406,Julieta Núñez,3.0,15.0,-3.0,0.0,8.0,42.0,Yoga,0,1.0,5.0,0,4.9,Activo
+1407,Antonella Castro,49.0,0.0,-6.0,1.0,27.0,5.0,Gimnasio,1,0.0,40.2,1,66.1,En Riesgo
+1408,Rocío Sánchez,52.0,0.0,-15.0,4.0,11.0,23.0,Yoga,0,0.0,35.6,1,66.1,En Riesgo
+1409,Lara Pérez,8.0,19.0,5.0,0.0,10.0,21.0,Yoga,0,1.0,8.8,0,4.9,Activo
+1410,Ezequiel Rodríguez,11.0,0.0,-17.0,1.0,31.0,6.0,Boxeo,1,0.0,19.0,1,80.0,En Riesgo
+1411,Agustín Moreno,21.0,1.0,-15.0,7.0,10.0,2.0,Danza,1,0.12,16.6,1,100.0,En Riesgo
+1412,Agustín López,38.0,2.0,-5.0,5.0,24.0,14.0,Yoga,1,0.29,32.4,1,66.1,En Riesgo
+1413,Benjamín Aguirre,59.0,0.0,-7.0,4.0,44.0,33.0,Pilates,1,0.0,53.0,1,100.0,En Riesgo
+1414,Ezequiel Acosta,15.0,15.0,3.0,1.0,9.0,5.0,Danza,0,0.94,12.6,0,4.9,Activo
+1415,Catalina Romero,74.0,0.0,-6.0,5.0,29.0,4.0,Danza,1,0.0,56.0,1,100.0,En Riesgo
+1416,Milagros Medina,8.0,15.0,4.0,0.0,11.0,10.0,Boxeo,0,1.0,9.2,0,4.9,Activo
+1417,Mía Molina,5.0,13.0,-5.0,4.0,3.0,8.0,Danza,0,0.76,4.2,1,4.9,Activo
+1418,Abril Domínguez,15.0,12.0,3.0,3.0,0.0,1.0,Gimnasio,0,0.8,9.0,0,4.9,Activo
+1419,Joaquín Morales,14.0,13.0,3.0,2.0,2.0,11.0,Danza,0,0.87,9.2,0,4.9,Activo
+1420,Leandro Sosa,6.0,17.0,-2.0,1.0,0.0,3.0,Pilates,0,0.94,3.6,0,4.9,Activo
+1421,Lautaro Aguirre,13.0,15.0,5.0,0.0,9.0,10.0,Boxeo,0,1.0,11.4,0,4.9,Activo
+1422,Emilia Domínguez,11.0,2.0,-4.0,4.0,38.0,5.0,Pilates,1,0.33,21.8,0,80.0,En Riesgo
+1423,Facundo Moreno,14.0,13.0,-2.0,0.0,0.0,8.0,Pilates,0,1.0,8.4,0,4.9,Activo
+1424,Mía Pereyra,9.0,14.0,-3.0,1.0,0.0,6.0,Boxeo,0,0.93,5.4,0,4.9,Activo
+1425,Victoria Domínguez,11.0,11.0,-4.0,2.0,11.0,4.0,Pilates,0,0.85,11.0,0,4.9,Activo
+1426,Camila Silva,73.0,0.0,-4.0,3.0,25.0,30.0,Gimnasio,1,0.0,53.8,0,100.0,En Riesgo
+1427,Mía Castro,1.0,19.0,2.0,0.0,1.0,5.0,Yoga,0,1.0,1.0,0,4.9,Activo
+1428,Emilia Sánchez,2.0,10.0,-4.0,4.0,9.0,3.0,Gimnasio,0,0.71,4.8,0,4.9,Activo
+1429,Victoria Ortiz,44.0,0.0,-8.0,5.0,20.0,3.0,Pilates,1,0.0,34.4,1,66.1,En Riesgo
+1430,Franco Molina,64.0,0.0,-17.0,4.0,25.0,3.0,Danza,1,0.0,48.4,1,66.1,En Riesgo
+1431,Leandro Domínguez,31.0,0.0,-8.0,5.0,32.0,44.0,Yoga,0,0.0,31.4,1,100.0,En Riesgo
+1432,Franco Ríos,8.0,14.0,-3.0,1.0,1.0,5.0,Gimnasio,0,0.93,5.2,0,4.9,Activo
+1433,Matías Silva,4.0,16.0,4.0,2.0,10.0,6.0,Gimnasio,0,0.89,6.4,0,4.9,Activo
+1434,Agustín Gómez,73.0,0.0,-18.0,7.0,18.0,12.0,Boxeo,1,0.0,51.0,1,100.0,En Riesgo
+1435,Abril Ramírez,12.0,14.0,3.0,3.0,4.0,6.0,Gimnasio,0,0.82,8.8,0,4.9,Activo
+1436,Franco Luna,74.0,0.0,-16.0,5.0,29.0,2.0,Danza,1,0.0,56.0,1,100.0,En Riesgo
+1437,Florencia Cabrera,15.0,15.0,5.0,0.0,2.0,10.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+1438,Santiago Sánchez,11.0,11.0,-4.0,2.0,5.0,18.0,Gimnasio,0,0.85,8.6,0,4.9,Activo
+1439,Abril Gutiérrez,8.0,12.0,-2.0,1.0,9.0,2.0,Yoga,0,0.92,8.4,0,4.9,Activo
+1440,Valentina Cabrera,14.0,12.0,1.0,3.0,3.0,2.0,Gimnasio,0,0.8,9.6,0,4.9,Activo
+1441,Santiago Romero,13.0,11.0,-5.0,2.0,6.0,6.0,Pilates,0,0.85,10.2,1,4.9,Activo
+1442,Facundo Ruiz,1.0,16.0,-2.0,0.0,6.0,41.0,Pilates,0,1.0,3.0,0,4.9,Activo
+1443,Rocío Sánchez,8.0,12.0,-2.0,0.0,7.0,8.0,Yoga,0,1.0,7.6,0,4.9,Activo
+1444,Lucas Romero,15.0,12.0,0.0,0.0,6.0,2.0,Pilates,0,1.0,11.4,0,4.9,Activo
+1445,Catalina González,1.0,15.0,3.0,0.0,3.0,2.0,Pilates,0,1.0,1.8,0,4.9,Activo
+1446,Agustín Flores,51.0,0.0,-5.0,7.0,21.0,15.0,Pilates,1,0.0,39.0,1,100.0,En Riesgo
+1447,Candela Gutiérrez,13.0,17.0,4.0,1.0,4.0,84.0,Danza,0,0.94,9.4,0,4.9,Activo
+1448,Lucas Castro,14.0,13.0,5.0,1.0,11.0,32.0,Danza,0,0.93,12.8,0,4.9,Activo
+1449,Catalina López,1.0,12.0,0.0,0.0,5.0,13.0,Gimnasio,0,1.0,2.6,0,4.9,Activo
+1450,Martina Herrera,11.0,18.0,3.0,3.0,2.0,11.0,Boxeo,0,0.86,7.4,0,4.9,Activo
+1451,Ignacio Castro,9.0,15.0,2.0,1.0,6.0,2.0,Gimnasio,0,0.94,7.8,0,4.9,Activo
+1452,Lautaro Castro,70.0,0.0,-10.0,7.0,8.0,10.0,Boxeo,1,0.0,45.2,1,100.0,En Riesgo
+1453,Abril González,28.0,0.0,-17.0,2.0,33.0,46.0,Gimnasio,1,0.0,30.0,1,100.0,En Riesgo
+1454,Valentina Ruiz,6.0,14.0,2.0,3.0,11.0,36.0,Gimnasio,0,0.82,8.0,0,4.9,Activo
+1455,Milagros Romero,9.0,16.0,5.0,0.0,1.0,26.0,Yoga,0,1.0,5.8,0,4.9,Activo
+1456,Candela Aguirre,13.0,13.0,-4.0,1.0,1.0,9.0,Boxeo,0,0.93,8.2,0,4.9,Activo
+1457,Ezequiel Godoy,65.0,0.0,-15.0,3.0,8.0,3.0,Yoga,1,0.0,42.2,1,100.0,En Riesgo
+1458,Florencia Díaz,12.0,9.0,-5.0,0.0,10.0,10.0,Yoga,1,1.0,11.2,1,4.9,Activo
+1459,Delfina Martínez,12.0,14.0,3.0,0.0,0.0,21.0,Gimnasio,0,1.0,7.2,0,4.9,Activo
+1460,Brisa López,52.0,0.0,-14.0,2.0,17.0,16.0,Gimnasio,1,0.0,38.0,1,66.1,En Riesgo
+1461,Candela Morales,11.0,12.0,1.0,3.0,7.0,1.0,Gimnasio,0,0.8,9.4,0,4.9,Activo
+1462,Leandro Castro,1.0,18.0,0.0,0.0,11.0,2.0,Gimnasio,0,1.0,5.0,0,4.9,Activo
+1463,Julieta Fernández,11.0,0.0,-10.0,3.0,41.0,11.0,Boxeo,1,0.0,23.0,1,80.0,En Riesgo
+1464,Emilia Romero,1.0,16.0,2.0,0.0,4.0,7.0,Pilates,0,1.0,2.2,0,4.9,Activo
+1465,Antonella Castro,2.0,13.0,-2.0,1.0,10.0,3.0,Pilates,1,0.93,5.2,0,4.9,Activo
+1466,Milagros Medina,11.0,0.0,-18.0,3.0,24.0,15.0,Gimnasio,1,0.0,16.2,1,80.0,En Riesgo
+1467,Rocío Moreno,64.0,0.0,-16.0,4.0,29.0,29.0,Pilates,0,0.0,50.0,1,66.1,En Riesgo
+1468,Julián Martínez,12.0,12.0,-3.0,1.0,7.0,35.0,Gimnasio,0,0.92,10.0,0,4.9,Activo
+1469,Lucía Gómez,8.0,14.0,-2.0,3.0,5.0,18.0,Gimnasio,0,0.82,6.8,0,4.9,Activo
+1470,Valentina Fernández,65.0,0.0,-16.0,1.0,35.0,13.0,Danza,1,0.0,53.0,1,100.0,En Riesgo
+1471,Julián Acosta,7.0,12.0,-5.0,0.0,1.0,38.0,Gimnasio,0,1.0,4.6,1,4.9,Activo
+1472,Florencia Fernández,12.0,13.0,3.0,4.0,3.0,17.0,Gimnasio,0,0.76,8.4,0,4.9,Activo
+1473,Mía López,15.0,14.0,-2.0,0.0,8.0,25.0,Pilates,0,1.0,12.2,0,4.9,Activo
+1474,Julieta López,12.0,15.0,4.0,4.0,1.0,30.0,Boxeo,0,0.79,7.6,0,4.9,Activo
+1475,Lara Rodríguez,18.0,0.0,-15.0,6.0,39.0,9.0,Pilates,0,0.0,26.4,1,100.0,En Riesgo
+1476,Florencia Núñez,32.0,0.0,-8.0,5.0,30.0,8.0,Danza,1,0.0,31.2,1,100.0,En Riesgo
+1477,Catalina Álvarez,12.0,15.0,4.0,0.0,10.0,11.0,Boxeo,0,1.0,11.2,0,4.9,Activo
+1478,Sofía Rojas,9.0,15.0,3.0,1.0,10.0,47.0,Gimnasio,0,0.94,9.4,0,4.9,Activo
+1479,Ramiro Silva,2.0,12.0,-2.0,3.0,6.0,3.0,Gimnasio,0,0.8,3.6,0,4.9,Activo
+1480,Lucas Luna,9.0,9.0,-4.0,1.0,1.0,32.0,Yoga,0,0.9,5.8,0,4.9,Activo
+1481,Victoria Giménez,10.0,16.0,5.0,0.0,8.0,25.0,Boxeo,0,1.0,9.2,0,4.9,Activo
+1482,Brisa Cabrera,15.0,13.0,1.0,0.0,0.0,7.0,Pilates,0,1.0,9.0,0,4.9,Activo
+1483,Ezequiel Álvarez,22.0,2.0,-12.0,3.0,12.0,1.0,Gimnasio,0,0.4,18.0,1,100.0,En Riesgo
+1484,Antonella Ramírez,2.0,14.0,-1.0,1.0,8.0,5.0,Gimnasio,0,0.93,4.4,0,4.9,Activo
+1485,Emilia Suárez,5.0,14.0,-2.0,1.0,3.0,22.0,Gimnasio,0,0.93,4.2,0,4.9,Activo
+1486,Nicolás Flores,12.0,12.0,-1.0,1.0,3.0,5.0,Gimnasio,1,0.92,8.4,0,4.9,Activo
+1487,Candela Giménez,12.0,10.0,-5.0,1.0,1.0,12.0,Boxeo,0,0.91,7.6,1,4.9,Activo
+1488,Camila Domínguez,3.0,16.0,1.0,1.0,9.0,8.0,Boxeo,0,0.94,5.4,0,4.9,Activo
+1489,Leandro González,8.0,11.0,-5.0,0.0,2.0,22.0,Gimnasio,0,1.0,5.6,1,4.9,Activo
+1490,Catalina Pereyra,14.0,13.0,0.0,2.0,0.0,1.0,Danza,0,0.87,8.4,0,4.9,Activo
+1491,Joaquín Domínguez,14.0,11.0,-3.0,0.0,0.0,11.0,Danza,0,1.0,8.4,0,4.9,Activo
+1492,Gonzalo Juárez,15.0,18.0,5.0,1.0,3.0,37.0,Yoga,0,0.95,10.2,0,4.9,Activo
+1493,Antonella Ruiz,5.0,13.0,-5.0,0.0,4.0,45.0,Danza,0,1.0,4.6,1,4.9,Activo
+1494,Paula Herrera,60.0,0.0,-5.0,3.0,11.0,15.0,Gimnasio,1,0.0,40.4,1,66.1,En Riesgo
+1495,Gonzalo Flores,12.0,8.0,-3.0,1.0,2.0,24.0,Pilates,0,0.89,8.0,0,4.9,Activo
+1496,Catalina Ramírez,9.0,15.0,-1.0,0.0,3.0,4.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+1497,Milagros Martínez,1.0,16.0,2.0,0.0,10.0,36.0,Yoga,0,1.0,4.6,0,4.9,Activo
+1498,Leandro Romero,11.0,0.0,-16.0,3.0,23.0,10.0,Gimnasio,0,0.0,15.8,1,80.0,En Riesgo
+1499,Mía Ríos,47.0,0.0,-4.0,4.0,28.0,15.0,Pilates,1,0.0,39.4,0,66.1,En Riesgo
+1500,Victoria Rojas,2.0,15.0,0.0,3.0,6.0,8.0,Gimnasio,0,0.83,3.6,0,4.9,Activo
+1501,Abril Gutiérrez,23.0,3.0,-16.0,2.0,17.0,5.0,Pilates,0,0.6,20.6,1,100.0,En Riesgo
+1502,Facundo Ramírez,17.0,7.0,-11.0,1.0,8.0,5.0,Gimnasio,1,0.88,13.4,1,100.0,En Riesgo
+1503,Emilia Sánchez,4.0,13.0,0.0,0.0,0.0,14.0,Yoga,0,1.0,2.4,0,4.9,Activo
+1504,Paula Pereyra,14.0,14.0,3.0,1.0,5.0,3.0,Pilates,0,0.93,10.4,0,4.9,Activo
+1505,Santiago Ferreyra,8.0,16.0,3.0,0.0,2.0,7.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+1506,Tomás Molina,2.0,12.0,4.0,0.0,0.0,15.0,Pilates,0,1.0,1.2,0,4.9,Activo
+1507,Agustín Pérez,3.0,15.0,-2.0,1.0,5.0,41.0,Gimnasio,0,0.94,3.8,0,4.9,Activo
+1508,Agustín Flores,55.0,1.0,-5.0,2.0,12.0,10.0,Yoga,0,0.33,37.8,1,66.1,En Riesgo
+1509,Julieta Sosa,10.0,10.0,-5.0,3.0,1.0,26.0,Pilates,1,0.77,6.4,1,4.9,Activo
+1510,Catalina Medina,64.0,0.0,-9.0,6.0,42.0,50.0,Gimnasio,1,0.0,55.2,1,100.0,En Riesgo
+1511,Ramiro Castro,45.0,1.0,-5.0,1.0,30.0,4.0,Pilates,1,0.5,39.0,1,66.1,En Riesgo
+1512,Catalina Godoy,11.0,13.0,-4.0,0.0,5.0,16.0,Gimnasio,0,1.0,8.6,0,4.9,Activo
+1513,Emilia Herrera,61.0,0.0,-6.0,2.0,28.0,3.0,Gimnasio,1,0.0,47.8,1,66.1,En Riesgo
+1514,Candela Rojas,8.0,15.0,4.0,1.0,6.0,6.0,Pilates,0,0.94,7.2,0,4.9,Activo
+1515,Lucía Gómez,3.0,15.0,-1.0,0.0,3.0,21.0,Gimnasio,0,1.0,3.0,0,4.9,Activo
+1516,Ignacio Martínez,4.0,18.0,4.0,1.0,10.0,37.0,Boxeo,0,0.95,6.4,0,4.9,Activo
+1517,Agustín Cabrera,53.0,0.0,-7.0,6.0,16.0,1.0,Danza,0,0.0,38.2,1,66.1,En Riesgo
+1518,Julián Castro,10.0,12.0,2.0,2.0,6.0,21.0,Gimnasio,0,0.86,8.4,0,4.9,Activo
+1519,Abril Torres,5.0,16.0,-2.0,0.0,0.0,24.0,Gimnasio,0,1.0,3.0,0,4.9,Activo
+1520,Valentina Rodríguez,15.0,10.0,-5.0,0.0,9.0,23.0,Gimnasio,0,1.0,12.6,1,4.9,Activo
+1521,Ramiro Ortiz,46.0,0.0,-6.0,1.0,17.0,10.0,Gimnasio,1,0.0,34.4,1,66.1,En Riesgo
+1522,Matías Giménez,64.0,0.0,-18.0,4.0,20.0,26.0,Gimnasio,1,0.0,46.4,1,66.1,En Riesgo
+1523,Catalina Ríos,62.0,0.0,-7.0,6.0,21.0,23.0,Boxeo,1,0.0,45.6,1,66.1,En Riesgo
+1524,Victoria Herrera,38.0,4.0,-4.0,4.0,17.0,17.0,Yoga,0,0.5,29.6,0,100.0,En Riesgo
+1525,Tomás Ríos,10.0,14.0,-3.0,0.0,4.0,1.0,Gimnasio,0,1.0,7.6,0,4.9,Activo
+1526,Matías Domínguez,12.0,11.0,-4.0,0.0,4.0,11.0,Gimnasio,0,1.0,8.8,0,4.9,Activo
+1527,Paula Núñez,9.0,9.0,-5.0,0.0,0.0,5.0,Gimnasio,0,1.0,5.4,1,4.9,Activo
+1528,Lautaro Ríos,14.0,10.0,-4.0,2.0,5.0,5.0,Pilates,1,0.83,10.4,0,4.9,Activo
+1529,Sofía Ferreyra,58.0,12.0,-5.0,5.0,40.0,1.0,Gimnasio,1,0.71,50.8,1,100.0,En Riesgo
+1530,Paula Medina,61.0,0.0,-16.0,4.0,17.0,2.0,Boxeo,1,0.0,43.4,1,66.1,En Riesgo
+1531,Matías Cabrera,54.0,1.0,-4.0,2.0,31.0,22.0,Gimnasio,0,0.33,44.8,0,66.1,En Riesgo
+1532,Joaquín Pereyra,64.0,0.0,-8.0,7.0,16.0,19.0,Pilates,1,0.0,44.8,1,100.0,En Riesgo
+1533,Ramiro Moreno,7.0,14.0,-3.0,1.0,9.0,2.0,Gimnasio,0,0.93,7.8,0,4.9,Activo
+1534,Abril Cabrera,13.0,13.0,3.0,2.0,11.0,7.0,Yoga,0,0.87,12.2,0,4.9,Activo
+1535,Nicolás Silva,9.0,11.0,-5.0,1.0,5.0,7.0,Yoga,0,0.92,7.4,1,4.9,Activo
+1536,Brisa González,37.0,0.0,-14.0,2.0,35.0,13.0,Gimnasio,0,0.0,36.2,1,66.1,En Riesgo
+1537,Franco Ríos,37.0,1.0,-6.0,6.0,24.0,2.0,Yoga,0,0.14,31.8,1,66.1,En Riesgo
+1538,Facundo Herrera,4.0,17.0,1.0,0.0,8.0,12.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+1539,Delfina Luna,11.0,0.0,-18.0,1.0,25.0,18.0,Pilates,1,0.0,16.6,1,80.0,En Riesgo
+1540,Ramiro González,17.0,6.0,-11.0,2.0,13.0,6.0,Gimnasio,1,0.75,15.4,1,100.0,En Riesgo
+1541,Emilia Flores,11.0,12.0,4.0,0.0,11.0,17.0,Gimnasio,0,1.0,11.0,0,4.9,Activo
+1542,Agustín Morales,10.0,12.0,2.0,0.0,2.0,4.0,Gimnasio,0,1.0,6.8,0,4.9,Activo
+1543,Martina Suárez,1.0,12.0,-2.0,0.0,6.0,2.0,Gimnasio,0,1.0,3.0,0,4.9,Activo
+1544,Rocío Pérez,1.0,19.0,1.0,2.0,0.0,10.0,Gimnasio,0,0.9,0.6,0,4.9,Activo
+1545,Juan Cruz Ruiz,7.0,13.0,-4.0,0.0,4.0,3.0,Pilates,0,1.0,5.8,0,4.9,Activo
+1546,Lara Martínez,23.0,3.0,-12.0,5.0,31.0,1.0,Danza,1,0.38,26.2,1,100.0,En Riesgo
+1547,Ramiro Sosa,46.0,0.0,-15.0,7.0,17.0,19.0,Danza,1,0.0,34.4,1,100.0,En Riesgo
+1548,Martina Domínguez,65.0,0.0,-8.0,2.0,43.0,16.0,Yoga,1,0.0,56.2,1,100.0,En Riesgo
+1549,Matías Ruiz,72.0,0.0,-9.0,5.0,28.0,9.0,Pilates,1,0.0,54.4,1,100.0,En Riesgo
+1550,Lucía Gutiérrez,12.0,12.0,-4.0,1.0,5.0,11.0,Yoga,0,0.92,9.2,0,4.9,Activo
+1551,Abril Molina,33.0,0.0,-10.0,1.0,44.0,1.0,Gimnasio,1,0.0,37.4,1,100.0,En Riesgo
+1552,Delfina Benítez,32.0,12.0,-7.0,5.0,43.0,9.0,Danza,1,0.71,36.4,1,100.0,En Riesgo
+1553,Valentina Godoy,15.0,9.0,-5.0,3.0,12.0,6.0,Boxeo,1,0.75,13.8,1,80.0,En Riesgo
+1554,Mateo Pérez,2.0,18.0,3.0,1.0,11.0,11.0,Gimnasio,0,0.95,5.6,0,4.9,Activo
+1555,Candela Domínguez,40.0,0.0,-16.0,1.0,40.0,7.0,Yoga,1,0.0,40.0,1,100.0,En Riesgo
+1556,Lautaro Ferreyra,10.0,16.0,-1.0,0.0,5.0,6.0,Gimnasio,0,1.0,8.0,0,4.9,Activo
+1557,Lucía Ortiz,8.0,13.0,0.0,0.0,10.0,15.0,Gimnasio,0,1.0,8.8,0,4.9,Activo
+1558,Ignacio Sánchez,9.0,9.0,-3.0,2.0,6.0,26.0,Boxeo,1,0.82,7.8,0,4.9,Activo
+1559,Valentina Martínez,8.0,17.0,5.0,0.0,1.0,3.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+1560,Victoria Sosa,21.0,12.0,-17.0,4.0,35.0,6.0,Gimnasio,1,0.75,26.6,1,100.0,En Riesgo
+1561,Delfina Godoy,5.0,11.0,-1.0,1.0,9.0,17.0,Yoga,0,0.92,6.6,0,4.9,Activo
+1562,Agustín Ortiz,2.0,10.0,-5.0,0.0,8.0,33.0,Gimnasio,0,1.0,4.4,1,4.9,Activo
+1563,Leandro Benítez,4.0,14.0,-3.0,1.0,10.0,3.0,Yoga,0,0.93,6.4,0,4.9,Activo
+1564,Catalina Domínguez,2.0,16.0,-1.0,1.0,9.0,53.0,Yoga,0,0.94,4.8,0,4.9,Activo
+1565,Facundo Sosa,7.0,15.0,1.0,2.0,9.0,36.0,Gimnasio,0,0.88,7.8,0,4.9,Activo
+1566,Leandro Pérez,14.0,15.0,3.0,1.0,7.0,5.0,Pilates,0,0.94,11.2,0,4.9,Activo
+1567,Leandro Ortiz,1.0,16.0,0.0,0.0,3.0,13.0,Pilates,0,1.0,1.8,0,4.9,Activo
+1568,Delfina Ramírez,28.0,0.0,-11.0,6.0,20.0,18.0,Gimnasio,1,0.0,24.8,1,100.0,En Riesgo
+1569,Tomás Silva,11.0,14.0,4.0,2.0,7.0,2.0,Pilates,0,0.88,9.4,0,4.9,Activo
+1570,Victoria Romero,15.0,15.0,4.0,0.0,8.0,4.0,Yoga,0,1.0,12.2,0,4.9,Activo
+1571,Juan Cruz Gómez,7.0,14.0,2.0,2.0,1.0,24.0,Gimnasio,0,0.88,4.6,0,4.9,Activo
+1572,Delfina Silva,35.0,3.0,-3.0,6.0,29.0,25.0,Gimnasio,1,0.33,32.6,0,66.1,En Riesgo
+1573,Matías Molina,13.0,15.0,-1.0,0.0,10.0,7.0,Boxeo,0,1.0,11.8,0,4.9,Activo
+1574,Lucía Molina,8.0,13.0,-2.0,1.0,8.0,15.0,Gimnasio,1,0.93,8.0,0,4.9,Activo
+1575,Rocío Juárez,61.0,0.0,-3.0,5.0,24.0,14.0,Gimnasio,1,0.0,46.2,0,66.1,En Riesgo
+1576,Lucas Godoy,53.0,2.0,-4.0,3.0,25.0,21.0,Yoga,1,0.4,41.8,0,66.1,En Riesgo
+1577,Lautaro Rodríguez,35.0,0.0,-14.0,5.0,25.0,10.0,Pilates,0,0.0,31.0,1,100.0,En Riesgo
+1578,Valentina Sosa,14.0,11.0,0.0,1.0,11.0,5.0,Boxeo,0,0.92,12.8,0,4.9,Activo
+1579,Matías Ortiz,15.0,14.0,0.0,2.0,7.0,3.0,Gimnasio,0,0.88,11.8,0,4.9,Activo
+1580,Victoria Benítez,4.0,18.0,3.0,2.0,6.0,5.0,Gimnasio,0,0.9,4.8,0,4.9,Activo
+1581,Agustín Luna,6.0,15.0,0.0,1.0,0.0,2.0,Gimnasio,0,0.94,3.6,0,4.9,Activo
+1582,Ramiro Godoy,11.0,8.0,-2.0,3.0,2.0,5.0,Gimnasio,0,0.73,7.4,0,4.9,Activo
+1583,Brisa Rojas,4.0,18.0,5.0,0.0,1.0,11.0,Gimnasio,0,1.0,2.8,0,4.9,Activo
+1584,Joaquín Cabrera,4.0,14.0,-4.0,0.0,6.0,10.0,Danza,0,1.0,4.8,0,4.9,Activo
+1585,Santiago Morales,4.0,15.0,-1.0,0.0,3.0,2.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+1586,Joaquín Suárez,28.0,2.0,-9.0,5.0,16.0,16.0,Gimnasio,1,0.29,23.2,1,100.0,En Riesgo
+1587,Agustín Pereyra,51.0,0.0,-11.0,7.0,39.0,6.0,Boxeo,1,0.0,46.2,1,100.0,En Riesgo
+1588,Emilia Godoy,57.0,0.0,-4.0,4.0,30.0,34.0,Boxeo,0,0.0,46.2,0,66.1,En Riesgo
+1589,Rocío Torres,61.0,0.0,-3.0,2.0,38.0,39.0,Gimnasio,1,0.0,51.8,0,66.1,En Riesgo
+1590,Martina Martínez,43.0,2.0,-6.0,3.0,28.0,9.0,Pilates,0,0.4,37.0,1,66.1,En Riesgo
+1591,Matías Sánchez,54.0,0.0,-10.0,5.0,14.0,7.0,Gimnasio,1,0.0,38.0,1,66.1,En Riesgo
+1592,Facundo Acosta,0.0,13.0,-5.0,0.0,11.0,13.0,Gimnasio,0,1.0,4.4,1,4.9,Activo
+1593,Facundo Suárez,10.0,12.0,4.0,0.0,3.0,20.0,Pilates,0,1.0,7.2,0,4.9,Activo
+1594,Rocío Silva,11.0,17.0,2.0,1.0,10.0,34.0,Danza,0,0.94,10.6,0,4.9,Activo
+1595,Ezequiel Herrera,2.0,16.0,3.0,3.0,5.0,14.0,Danza,0,0.84,3.2,0,4.9,Activo
+1596,Joaquín Álvarez,15.0,12.0,-3.0,1.0,11.0,6.0,Danza,1,0.92,13.4,0,4.9,Activo
+1597,Lucía Ruiz,4.0,15.0,5.0,0.0,10.0,25.0,Gimnasio,0,1.0,6.4,0,4.9,Activo
+1598,Lucía Suárez,2.0,15.0,2.0,0.0,8.0,2.0,Yoga,0,1.0,4.4,0,4.9,Activo
+1599,Brisa Núñez,11.0,14.0,4.0,2.0,8.0,6.0,Boxeo,0,0.88,9.8,0,4.9,Activo
+1600,Julieta Acosta,41.0,1.0,-11.0,2.0,10.0,20.0,Yoga,0,0.33,28.6,1,100.0,En Riesgo
+1601,Antonella Suárez,1.0,17.0,2.0,1.0,1.0,58.0,Pilates,0,0.94,1.0,0,4.9,Activo
+1602,Rocío González,15.0,14.0,4.0,0.0,4.0,5.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+1603,Victoria López,9.0,15.0,-1.0,1.0,1.0,19.0,Gimnasio,0,0.94,5.8,0,4.9,Activo
+1604,Brisa Fernández,62.0,0.0,-6.0,2.0,34.0,4.0,Pilates,1,0.0,50.8,1,66.1,En Riesgo
+1605,Valentina Sánchez,12.0,15.0,0.0,1.0,7.0,12.0,Yoga,0,0.94,10.0,0,4.9,Activo
+1606,Facundo Pereyra,0.0,16.0,-2.0,2.0,1.0,13.0,Yoga,0,0.89,0.4,0,4.9,Activo
+1607,Catalina Aguirre,15.0,11.0,-3.0,1.0,11.0,2.0,Danza,0,0.92,13.4,0,4.9,Activo
+1608,Lucía Torres,4.0,18.0,4.0,0.0,0.0,5.0,Boxeo,0,1.0,2.4,0,4.9,Activo
+1609,Agustín Ramírez,9.0,14.0,0.0,3.0,6.0,21.0,Pilates,0,0.82,7.8,0,4.9,Activo
+1610,Lucas López,6.0,17.0,5.0,0.0,4.0,2.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+1611,Lucía Rojas,26.0,10.0,-3.0,2.0,14.0,9.0,Yoga,1,0.83,21.2,0,100.0,En Riesgo
+1612,Candela Pérez,7.0,13.0,2.0,0.0,8.0,11.0,Boxeo,0,1.0,7.4,0,4.9,Activo
+1613,Victoria Acosta,0.0,16.0,-1.0,1.0,1.0,1.0,Pilates,0,0.94,0.4,0,4.9,Activo
+1614,Joaquín Cabrera,5.0,12.0,-5.0,1.0,7.0,15.0,Danza,0,0.92,5.8,1,4.9,Activo
+1615,Agustín Cabrera,7.0,15.0,2.0,3.0,2.0,13.0,Pilates,0,0.83,5.0,0,4.9,Activo
+1616,Florencia Herrera,60.0,0.0,-18.0,5.0,28.0,2.0,Danza,1,0.0,47.2,1,66.1,En Riesgo
+1617,Delfina Pérez,59.0,0.0,-6.0,4.0,33.0,11.0,Gimnasio,0,0.0,48.6,1,66.1,En Riesgo
+1618,Ezequiel Ramírez,68.0,0.0,-6.0,7.0,43.0,85.0,Pilates,1,0.0,58.0,1,100.0,En Riesgo
+1619,Victoria Flores,9.0,17.0,4.0,0.0,4.0,2.0,Danza,0,1.0,7.0,0,4.9,Activo
+1620,Florencia Ferreyra,16.0,7.0,-5.0,2.0,37.0,9.0,Yoga,1,0.78,24.4,1,100.0,En Riesgo
+1621,Nicolás Gómez,10.0,16.0,4.0,0.0,5.0,7.0,Danza,0,1.0,8.0,0,4.9,Activo
+1622,Matías Pérez,9.0,13.0,1.0,3.0,1.0,13.0,Boxeo,0,0.81,5.8,0,4.9,Activo
+1623,Candela Acosta,8.0,16.0,3.0,0.0,8.0,29.0,Pilates,0,1.0,8.0,0,4.9,Activo
+1624,Valentina González,11.0,11.0,-2.0,0.0,6.0,2.0,Boxeo,0,1.0,9.0,0,4.9,Activo
+1625,Catalina Medina,14.0,13.0,0.0,1.0,5.0,15.0,Gimnasio,0,0.93,10.4,0,4.9,Activo
+1626,Brisa Torres,6.0,14.0,-3.0,2.0,8.0,34.0,Gimnasio,0,0.88,6.8,0,4.9,Activo
+1627,Ramiro Benítez,41.0,0.0,-13.0,4.0,15.0,5.0,Gimnasio,1,0.0,30.6,1,100.0,En Riesgo
+1628,Brisa Acosta,28.0,1.0,-10.0,5.0,38.0,26.0,Gimnasio,0,0.17,32.0,1,66.1,En Riesgo
+1629,Agustín Núñez,72.0,0.0,-13.0,2.0,32.0,26.0,Pilates,1,0.0,56.0,1,100.0,En Riesgo
+1630,Leandro Herrera,65.0,0.0,-9.0,6.0,16.0,28.0,Gimnasio,1,0.0,45.4,1,100.0,En Riesgo
+1631,Leandro Álvarez,2.0,12.0,-5.0,0.0,10.0,16.0,Gimnasio,0,1.0,5.2,1,4.9,Activo
+1632,Milagros Núñez,1.0,12.0,5.0,2.0,0.0,9.0,Pilates,0,0.86,0.6,0,4.9,Activo
+1633,Abril Gutiérrez,46.0,0.0,-12.0,3.0,23.0,4.0,Gimnasio,1,0.0,36.8,1,66.1,En Riesgo
+1634,Bautista Luna,7.0,16.0,1.0,0.0,7.0,16.0,Pilates,0,1.0,7.0,0,4.9,Activo
+1635,Mateo Molina,11.0,12.0,-5.0,0.0,2.0,3.0,Boxeo,0,1.0,7.4,1,4.9,Activo
+1636,Leandro Rodríguez,10.0,14.0,-5.0,0.0,8.0,8.0,Danza,0,1.0,9.2,1,4.9,Activo
+1637,Agustín Ferreyra,2.0,18.0,0.0,0.0,2.0,1.0,Boxeo,0,1.0,2.0,0,4.9,Activo
+1638,Delfina Morales,15.0,12.0,2.0,1.0,3.0,7.0,Pilates,0,0.92,10.2,0,4.9,Activo
+1639,Lara Benítez,3.0,10.0,-4.0,0.0,4.0,20.0,Boxeo,0,1.0,3.4,0,4.9,Activo
+1640,Ezequiel Herrera,15.0,12.0,4.0,0.0,7.0,4.0,Pilates,0,1.0,11.8,0,4.9,Activo
+1641,Catalina Ortiz,34.0,0.0,-6.0,5.0,22.0,24.0,Boxeo,1,0.0,29.2,1,100.0,En Riesgo
+1642,Antonella Molina,50.0,0.0,-10.0,6.0,30.0,30.0,Pilates,1,0.0,42.0,1,66.1,En Riesgo
+1643,Delfina Torres,5.0,16.0,3.0,1.0,0.0,3.0,Gimnasio,0,0.94,3.0,0,4.9,Activo
+1644,Juan Cruz Domínguez,2.0,16.0,0.0,0.0,8.0,5.0,Yoga,0,1.0,4.4,0,4.9,Activo
+1645,Lucas Castro,13.0,13.0,1.0,0.0,9.0,20.0,Yoga,0,1.0,11.4,0,4.9,Activo
+1646,Mateo Luna,9.0,12.0,0.0,1.0,10.0,1.0,Danza,0,0.92,9.4,0,4.9,Activo
+1647,Joaquín Molina,1.0,11.0,-2.0,1.0,9.0,29.0,Yoga,0,0.92,4.2,0,4.9,Activo
+1648,Sofía López,29.0,2.0,-8.0,5.0,24.0,8.0,Danza,1,0.29,27.0,1,100.0,En Riesgo
+1649,Mateo Acosta,1.0,12.0,-1.0,3.0,6.0,6.0,Yoga,0,0.8,3.0,0,4.9,Activo
+1650,Nicolás Silva,14.0,9.0,-4.0,2.0,9.0,22.0,Gimnasio,0,0.82,12.0,0,4.9,Activo
+1651,Emilia Giménez,3.0,16.0,-3.0,0.0,6.0,1.0,Danza,0,1.0,4.2,0,4.9,Activo
+1652,Gonzalo Godoy,6.0,10.0,-3.0,3.0,0.0,1.0,Gimnasio,1,0.77,3.6,0,4.9,Activo
+1653,Ignacio Benítez,10.0,11.0,-3.0,1.0,6.0,3.0,Pilates,0,0.92,8.4,0,4.9,Activo
+1654,Antonella Aguirre,0.0,15.0,0.0,3.0,4.0,41.0,Pilates,0,0.83,1.6,0,4.9,Activo
+1655,Joaquín Fernández,28.0,0.0,-16.0,3.0,25.0,2.0,Yoga,0,0.0,26.8,1,100.0,En Riesgo
+1656,Abril Morales,48.0,0.0,-16.0,6.0,23.0,12.0,Gimnasio,0,0.0,38.0,1,66.1,En Riesgo
+1657,Delfina Gutiérrez,7.0,12.0,-4.0,0.0,0.0,8.0,Pilates,0,1.0,4.2,0,4.9,Activo
+1658,Brisa Torres,53.0,0.0,-14.0,6.0,14.0,17.0,Danza,1,0.0,37.4,1,66.1,En Riesgo
+1659,Bautista Pereyra,15.0,15.0,-1.0,0.0,1.0,18.0,Pilates,0,1.0,9.4,0,4.9,Activo
+1660,Camila Benítez,44.0,6.0,-4.0,4.0,19.0,16.0,Yoga,1,0.6,34.0,0,66.1,En Riesgo
+1661,Ignacio Juárez,2.0,16.0,-3.0,0.0,1.0,23.0,Pilates,0,1.0,1.6,0,4.9,Activo
+1662,Rocío Torres,14.0,12.0,-3.0,2.0,4.0,4.0,Pilates,0,0.86,10.0,0,4.9,Activo
+1663,Lara Ruiz,6.0,12.0,-4.0,0.0,4.0,19.0,Yoga,0,1.0,5.2,0,4.9,Activo
+1664,Benjamín Aguirre,4.0,14.0,2.0,0.0,6.0,7.0,Boxeo,0,1.0,4.8,0,4.9,Activo
+1665,Sofía Acosta,11.0,13.0,3.0,1.0,5.0,1.0,Gimnasio,0,0.93,8.6,0,4.9,Activo
+1666,Abril Herrera,13.0,13.0,2.0,0.0,2.0,11.0,Danza,0,1.0,8.6,0,4.9,Activo
+1667,Benjamín Díaz,6.0,13.0,-4.0,0.0,4.0,12.0,Boxeo,0,1.0,5.2,0,4.9,Activo
+1668,Catalina Ramírez,11.0,0.0,-16.0,4.0,26.0,4.0,Yoga,0,0.0,17.0,1,80.0,En Riesgo
+1669,Emilia Díaz,32.0,0.0,-18.0,7.0,25.0,4.0,Boxeo,1,0.0,29.2,1,100.0,En Riesgo
+1670,Milagros Acosta,42.0,0.0,-14.0,6.0,25.0,1.0,Yoga,1,0.0,35.2,1,66.1,En Riesgo
+1671,Victoria Aguirre,4.0,16.0,0.0,1.0,8.0,13.0,Gimnasio,0,0.94,5.6,0,4.9,Activo
+1672,Catalina Aguirre,14.0,12.0,2.0,2.0,2.0,4.0,Danza,0,0.86,9.2,0,4.9,Activo
+1673,Agustín Ramírez,6.0,14.0,-2.0,0.0,0.0,40.0,Gimnasio,1,1.0,3.6,0,4.9,Activo
+1674,Julieta Medina,1.0,13.0,-5.0,3.0,8.0,13.0,Boxeo,0,0.81,3.8,1,4.9,Activo
+1675,Tomás Ruiz,2.0,15.0,-1.0,0.0,5.0,23.0,Boxeo,0,1.0,3.2,0,4.9,Activo
+1676,Lucas Molina,11.0,12.0,-1.0,3.0,3.0,33.0,Yoga,0,0.8,7.8,0,4.9,Activo
+1677,Sofía Benítez,4.0,15.0,3.0,3.0,6.0,2.0,Pilates,0,0.83,4.8,0,4.9,Activo
+1678,Leandro Acosta,5.0,12.0,-2.0,1.0,11.0,4.0,Gimnasio,0,0.92,7.4,0,4.9,Activo
+1679,Benjamín Fernández,34.0,1.0,-14.0,4.0,10.0,13.0,Pilates,1,0.2,24.4,1,100.0,En Riesgo
+1680,Lara Suárez,8.0,15.0,1.0,2.0,1.0,16.0,Yoga,0,0.88,5.2,0,4.9,Activo
+1681,Lara González,10.0,15.0,1.0,1.0,2.0,10.0,Gimnasio,0,0.94,6.8,0,4.9,Activo
+1682,Brisa Ríos,11.0,10.0,-3.0,2.0,11.0,5.0,Gimnasio,0,0.83,11.0,0,4.9,Activo
+1683,Delfina Suárez,2.0,15.0,2.0,1.0,1.0,14.0,Gimnasio,0,0.94,1.6,0,4.9,Activo
+1684,Gonzalo Núñez,52.0,0.0,-14.0,3.0,28.0,36.0,Yoga,0,0.0,42.4,1,66.1,En Riesgo
+1685,Santiago Díaz,60.0,0.0,-13.0,2.0,10.0,11.0,Pilates,0,0.0,40.0,1,66.1,En Riesgo
+1686,Lara Morales,23.0,6.0,-10.0,3.0,21.0,5.0,Pilates,1,0.67,22.2,1,100.0,En Riesgo
+1687,Mateo Luna,4.0,17.0,-3.0,0.0,6.0,23.0,Pilates,0,1.0,4.8,0,4.9,Activo
+1688,Bautista Núñez,4.0,13.0,-1.0,0.0,11.0,32.0,Danza,0,1.0,6.8,0,4.9,Activo
+1689,Mateo Romero,7.0,13.0,-4.0,0.0,10.0,1.0,Pilates,0,1.0,8.2,0,4.9,Activo
+1690,Joaquín Martínez,3.0,9.0,-5.0,3.0,2.0,34.0,Danza,0,0.75,2.6,1,4.9,Activo
+1691,Camila Herrera,8.0,13.0,0.0,3.0,1.0,6.0,Boxeo,1,0.81,5.2,0,4.9,Activo
+1692,Matías Acosta,68.0,0.0,-11.0,5.0,36.0,25.0,Gimnasio,1,0.0,55.2,1,100.0,En Riesgo
+1693,Rocío Cabrera,15.0,14.0,-2.0,1.0,9.0,74.0,Yoga,0,0.93,12.6,0,4.9,Activo
+1694,Nicolás Benítez,6.0,12.0,-5.0,2.0,1.0,71.0,Pilates,0,0.86,4.0,1,4.9,Activo
+1695,Emilia González,6.0,10.0,1.0,2.0,3.0,64.0,Boxeo,0,0.83,4.8,0,4.9,Activo
+1696,Abril Morales,6.0,17.0,-1.0,0.0,2.0,52.0,Gimnasio,0,1.0,4.4,0,4.9,Activo
+1697,Ignacio Luna,71.0,0.0,-3.0,4.0,33.0,1.0,Yoga,1,0.0,55.8,0,100.0,En Riesgo
+1698,Tomás Aguirre,21.0,1.0,-14.0,6.0,24.0,9.0,Gimnasio,1,0.14,22.2,1,100.0,En Riesgo
+1699,Camila Medina,5.0,13.0,0.0,0.0,5.0,13.0,Boxeo,0,1.0,5.0,0,4.9,Activo
+1700,Paula Romero,8.0,14.0,-1.0,0.0,0.0,11.0,Gimnasio,0,1.0,4.8,0,4.9,Activo
+1701,Milagros Fernández,18.0,1.0,-13.0,5.0,12.0,7.0,Gimnasio,0,0.17,15.6,1,100.0,En Riesgo
+1702,Benjamín Acosta,7.0,17.0,-1.0,0.0,8.0,4.0,Boxeo,0,1.0,7.4,0,4.9,Activo
+1703,Nicolás Sánchez,11.0,15.0,0.0,0.0,7.0,4.0,Pilates,0,1.0,9.4,0,4.9,Activo
+1704,Martina Medina,27.0,9.0,-6.0,1.0,11.0,8.0,Pilates,1,0.9,20.6,1,100.0,En Riesgo
+1705,Leandro Domínguez,11.0,17.0,4.0,0.0,1.0,6.0,Pilates,0,1.0,7.0,0,4.9,Activo
+1706,Mía Luna,11.0,10.0,-4.0,0.0,6.0,22.0,Boxeo,0,1.0,9.0,0,4.9,Activo
+1707,Santiago Ruiz,1.0,14.0,1.0,1.0,9.0,15.0,Pilates,0,0.93,4.2,0,4.9,Activo
+1708,Franco Luna,37.0,4.0,-6.0,5.0,13.0,13.0,Gimnasio,1,0.44,27.4,1,100.0,En Riesgo
+1709,Mateo Martínez,14.0,14.0,0.0,2.0,3.0,12.0,Boxeo,0,0.88,9.6,0,4.9,Activo
+1710,Sofía Godoy,8.0,13.0,0.0,3.0,4.0,19.0,Danza,0,0.81,6.4,0,4.9,Activo
+1711,Brisa Díaz,67.0,0.0,-7.0,2.0,22.0,12.0,Danza,1,0.0,49.0,1,100.0,En Riesgo
+1712,Candela Acosta,12.0,12.0,-4.0,1.0,0.0,11.0,Gimnasio,0,0.92,7.2,0,4.9,Activo
+1713,Mía Morales,13.0,12.0,-3.0,0.0,7.0,2.0,Danza,0,1.0,10.6,0,4.9,Activo
+1714,Brisa Martínez,3.0,15.0,2.0,2.0,5.0,27.0,Yoga,0,0.88,3.8,0,4.9,Activo
+1715,Brisa Molina,7.0,14.0,-1.0,0.0,11.0,19.0,Boxeo,0,1.0,8.6,0,4.9,Activo
+1716,Lucas Godoy,12.0,13.0,1.0,0.0,8.0,5.0,Gimnasio,0,1.0,10.4,0,4.9,Activo
+1717,Nicolás Romero,66.0,0.0,-7.0,7.0,8.0,3.0,Yoga,1,0.0,42.8,1,100.0,En Riesgo
+1718,Facundo Rojas,11.0,12.0,-4.0,0.0,8.0,1.0,Boxeo,0,1.0,9.8,0,4.9,Activo
+1719,Bautista Gómez,6.0,15.0,-3.0,1.0,3.0,4.0,Pilates,0,0.94,4.8,0,4.9,Activo
+1720,Juan Cruz Torres,64.0,0.0,-17.0,4.0,13.0,27.0,Pilates,1,0.0,43.6,1,66.1,En Riesgo
+1721,Juan Cruz Gutiérrez,4.0,14.0,-1.0,3.0,11.0,8.0,Gimnasio,0,0.82,6.8,0,4.9,Activo
+1722,Candela Ramírez,69.0,0.0,-13.0,3.0,28.0,46.0,Gimnasio,1,0.0,52.6,1,100.0,En Riesgo
+1723,Lucía Domínguez,11.0,2.0,-7.0,4.0,35.0,4.0,Yoga,1,0.33,20.6,1,80.0,En Riesgo
+1724,Ezequiel Ruiz,15.0,14.0,-3.0,1.0,0.0,30.0,Gimnasio,0,0.93,9.0,0,4.9,Activo
+1725,Matías Moreno,27.0,0.0,-15.0,3.0,32.0,20.0,Gimnasio,0,0.0,29.0,1,100.0,En Riesgo
+1726,Delfina Suárez,11.0,14.0,-5.0,1.0,10.0,14.0,Pilates,0,0.93,10.6,1,4.9,Activo
+1727,Valentina Ramírez,10.0,15.0,1.0,0.0,8.0,13.0,Boxeo,0,1.0,9.2,0,4.9,Activo
+1728,Valentina Silva,10.0,12.0,-1.0,0.0,6.0,6.0,Gimnasio,0,1.0,8.4,0,4.9,Activo
+1729,Emilia Luna,10.0,14.0,4.0,1.0,11.0,4.0,Danza,0,0.93,10.4,0,4.9,Activo
+1730,Antonella Martínez,2.0,14.0,2.0,4.0,2.0,4.0,Danza,0,0.78,2.0,0,4.9,Activo
+1731,Julián Pérez,4.0,15.0,3.0,0.0,0.0,1.0,Danza,0,1.0,2.4,0,4.9,Activo
+1732,Bautista Domínguez,56.0,0.0,-12.0,4.0,8.0,8.0,Boxeo,1,0.0,36.8,1,66.1,En Riesgo
+1733,Agustín Gómez,1.0,12.0,-3.0,2.0,9.0,1.0,Gimnasio,0,0.86,4.2,0,4.9,Activo
+1734,Matías Godoy,33.0,0.0,-17.0,7.0,23.0,11.0,Yoga,1,0.0,29.0,1,100.0,En Riesgo
+1735,Sofía Molina,8.0,13.0,-2.0,1.0,8.0,16.0,Gimnasio,0,0.93,8.0,0,4.9,Activo
+1736,Matías Herrera,62.0,0.0,-8.0,5.0,30.0,5.0,Yoga,1,0.0,49.2,1,66.1,En Riesgo
+1737,Sofía Herrera,3.0,16.0,0.0,3.0,3.0,6.0,Pilates,0,0.84,3.0,0,4.9,Activo
+1738,Victoria Domínguez,47.0,1.0,-5.0,2.0,16.0,15.0,Pilates,1,0.33,34.6,1,66.1,En Riesgo
+1739,Antonella Torres,0.0,21.0,5.0,0.0,6.0,21.0,Yoga,0,1.0,2.4,0,4.9,Activo
+1740,Emilia Benítez,11.0,13.0,4.0,0.0,3.0,77.0,Pilates,0,1.0,7.8,0,4.9,Activo
+1741,Matías González,5.0,16.0,5.0,4.0,5.0,16.0,Danza,0,0.8,5.0,0,4.9,Activo
+1742,Leandro Suárez,7.0,14.0,2.0,2.0,2.0,5.0,Yoga,0,0.88,5.0,0,4.9,Activo
+1743,Lautaro Álvarez,55.0,0.0,-8.0,4.0,25.0,2.0,Danza,0,0.0,43.0,1,66.1,En Riesgo
+1744,Santiago Torres,3.0,14.0,-5.0,0.0,0.0,9.0,Gimnasio,0,1.0,1.8,1,4.9,Activo
+1745,Candela López,11.0,14.0,3.0,2.0,6.0,14.0,Yoga,0,0.88,9.0,0,4.9,Activo
+1746,Ignacio Acosta,11.0,2.0,-10.0,1.0,8.0,16.0,Gimnasio,1,0.67,9.8,1,80.0,En Riesgo
+1747,Matías Ortiz,16.0,12.0,0.0,2.0,11.0,18.0,Yoga,1,0.86,14.0,0,100.0,En Riesgo
+1748,Martina Acosta,12.0,15.0,2.0,1.0,8.0,19.0,Gimnasio,0,0.94,10.4,0,4.9,Activo
+1749,Franco Herrera,55.0,0.0,-16.0,3.0,41.0,38.0,Gimnasio,1,0.0,49.4,1,100.0,En Riesgo
+1750,Joaquín Pereyra,11.0,14.0,2.0,0.0,3.0,3.0,Pilates,0,1.0,7.8,0,4.9,Activo
+1751,Valentina Gutiérrez,15.0,15.0,4.0,0.0,10.0,6.0,Yoga,0,1.0,13.0,0,4.9,Activo
+1752,Abril Suárez,6.0,15.0,-2.0,0.0,2.0,1.0,Gimnasio,0,1.0,4.4,0,4.9,Activo
+1753,Victoria Díaz,44.0,0.0,-8.0,7.0,36.0,13.0,Yoga,1,0.0,40.8,1,100.0,En Riesgo
+1754,Agustín Juárez,35.0,0.0,-17.0,3.0,42.0,15.0,Gimnasio,1,0.0,37.8,1,100.0,En Riesgo
+1755,Julieta Martínez,8.0,18.0,1.0,2.0,3.0,1.0,Yoga,0,0.9,6.0,0,4.9,Activo
+1756,Lucas Castro,46.0,0.0,-7.0,3.0,8.0,6.0,Gimnasio,1,0.0,30.8,1,100.0,En Riesgo
+1757,Tomás Pérez,17.0,12.0,-1.0,2.0,0.0,13.0,Gimnasio,1,0.86,10.2,0,100.0,En Riesgo
+1758,Martina Rodríguez,1.0,16.0,2.0,1.0,5.0,16.0,Pilates,0,0.94,2.6,0,4.9,Activo
+1759,Brisa Cabrera,4.0,13.0,0.0,0.0,0.0,27.0,Gimnasio,0,1.0,2.4,0,4.9,Activo
+1760,Abril Suárez,3.0,12.0,-1.0,0.0,11.0,18.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+1761,Candela Herrera,14.0,16.0,5.0,0.0,5.0,23.0,Yoga,0,1.0,10.4,0,4.9,Activo
+1762,Candela Medina,33.0,2.0,-6.0,3.0,35.0,14.0,Boxeo,0,0.4,33.8,1,66.1,En Riesgo
+1763,Martina López,3.0,14.0,-1.0,3.0,4.0,3.0,Pilates,0,0.82,3.4,0,4.9,Activo
+1764,Antonella Medina,32.0,2.0,-9.0,7.0,15.0,15.0,Yoga,1,0.22,25.2,1,100.0,En Riesgo
+1765,Ignacio Ferreyra,38.0,0.0,-10.0,2.0,23.0,8.0,Yoga,0,0.0,32.0,1,66.1,En Riesgo
+1766,Florencia Ruiz,19.0,0.0,-15.0,1.0,42.0,15.0,Pilates,1,0.0,28.2,1,100.0,En Riesgo
+1767,Ezequiel González,15.0,14.0,4.0,0.0,2.0,31.0,Yoga,0,1.0,9.8,0,4.9,Activo
+1768,Antonella Gutiérrez,11.0,11.0,1.0,1.0,5.0,7.0,Gimnasio,0,0.92,8.6,0,4.9,Activo
+1769,Catalina Gómez,0.0,18.0,-1.0,0.0,8.0,11.0,Danza,0,1.0,3.2,0,4.9,Activo
+1770,Ignacio Martínez,10.0,15.0,-5.0,0.0,1.0,1.0,Gimnasio,0,1.0,6.4,1,4.9,Activo
+1771,Emilia Torres,38.0,0.0,-14.0,5.0,35.0,14.0,Gimnasio,1,0.0,36.8,1,66.1,En Riesgo
+1772,Leandro Rodríguez,70.0,0.0,-5.0,2.0,30.0,17.0,Pilates,1,0.0,54.0,1,100.0,En Riesgo
+1773,Mía Rodríguez,12.0,12.0,-2.0,1.0,2.0,14.0,Gimnasio,1,0.92,8.0,0,4.9,Activo
+1774,Camila Sosa,11.0,14.0,-2.0,2.0,1.0,41.0,Gimnasio,0,0.88,7.0,0,4.9,Activo
+1775,Ezequiel Romero,15.0,17.0,3.0,0.0,2.0,14.0,Yoga,0,1.0,9.8,0,4.9,Activo
+1776,Mía Fernández,63.0,0.0,-17.0,6.0,23.0,6.0,Pilates,1,0.0,47.0,1,66.1,En Riesgo
+1777,Mía Morales,35.0,0.0,-10.0,7.0,44.0,13.0,Boxeo,1,0.0,38.6,1,100.0,En Riesgo
+1778,Franco Ruiz,55.0,0.0,-11.0,1.0,41.0,5.0,Danza,1,0.0,49.4,1,100.0,En Riesgo
+1779,Rocío Pérez,5.0,11.0,-5.0,1.0,7.0,7.0,Gimnasio,0,0.92,5.8,1,4.9,Activo
+1780,Camila Díaz,12.0,12.0,-5.0,0.0,1.0,10.0,Yoga,0,1.0,7.6,1,4.9,Activo
+1781,Ramiro Domínguez,11.0,19.0,4.0,0.0,0.0,4.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+1782,Joaquín Suárez,24.0,1.0,-7.0,6.0,44.0,7.0,Gimnasio,1,0.14,32.0,1,100.0,En Riesgo
+1783,Nicolás Luna,11.0,17.0,-1.0,1.0,0.0,12.0,Yoga,0,0.94,6.6,0,4.9,Activo
+1784,Mateo Ríos,17.0,3.0,-15.0,2.0,21.0,40.0,Pilates,1,0.6,18.6,1,100.0,En Riesgo
+1785,Santiago Silva,54.0,0.0,-18.0,1.0,42.0,7.0,Gimnasio,1,0.0,49.2,1,100.0,En Riesgo
+1786,Franco Pérez,3.0,16.0,3.0,3.0,4.0,17.0,Pilates,0,0.84,3.4,0,4.9,Activo
+1787,Nicolás Herrera,13.0,13.0,1.0,0.0,0.0,14.0,Gimnasio,0,1.0,7.8,0,4.9,Activo
+1788,Brisa Flores,9.0,15.0,1.0,0.0,11.0,2.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+1789,Abril Sosa,0.0,17.0,0.0,1.0,3.0,14.0,Boxeo,0,0.94,1.2,0,4.9,Activo
+1790,Milagros Juárez,1.0,16.0,4.0,0.0,11.0,21.0,Boxeo,0,1.0,5.0,0,4.9,Activo
+1791,Valentina Gutiérrez,3.0,15.0,3.0,0.0,5.0,2.0,Yoga,0,1.0,3.8,0,4.9,Activo
+1792,Mía Sánchez,45.0,0.0,-12.0,3.0,40.0,11.0,Gimnasio,1,0.0,43.0,1,100.0,En Riesgo
+1793,Valentina Pereyra,9.0,12.0,-5.0,1.0,7.0,10.0,Pilates,0,0.92,8.2,1,4.9,Activo
+1794,Mateo Fernández,64.0,12.0,-6.0,6.0,21.0,15.0,Gimnasio,0,0.67,46.8,1,66.1,En Riesgo
+1795,Delfina Benítez,3.0,18.0,4.0,1.0,5.0,12.0,Pilates,0,0.95,3.8,0,4.9,Activo
+1796,Juan Cruz Juárez,7.0,16.0,1.0,1.0,3.0,3.0,Pilates,0,0.94,5.4,0,4.9,Activo
+1797,Camila Cabrera,5.0,12.0,-3.0,3.0,4.0,4.0,Pilates,0,0.8,4.6,0,4.9,Activo
+1798,Martina Godoy,39.0,1.0,-12.0,3.0,18.0,5.0,Danza,0,0.25,30.6,1,100.0,En Riesgo
+1799,Catalina Domínguez,4.0,17.0,4.0,1.0,1.0,16.0,Boxeo,0,0.94,2.8,0,4.9,Activo
+1800,Lautaro Medina,23.0,1.0,-10.0,5.0,27.0,21.0,Danza,1,0.17,24.6,1,100.0,En Riesgo
+1801,Valentina Sánchez,10.0,11.0,-4.0,1.0,11.0,22.0,Boxeo,0,0.92,10.4,0,4.9,Activo
+1802,Sofía Gutiérrez,22.0,6.0,-8.0,4.0,39.0,14.0,Boxeo,0,0.6,28.8,1,100.0,En Riesgo
+1803,Candela Martínez,15.0,12.0,1.0,1.0,1.0,3.0,Gimnasio,0,0.92,9.4,0,4.9,Activo
+1804,Catalina Torres,8.0,12.0,-2.0,1.0,11.0,11.0,Gimnasio,0,0.92,9.2,0,4.9,Activo
+1805,Sofía Benítez,51.0,0.0,-18.0,4.0,23.0,9.0,Boxeo,1,0.0,39.8,1,66.1,En Riesgo
+1806,Catalina Ramírez,3.0,14.0,3.0,2.0,9.0,71.0,Gimnasio,0,0.88,5.4,0,4.9,Activo
+1807,Julieta Molina,11.0,13.0,-2.0,1.0,11.0,5.0,Danza,0,0.93,11.0,0,4.9,Activo
+1808,Franco López,1.0,18.0,5.0,0.0,7.0,6.0,Pilates,0,1.0,3.4,0,4.9,Activo
+1809,Benjamín Martínez,2.0,13.0,-3.0,0.0,1.0,2.0,Gimnasio,0,1.0,1.6,0,4.9,Activo
+1810,Paula Ríos,14.0,14.0,0.0,0.0,7.0,42.0,Danza,0,1.0,11.2,0,4.9,Activo
+1811,Florencia Rodríguez,54.0,0.0,-9.0,7.0,10.0,28.0,Pilates,1,0.0,36.4,1,100.0,En Riesgo
+1812,Rocío Torres,64.0,0.0,-13.0,4.0,31.0,29.0,Pilates,0,0.0,50.8,1,66.1,En Riesgo
+1813,Nicolás Castro,44.0,0.0,-15.0,3.0,42.0,8.0,Gimnasio,1,0.0,43.2,1,100.0,En Riesgo
+1814,Leandro Benítez,5.0,16.0,1.0,1.0,6.0,80.0,Danza,1,0.94,5.4,0,4.9,Activo
+1815,Abril López,28.0,3.0,-6.0,1.0,14.0,8.0,Pilates,1,0.75,22.4,1,100.0,En Riesgo
+1816,Julieta Benítez,20.0,12.0,-16.0,3.0,34.0,70.0,Danza,0,0.8,25.6,1,100.0,En Riesgo
+1817,Brisa Silva,3.0,12.0,-4.0,0.0,6.0,14.0,Pilates,0,1.0,4.2,0,4.9,Activo
+1818,Matías Molina,10.0,14.0,-3.0,0.0,6.0,18.0,Gimnasio,0,1.0,8.4,0,4.9,Activo
+1819,Delfina Torres,8.0,15.0,3.0,2.0,7.0,5.0,Danza,0,0.88,7.6,0,4.9,Activo
+1820,Catalina Castro,66.0,0.0,-3.0,2.0,22.0,5.0,Gimnasio,1,0.0,48.4,0,100.0,En Riesgo
+1821,Valentina Herrera,8.0,21.0,5.0,0.0,8.0,9.0,Danza,0,1.0,8.0,0,4.9,Activo
+1822,Julián Ruiz,4.0,13.0,-4.0,3.0,9.0,49.0,Gimnasio,0,0.81,6.0,0,4.9,Activo
+1823,Lucas Álvarez,4.0,14.0,-2.0,1.0,1.0,10.0,Gimnasio,0,0.93,2.8,0,4.9,Activo
+1824,Lucía Giménez,26.0,7.0,-8.0,2.0,23.0,35.0,Gimnasio,0,0.78,24.8,1,100.0,En Riesgo
+1825,Nicolás Gutiérrez,14.0,9.0,-5.0,0.0,5.0,30.0,Boxeo,0,1.0,10.4,1,4.9,Activo
+1826,Delfina Benítez,0.0,16.0,-4.0,0.0,2.0,4.0,Gimnasio,0,1.0,0.8,0,4.9,Activo
+1827,Candela Medina,12.0,12.0,-5.0,0.0,8.0,24.0,Pilates,0,1.0,10.4,1,4.9,Activo
+1828,Gonzalo Fernández,68.0,0.0,-14.0,3.0,21.0,1.0,Gimnasio,1,0.0,49.2,1,100.0,En Riesgo
+1829,Florencia Luna,63.0,0.0,-14.0,2.0,8.0,30.0,Gimnasio,1,0.0,41.0,1,66.1,En Riesgo
+1830,Nicolás Castro,12.0,16.0,2.0,0.0,8.0,52.0,Gimnasio,0,1.0,10.4,0,4.9,Activo
+1831,Florencia Aguirre,12.0,18.0,5.0,1.0,7.0,2.0,Danza,0,0.95,10.0,0,4.9,Activo
+1832,Benjamín Castro,13.0,16.0,4.0,1.0,8.0,38.0,Boxeo,0,0.94,11.0,0,4.9,Activo
+1833,Santiago Núñez,26.0,12.0,-9.0,5.0,28.0,1.0,Yoga,0,0.71,26.8,1,100.0,En Riesgo
+1834,Ezequiel Medina,0.0,18.0,0.0,0.0,4.0,8.0,Gimnasio,0,1.0,1.6,0,4.9,Activo
+1835,Mateo Acosta,12.0,14.0,4.0,2.0,6.0,3.0,Danza,0,0.88,9.6,0,4.9,Activo
+1836,Bautista Álvarez,7.0,12.0,-4.0,1.0,9.0,1.0,Yoga,0,0.92,7.8,0,4.9,Activo
+1837,Florencia Pérez,6.0,17.0,3.0,1.0,9.0,24.0,Gimnasio,0,0.94,7.2,0,4.9,Activo
+1838,Candela Suárez,11.0,12.0,2.0,1.0,10.0,16.0,Pilates,0,0.92,10.6,0,4.9,Activo
+1839,Rocío Álvarez,12.0,15.0,3.0,0.0,1.0,3.0,Pilates,0,1.0,7.6,0,4.9,Activo
+1840,Brisa Pereyra,55.0,0.0,-4.0,4.0,16.0,3.0,Pilates,1,0.0,39.4,0,66.1,En Riesgo
+1841,Santiago Castro,13.0,14.0,-1.0,0.0,1.0,4.0,Gimnasio,0,1.0,8.2,0,4.9,Activo
+1842,Julieta Pereyra,7.0,18.0,5.0,0.0,7.0,5.0,Pilates,0,1.0,7.0,0,4.9,Activo
+1843,Delfina Herrera,9.0,17.0,2.0,2.0,5.0,2.0,Yoga,0,0.89,7.4,0,4.9,Activo
+1844,Gonzalo Torres,57.0,0.0,-15.0,5.0,31.0,2.0,Danza,0,0.0,46.6,1,66.1,En Riesgo
+1845,Santiago Rodríguez,5.0,14.0,-5.0,0.0,11.0,28.0,Danza,0,1.0,7.4,1,4.9,Activo
+1846,Rocío Gómez,4.0,13.0,-5.0,1.0,3.0,15.0,Gimnasio,0,0.93,3.6,1,4.9,Activo
+1847,Julieta Díaz,8.0,16.0,4.0,1.0,1.0,8.0,Danza,0,0.94,5.2,0,4.9,Activo
+1848,Santiago Medina,13.0,10.0,-4.0,0.0,5.0,9.0,Yoga,0,1.0,9.8,0,4.9,Activo
+1849,Franco González,14.0,16.0,0.0,0.0,3.0,2.0,Yoga,0,1.0,9.6,0,4.9,Activo
+1850,Milagros Ramírez,11.0,13.0,0.0,0.0,10.0,2.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+1851,Agustín Molina,40.0,4.0,-8.0,7.0,8.0,13.0,Gimnasio,1,0.36,27.2,1,100.0,En Riesgo
+1852,Valentina Morales,6.0,16.0,1.0,0.0,6.0,8.0,Gimnasio,0,1.0,6.0,0,4.9,Activo
+1853,Tomás Ríos,13.0,14.0,0.0,1.0,6.0,29.0,Gimnasio,0,0.93,10.2,0,4.9,Activo
+1854,Lautaro Molina,32.0,0.0,-8.0,7.0,25.0,16.0,Gimnasio,1,0.0,29.2,1,100.0,En Riesgo
+1855,Florencia Gómez,65.0,0.0,-11.0,7.0,10.0,24.0,Gimnasio,1,0.0,43.0,1,100.0,En Riesgo
+1856,Mía Romero,3.0,14.0,-1.0,0.0,2.0,6.0,Gimnasio,0,1.0,2.6,0,4.9,Activo
+1857,Martina Pereyra,2.0,16.0,3.0,1.0,11.0,1.0,Danza,0,0.94,5.6,0,4.9,Activo
+1858,Valentina Molina,9.0,12.0,-2.0,1.0,7.0,1.0,Gimnasio,0,0.92,8.2,0,4.9,Activo
+1859,Milagros Fernández,58.0,0.0,-7.0,2.0,27.0,4.0,Boxeo,0,0.0,45.6,1,66.1,En Riesgo
+1860,Leandro Silva,2.0,15.0,2.0,1.0,11.0,28.0,Gimnasio,0,0.94,5.6,0,4.9,Activo
+1861,Julieta Ríos,2.0,18.0,2.0,0.0,6.0,12.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+1862,Franco Silva,7.0,14.0,-1.0,2.0,2.0,7.0,Danza,0,0.88,5.0,0,4.9,Activo
+1863,Juan Cruz Torres,1.0,19.0,-2.0,2.0,2.0,2.0,Pilates,0,0.9,1.4,0,4.9,Activo
+1864,Gonzalo Gutiérrez,43.0,2.0,-7.0,7.0,8.0,3.0,Yoga,1,0.22,29.0,1,100.0,En Riesgo
+1865,Milagros Gutiérrez,50.0,0.0,-3.0,7.0,37.0,16.0,Pilates,1,0.0,44.8,0,100.0,En Riesgo
+1866,Lucía Giménez,49.0,1.0,-10.0,1.0,21.0,2.0,Pilates,1,0.5,37.8,1,66.1,En Riesgo
+1867,Martina Pérez,0.0,10.0,-5.0,4.0,8.0,49.0,Danza,0,0.71,3.2,1,4.9,Activo
+1868,Tomás Domínguez,5.0,16.0,3.0,0.0,3.0,1.0,Gimnasio,0,1.0,4.2,0,4.9,Activo
+1869,Sofía Aguirre,13.0,14.0,1.0,1.0,10.0,34.0,Gimnasio,0,0.93,11.8,0,4.9,Activo
+1870,Paula Castro,8.0,15.0,4.0,1.0,0.0,13.0,Danza,0,0.94,4.8,0,4.9,Activo
+1871,Bautista Flores,37.0,0.0,-15.0,5.0,38.0,24.0,Gimnasio,0,0.0,37.4,1,66.1,En Riesgo
+1872,Nicolás Pereyra,0.0,14.0,-4.0,0.0,7.0,18.0,Yoga,0,1.0,2.8,0,4.9,Activo
+1873,Abril Domínguez,4.0,14.0,0.0,0.0,11.0,18.0,Gimnasio,0,1.0,6.8,0,4.9,Activo
+1874,Lucía Benítez,15.0,15.0,5.0,1.0,3.0,47.0,Gimnasio,0,0.94,10.2,0,4.9,Activo
+1875,Camila Ramírez,11.0,14.0,0.0,1.0,2.0,3.0,Pilates,0,0.93,7.4,0,4.9,Activo
+1876,Ramiro Flores,12.0,9.0,-4.0,3.0,7.0,24.0,Yoga,0,0.75,10.0,0,4.9,Activo
+1877,Paula Ramírez,8.0,13.0,-5.0,2.0,4.0,21.0,Boxeo,0,0.87,6.4,1,4.9,Activo
+1878,Candela Godoy,0.0,15.0,-3.0,0.0,6.0,32.0,Gimnasio,0,1.0,2.4,0,4.9,Activo
+1879,Camila Castro,4.0,12.0,-3.0,0.0,0.0,18.0,Pilates,0,1.0,2.4,0,4.9,Activo
+1880,Benjamín Suárez,0.0,15.0,-1.0,3.0,10.0,1.0,Pilates,0,0.83,4.0,0,4.9,Activo
+1881,Camila Domínguez,14.0,15.0,2.0,0.0,1.0,6.0,Yoga,0,1.0,8.8,0,4.9,Activo
+1882,Juan Cruz Ramírez,11.0,10.0,-3.0,0.0,9.0,32.0,Gimnasio,0,1.0,10.2,0,4.9,Activo
+1883,Leandro Silva,13.0,12.0,-5.0,2.0,0.0,16.0,Danza,0,0.86,7.8,1,4.9,Activo
+1884,Candela Aguirre,15.0,19.0,3.0,0.0,0.0,14.0,Gimnasio,0,1.0,9.0,0,4.9,Activo
+1885,Santiago Godoy,8.0,12.0,1.0,0.0,4.0,18.0,Yoga,0,1.0,6.4,0,4.9,Activo
+1886,Santiago Díaz,38.0,2.0,-5.0,4.0,12.0,29.0,Gimnasio,1,0.33,27.6,1,100.0,En Riesgo
+1887,Ezequiel Silva,47.0,12.0,-3.0,2.0,13.0,5.0,Gimnasio,1,0.86,33.4,0,66.1,En Riesgo
+1888,Facundo Cabrera,21.0,4.0,-15.0,4.0,8.0,3.0,Gimnasio,1,0.5,15.8,1,100.0,En Riesgo
+1889,Mía Molina,43.0,0.0,-16.0,7.0,39.0,22.0,Gimnasio,1,0.0,41.4,1,100.0,En Riesgo
+1890,Lucas Cabrera,41.0,0.0,-14.0,3.0,38.0,7.0,Danza,0,0.0,39.8,1,66.1,En Riesgo
+1891,Emilia Cabrera,16.0,10.0,-1.0,2.0,0.0,30.0,Yoga,1,0.83,9.6,0,100.0,En Riesgo
+1892,Juan Cruz Gutiérrez,7.0,16.0,2.0,0.0,0.0,36.0,Boxeo,0,1.0,4.2,0,4.9,Activo
+1893,Florencia Cabrera,32.0,0.0,-18.0,2.0,19.0,34.0,Yoga,1,0.0,26.8,1,100.0,En Riesgo
+1894,Lara Morales,5.0,15.0,-2.0,0.0,1.0,35.0,Pilates,0,1.0,3.4,0,4.9,Activo
+1895,Agustín Acosta,62.0,0.0,-7.0,2.0,42.0,1.0,Pilates,1,0.0,54.0,1,100.0,En Riesgo
+1896,Catalina Aguirre,38.0,0.0,-13.0,2.0,35.0,6.0,Boxeo,1,0.0,36.8,1,66.1,En Riesgo
+1897,Lautaro Ruiz,4.0,13.0,-2.0,2.0,10.0,3.0,Gimnasio,0,0.87,6.4,0,4.9,Activo
+1898,Paula Medina,13.0,14.0,-2.0,0.0,0.0,34.0,Pilates,0,1.0,7.8,0,4.9,Activo
+1899,Delfina Gutiérrez,10.0,13.0,5.0,1.0,4.0,13.0,Boxeo,0,0.93,7.6,0,4.9,Activo
+1900,Ezequiel Núñez,9.0,14.0,4.0,3.0,2.0,2.0,Danza,0,0.82,6.2,0,4.9,Activo
+1901,Rocío Pérez,36.0,1.0,-9.0,6.0,38.0,1.0,Yoga,1,0.14,36.8,1,66.1,En Riesgo
+1902,Martina Rojas,63.0,12.0,-13.0,3.0,28.0,2.0,Yoga,0,0.8,49.0,1,66.1,En Riesgo
+1903,Catalina Sosa,14.0,11.0,-3.0,1.0,0.0,15.0,Gimnasio,0,0.92,8.4,0,4.9,Activo
+1904,Matías Juárez,3.0,18.0,4.0,2.0,3.0,17.0,Yoga,0,0.9,3.0,0,4.9,Activo
+1905,Paula Pérez,56.0,0.0,-14.0,5.0,13.0,7.0,Gimnasio,0,0.0,38.8,1,66.1,En Riesgo
+1906,Florencia Martínez,0.0,12.0,3.0,1.0,2.0,15.0,Yoga,0,0.92,0.8,0,4.9,Activo
+1907,Catalina Flores,66.0,0.0,-8.0,6.0,36.0,3.0,Gimnasio,1,0.0,54.0,1,100.0,En Riesgo
+1908,Matías Herrera,3.0,15.0,1.0,1.0,10.0,14.0,Gimnasio,0,0.94,5.8,0,4.9,Activo
+1909,Juan Cruz Benítez,6.0,15.0,-2.0,0.0,5.0,21.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+1910,Nicolás Herrera,27.0,2.0,-11.0,2.0,11.0,17.0,Pilates,1,0.5,20.6,1,100.0,En Riesgo
+1911,Nicolás Medina,9.0,12.0,-3.0,1.0,12.0,23.0,Gimnasio,1,0.92,10.2,0,80.0,En Riesgo
+1912,Paula Silva,8.0,18.0,1.0,0.0,1.0,3.0,Pilates,0,1.0,5.2,0,4.9,Activo
+1913,Florencia Ramírez,6.0,14.0,4.0,1.0,9.0,10.0,Pilates,0,0.93,7.2,0,4.9,Activo
+1914,Bautista Martínez,12.0,14.0,-4.0,0.0,7.0,42.0,Pilates,0,1.0,10.0,0,4.9,Activo
+1915,Mía Ferreyra,8.0,19.0,4.0,0.0,7.0,41.0,Pilates,0,1.0,7.6,0,4.9,Activo
+1916,Agustín Moreno,7.0,17.0,3.0,1.0,6.0,2.0,Gimnasio,0,0.94,6.6,0,4.9,Activo
+1917,Abril Moreno,33.0,0.0,-10.0,6.0,21.0,21.0,Gimnasio,0,0.0,28.2,1,100.0,En Riesgo
+1918,Candela Gómez,9.0,10.0,-3.0,1.0,10.0,6.0,Gimnasio,0,0.91,9.4,0,4.9,Activo
+1919,Abril Torres,10.0,13.0,-2.0,1.0,2.0,17.0,Gimnasio,0,0.93,6.8,0,4.9,Activo
+1920,Rocío Juárez,7.0,13.0,-1.0,0.0,7.0,6.0,Boxeo,0,1.0,7.0,0,4.9,Activo
+1921,Martina Giménez,4.0,14.0,4.0,1.0,4.0,3.0,Pilates,0,0.93,4.0,0,4.9,Activo
+1922,Delfina Sosa,9.0,15.0,-1.0,4.0,0.0,14.0,Pilates,0,0.79,5.4,0,4.9,Activo
+1923,Ezequiel Núñez,11.0,12.0,3.0,0.0,10.0,38.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+1924,Matías López,9.0,16.0,5.0,2.0,5.0,6.0,Yoga,0,0.89,7.4,0,4.9,Activo
+1925,Emilia Luna,15.0,11.0,-5.0,0.0,10.0,23.0,Gimnasio,0,1.0,13.0,1,4.9,Activo
+1926,Candela Fernández,10.0,14.0,-2.0,2.0,8.0,2.0,Gimnasio,1,0.88,9.2,0,4.9,Activo
+1927,Matías Juárez,5.0,11.0,2.0,2.0,10.0,19.0,Danza,0,0.85,7.0,0,4.9,Activo
+1928,Abril Rojas,3.0,16.0,0.0,1.0,8.0,10.0,Pilates,1,0.94,5.0,0,4.9,Activo
+1929,Lara López,9.0,13.0,-1.0,0.0,3.0,46.0,Yoga,0,1.0,6.6,0,4.9,Activo
+1930,Lautaro Morales,60.0,0.0,-9.0,6.0,31.0,16.0,Pilates,1,0.0,48.4,1,66.1,En Riesgo
+1931,Mía Acosta,8.0,15.0,2.0,3.0,8.0,18.0,Gimnasio,1,0.83,8.0,0,4.9,Activo
+1932,Florencia Martínez,12.0,12.0,-4.0,0.0,0.0,31.0,Danza,0,1.0,7.2,0,4.9,Activo
+1933,Antonella Acosta,10.0,12.0,-3.0,0.0,1.0,29.0,Gimnasio,0,1.0,6.4,0,4.9,Activo
+1934,Camila Sánchez,8.0,15.0,5.0,0.0,2.0,2.0,Boxeo,0,1.0,5.6,0,4.9,Activo
+1935,Joaquín Molina,10.0,17.0,3.0,1.0,2.0,9.0,Boxeo,0,0.94,6.8,0,4.9,Activo
+1936,Lara Molina,11.0,0.0,-16.0,5.0,34.0,11.0,Danza,0,0.0,20.2,1,80.0,En Riesgo
+1937,Paula Martínez,12.0,12.0,-2.0,1.0,7.0,3.0,Danza,1,0.92,10.0,0,4.9,Activo
+1938,Leandro Godoy,15.0,11.0,-2.0,0.0,7.0,24.0,Gimnasio,0,1.0,11.8,0,4.9,Activo
+1939,Leandro Torres,8.0,14.0,-5.0,1.0,3.0,16.0,Yoga,0,0.93,6.0,1,4.9,Activo
+1940,Florencia Flores,33.0,1.0,-14.0,3.0,20.0,17.0,Yoga,1,0.25,27.8,1,100.0,En Riesgo
+1941,Franco Pérez,10.0,15.0,-4.0,0.0,5.0,11.0,Gimnasio,0,1.0,8.0,0,4.9,Activo
+1942,Gonzalo Aguirre,64.0,0.0,-11.0,3.0,27.0,11.0,Pilates,0,0.0,49.2,1,66.1,En Riesgo
+1943,Santiago Sosa,8.0,14.0,0.0,1.0,7.0,26.0,Boxeo,0,0.93,7.6,0,4.9,Activo
+1944,Lara Romero,34.0,1.0,-13.0,1.0,9.0,3.0,Gimnasio,1,0.5,24.0,1,100.0,En Riesgo
+1945,Camila Ruiz,8.0,12.0,-2.0,1.0,8.0,6.0,Yoga,0,0.92,8.0,0,4.9,Activo
+1946,Julieta Pérez,5.0,13.0,-4.0,0.0,2.0,6.0,Gimnasio,0,1.0,3.8,0,4.9,Activo
+1947,Ramiro Molina,13.0,14.0,4.0,1.0,2.0,1.0,Gimnasio,0,0.93,8.6,0,4.9,Activo
+1948,Candela Ortiz,68.0,0.0,-17.0,6.0,35.0,18.0,Yoga,1,0.0,54.8,1,100.0,En Riesgo
+1949,Matías Sánchez,15.0,16.0,4.0,0.0,4.0,3.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+1950,Gonzalo Castro,1.0,15.0,-4.0,0.0,6.0,11.0,Pilates,0,1.0,3.0,0,4.9,Activo
+1951,Catalina Giménez,70.0,0.0,-12.0,1.0,16.0,21.0,Boxeo,1,0.0,48.4,1,100.0,En Riesgo
+1952,Lara Núñez,2.0,16.0,3.0,3.0,7.0,29.0,Yoga,0,0.84,4.0,0,4.9,Activo
+1953,Florencia Herrera,10.0,15.0,5.0,3.0,2.0,3.0,Yoga,0,0.83,6.8,0,4.9,Activo
+1954,Ignacio Gómez,20.0,7.0,-5.0,4.0,19.0,34.0,Boxeo,0,0.64,19.6,1,100.0,En Riesgo
+1955,Mía Flores,30.0,12.0,-8.0,2.0,22.0,17.0,Boxeo,1,0.86,26.8,1,100.0,En Riesgo
+1956,Franco Pérez,28.0,0.0,-15.0,7.0,20.0,7.0,Gimnasio,1,0.0,24.8,1,100.0,En Riesgo
+1957,Lautaro Morales,7.0,14.0,-2.0,2.0,9.0,20.0,Gimnasio,0,0.88,7.8,0,4.9,Activo
+1958,Catalina Pereyra,42.0,0.0,-13.0,6.0,25.0,7.0,Gimnasio,0,0.0,35.2,1,66.1,En Riesgo
+1959,Ramiro Juárez,11.0,14.0,-1.0,1.0,7.0,12.0,Boxeo,0,0.93,9.4,0,4.9,Activo
+1960,Bautista Morales,43.0,0.0,-17.0,3.0,35.0,6.0,Danza,1,0.0,39.8,1,66.1,En Riesgo
+1961,Sofía González,8.0,14.0,0.0,2.0,1.0,6.0,Boxeo,0,0.88,5.2,0,4.9,Activo
+1962,Bautista Benítez,34.0,5.0,-4.0,7.0,28.0,33.0,Danza,1,0.42,31.6,0,100.0,En Riesgo
+1963,Valentina Aguirre,61.0,0.0,-18.0,7.0,12.0,2.0,Gimnasio,1,0.0,41.4,1,100.0,En Riesgo
+1964,Rocío Flores,62.0,0.0,-11.0,5.0,28.0,44.0,Boxeo,1,0.0,48.4,1,66.1,En Riesgo
+1965,Matías Díaz,29.0,4.0,-7.0,2.0,26.0,8.0,Gimnasio,0,0.67,27.8,1,100.0,En Riesgo
+1966,Sofía Moreno,9.0,16.0,1.0,1.0,7.0,9.0,Pilates,0,0.94,8.2,0,4.9,Activo
+1967,Benjamín Acosta,8.0,12.0,-4.0,0.0,3.0,25.0,Danza,0,1.0,6.0,0,4.9,Activo
+1968,Delfina Aguirre,13.0,12.0,0.0,1.0,3.0,4.0,Boxeo,0,0.92,9.0,0,4.9,Activo
+1969,Martina Ortiz,14.0,14.0,2.0,0.0,2.0,90.0,Gimnasio,0,1.0,9.2,0,4.9,Activo
+1970,Ignacio Benítez,8.0,12.0,0.0,0.0,5.0,1.0,Yoga,0,1.0,6.8,0,4.9,Activo
+1971,Nicolás Aguirre,38.0,2.0,-8.0,3.0,28.0,8.0,Gimnasio,1,0.4,34.0,1,66.1,En Riesgo
+1972,Facundo Castro,13.0,15.0,3.0,0.0,5.0,37.0,Yoga,0,1.0,9.8,0,4.9,Activo
+1973,Franco Fernández,66.0,12.0,-11.0,1.0,31.0,14.0,Gimnasio,1,0.92,52.0,1,80.0,En Riesgo
+1974,Rocío Sánchez,9.0,14.0,1.0,1.0,11.0,8.0,Pilates,0,0.93,9.8,0,4.9,Activo
+1975,Emilia Godoy,11.0,12.0,-2.0,1.0,4.0,11.0,Boxeo,0,0.92,8.2,0,4.9,Activo
+1976,Delfina Cabrera,29.0,2.0,-10.0,5.0,19.0,44.0,Gimnasio,1,0.29,25.0,1,100.0,En Riesgo
+1977,Emilia Medina,61.0,0.0,-7.0,4.0,22.0,30.0,Gimnasio,0,0.0,45.4,1,66.1,En Riesgo
+1978,Santiago Romero,5.0,11.0,-5.0,1.0,11.0,11.0,Pilates,0,0.92,7.4,1,4.9,Activo
+1979,Ramiro Sosa,0.0,16.0,-1.0,2.0,7.0,3.0,Gimnasio,0,0.89,2.8,0,4.9,Activo
+1980,Franco Ortiz,3.0,15.0,-3.0,2.0,3.0,2.0,Boxeo,0,0.88,3.0,0,4.9,Activo
+1981,Paula Medina,62.0,0.0,-7.0,6.0,12.0,1.0,Yoga,0,0.0,42.0,1,66.1,En Riesgo
+1982,Lucía Castro,12.0,13.0,4.0,2.0,11.0,31.0,Pilates,0,0.87,11.6,0,4.9,Activo
+1983,Abril González,9.0,13.0,-1.0,0.0,10.0,5.0,Danza,0,1.0,9.4,0,4.9,Activo
+1984,Martina Domínguez,72.0,0.0,-8.0,1.0,12.0,8.0,Yoga,1,0.0,48.0,1,100.0,En Riesgo
+1985,Julieta Giménez,0.0,12.0,-5.0,1.0,6.0,13.0,Danza,0,0.92,2.4,1,4.9,Activo
+1986,Julieta Ferreyra,1.0,13.0,-2.0,2.0,8.0,9.0,Gimnasio,0,0.87,3.8,0,4.9,Activo
+1987,Abril Ríos,7.0,15.0,-4.0,0.0,5.0,3.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+1988,Milagros Gómez,32.0,12.0,-16.0,1.0,31.0,8.0,Gimnasio,1,0.92,31.6,1,100.0,En Riesgo
+1989,Lucas Ferreyra,5.0,15.0,-3.0,1.0,2.0,2.0,Gimnasio,0,0.94,3.8,0,4.9,Activo
+1990,Martina Herrera,2.0,14.0,-5.0,1.0,5.0,2.0,Gimnasio,0,0.93,3.2,1,4.9,Activo
+1991,Victoria Sánchez,14.0,10.0,0.0,1.0,5.0,4.0,Yoga,0,0.91,10.4,0,4.9,Activo
+1992,Juan Cruz Ramírez,14.0,12.0,-4.0,3.0,1.0,39.0,Boxeo,0,0.8,8.8,0,4.9,Activo
+1993,Gonzalo Torres,15.0,15.0,-2.0,1.0,5.0,9.0,Boxeo,0,0.94,11.0,0,4.9,Activo
+1994,Mía Gómez,5.0,13.0,3.0,1.0,6.0,41.0,Boxeo,0,0.93,5.4,0,4.9,Activo
+1995,Ramiro Domínguez,10.0,15.0,-3.0,0.0,5.0,5.0,Gimnasio,1,1.0,8.0,0,4.9,Activo
+1996,Agustín Juárez,3.0,17.0,5.0,2.0,10.0,4.0,Yoga,0,0.89,5.8,0,4.9,Activo
+1997,Nicolás Morales,33.0,3.0,-5.0,6.0,33.0,5.0,Gimnasio,1,0.33,33.0,1,66.1,En Riesgo
+1998,Lucía Ríos,11.0,16.0,3.0,0.0,0.0,7.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+1999,Benjamín López,42.0,0.0,-10.0,2.0,30.0,13.0,Gimnasio,1,0.0,37.2,1,66.1,En Riesgo
+2000,Paula Pereyra,11.0,14.0,3.0,0.0,6.0,10.0,Yoga,0,1.0,9.0,0,4.9,Activo
+2001,Emilia Ríos,10.0,12.0,-5.0,2.0,2.0,2.0,Gimnasio,0,0.86,6.8,1,4.9,Activo
+2002,Santiago Gómez,36.0,1.0,-16.0,6.0,16.0,12.0,Pilates,1,0.14,28.0,1,100.0,En Riesgo
+2003,Matías Romero,56.0,0.0,-11.0,4.0,27.0,8.0,Boxeo,1,0.0,44.4,1,66.1,En Riesgo
+2004,Julieta Rodríguez,46.0,0.0,-10.0,7.0,36.0,6.0,Gimnasio,1,0.0,42.0,1,100.0,En Riesgo
+2005,Facundo González,3.0,16.0,3.0,0.0,6.0,37.0,Gimnasio,0,1.0,4.2,0,4.9,Activo
+2006,Brisa Sánchez,2.0,18.0,5.0,0.0,3.0,4.0,Danza,0,1.0,2.4,0,4.9,Activo
+2007,Julieta Fernández,11.0,0.0,-12.0,6.0,20.0,33.0,Yoga,1,0.0,14.6,1,80.0,En Riesgo
+2008,Paula Martínez,40.0,0.0,-5.0,6.0,22.0,27.0,Gimnasio,0,0.0,32.8,1,66.1,En Riesgo
+2009,Candela Giménez,10.0,15.0,4.0,1.0,5.0,14.0,Boxeo,0,0.94,8.0,0,4.9,Activo
+2010,Juan Cruz Aguirre,6.0,12.0,-1.0,3.0,2.0,28.0,Gimnasio,0,0.8,4.4,0,4.9,Activo
+2011,Milagros Aguirre,9.0,12.0,-2.0,2.0,5.0,9.0,Gimnasio,0,0.86,7.4,0,4.9,Activo
+2012,Victoria Torres,13.0,13.0,-2.0,0.0,11.0,17.0,Gimnasio,0,1.0,12.2,0,4.9,Activo
+2013,Facundo Cabrera,10.0,14.0,-4.0,0.0,8.0,1.0,Gimnasio,0,1.0,9.2,0,4.9,Activo
+2014,Paula Herrera,3.0,13.0,-1.0,1.0,1.0,21.0,Gimnasio,0,0.93,2.2,0,4.9,Activo
+2015,Valentina Benítez,30.0,2.0,-4.0,5.0,32.0,11.0,Danza,1,0.29,30.8,0,100.0,En Riesgo
+2016,Benjamín González,4.0,17.0,2.0,1.0,6.0,1.0,Gimnasio,0,0.94,4.8,0,4.9,Activo
+2017,Emilia Gutiérrez,12.0,9.0,-2.0,3.0,8.0,6.0,Gimnasio,0,0.75,10.4,0,4.9,Activo
+2018,Nicolás Gómez,14.0,11.0,-1.0,2.0,10.0,39.0,Pilates,1,0.85,12.4,0,4.9,Activo
+2019,Rocío Fernández,32.0,0.0,-14.0,7.0,31.0,2.0,Gimnasio,1,0.0,31.6,1,100.0,En Riesgo
+2020,Julián Fernández,25.0,0.0,-14.0,2.0,40.0,38.0,Yoga,1,0.0,31.0,1,100.0,En Riesgo
+2021,Santiago Godoy,9.0,14.0,3.0,0.0,7.0,6.0,Pilates,0,1.0,8.2,0,4.9,Activo
+2022,Lara Ferreyra,8.0,13.0,2.0,3.0,6.0,37.0,Gimnasio,0,0.81,7.2,0,4.9,Activo
+2023,Ramiro Ramírez,56.0,0.0,-3.0,5.0,41.0,4.0,Gimnasio,1,0.0,50.0,0,100.0,En Riesgo
+2024,Facundo Núñez,0.0,18.0,4.0,0.0,3.0,36.0,Gimnasio,0,1.0,1.2,0,4.9,Activo
+2025,Lucas González,1.0,16.0,0.0,0.0,3.0,2.0,Boxeo,0,1.0,1.8,0,4.9,Activo
+2026,Santiago Ferreyra,3.0,12.0,1.0,3.0,7.0,14.0,Gimnasio,0,0.8,4.6,0,4.9,Activo
+2027,Valentina Pereyra,10.0,17.0,4.0,0.0,2.0,30.0,Danza,0,1.0,6.8,0,4.9,Activo
+2028,Mía Herrera,5.0,16.0,1.0,0.0,1.0,23.0,Pilates,0,1.0,3.4,0,4.9,Activo
+2029,Leandro Torres,63.0,0.0,-11.0,6.0,22.0,53.0,Gimnasio,0,0.0,46.6,1,66.1,En Riesgo
+2030,Agustín Pereyra,3.0,13.0,-2.0,3.0,5.0,14.0,Gimnasio,1,0.81,3.8,0,4.9,Activo
+2031,Victoria Moreno,12.0,15.0,2.0,0.0,8.0,3.0,Gimnasio,0,1.0,10.4,0,4.9,Activo
+2032,Catalina Núñez,11.0,11.0,-4.0,2.0,4.0,9.0,Gimnasio,0,0.85,8.2,0,4.9,Activo
+2033,Sofía Díaz,3.0,15.0,0.0,0.0,7.0,10.0,Boxeo,0,1.0,4.6,0,4.9,Activo
+2034,Leandro Rojas,7.0,15.0,-1.0,4.0,7.0,8.0,Danza,0,0.79,7.0,0,4.9,Activo
+2035,Ezequiel Flores,5.0,17.0,2.0,2.0,1.0,4.0,Pilates,0,0.89,3.4,0,4.9,Activo
+2036,Martina Molina,15.0,10.0,1.0,1.0,6.0,30.0,Gimnasio,0,0.91,11.4,0,4.9,Activo
+2037,Agustín Sánchez,0.0,12.0,-2.0,2.0,5.0,11.0,Gimnasio,0,0.86,2.0,0,4.9,Activo
+2038,Brisa Ruiz,33.0,0.0,-17.0,7.0,27.0,37.0,Pilates,1,0.0,30.6,1,100.0,En Riesgo
+2039,Lautaro Suárez,6.0,11.0,-4.0,0.0,11.0,3.0,Gimnasio,0,1.0,8.0,0,4.9,Activo
+2040,Leandro Núñez,6.0,11.0,-5.0,0.0,6.0,19.0,Pilates,0,1.0,6.0,1,4.9,Activo
+2041,Emilia Suárez,0.0,18.0,1.0,0.0,0.0,1.0,Danza,0,1.0,0.0,0,4.9,Activo
+2042,Lucía Molina,1.0,16.0,-1.0,0.0,11.0,36.0,Danza,0,1.0,5.0,0,4.9,Activo
+2043,Santiago Luna,9.0,12.0,0.0,0.0,8.0,6.0,Boxeo,0,1.0,8.6,0,4.9,Activo
+2044,Abril Silva,47.0,0.0,-6.0,3.0,30.0,6.0,Danza,1,0.0,40.2,1,66.1,En Riesgo
+2045,Agustín Herrera,12.0,10.0,-4.0,0.0,2.0,1.0,Danza,0,1.0,8.0,0,4.9,Activo
+2046,Candela López,5.0,14.0,-2.0,4.0,9.0,4.0,Gimnasio,0,0.78,6.6,0,4.9,Activo
+2047,Catalina Gómez,49.0,0.0,-6.0,1.0,34.0,6.0,Danza,1,0.0,43.0,1,66.1,En Riesgo
+2048,Gonzalo López,2.0,18.0,3.0,1.0,11.0,28.0,Gimnasio,0,0.95,5.6,0,4.9,Activo
+2049,Florencia Benítez,11.0,15.0,3.0,0.0,4.0,30.0,Gimnasio,0,1.0,8.2,0,4.9,Activo
+2050,Emilia Romero,8.0,13.0,-2.0,0.0,4.0,46.0,Yoga,1,1.0,6.4,0,4.9,Activo
+2051,Paula Ruiz,11.0,16.0,2.0,1.0,8.0,3.0,Pilates,0,0.94,9.8,0,4.9,Activo
+2052,Camila Rojas,10.0,10.0,-3.0,2.0,11.0,8.0,Pilates,0,0.83,10.4,0,4.9,Activo
+2053,Agustín Juárez,3.0,14.0,-2.0,1.0,4.0,1.0,Gimnasio,0,0.93,3.4,0,4.9,Activo
+2054,Candela Moreno,12.0,15.0,5.0,0.0,8.0,35.0,Danza,0,1.0,10.4,0,4.9,Activo
+2055,Agustín Moreno,17.0,0.0,-13.0,6.0,44.0,6.0,Gimnasio,1,0.0,27.8,1,100.0,En Riesgo
+2056,Julián Flores,13.0,13.0,3.0,3.0,8.0,20.0,Danza,0,0.81,11.0,0,4.9,Activo
+2057,Rocío Flores,61.0,0.0,-4.0,1.0,18.0,16.0,Boxeo,1,0.0,43.8,0,66.1,En Riesgo
+2058,Nicolás Gutiérrez,33.0,2.0,-9.0,3.0,23.0,3.0,Gimnasio,1,0.4,29.0,1,100.0,En Riesgo
+2059,Joaquín Benítez,3.0,12.0,4.0,1.0,2.0,26.0,Boxeo,0,0.92,2.6,0,4.9,Activo
+2060,Catalina Núñez,9.0,14.0,0.0,0.0,4.0,15.0,Yoga,0,1.0,7.0,0,4.9,Activo
+2061,Catalina Sánchez,45.0,0.0,-13.0,4.0,13.0,13.0,Gimnasio,0,0.0,32.2,1,66.1,En Riesgo
+2062,Sofía Ortiz,11.0,15.0,2.0,0.0,10.0,1.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+2063,Lara Romero,11.0,13.0,-2.0,2.0,0.0,4.0,Boxeo,0,0.87,6.6,0,4.9,Activo
+2064,Julián Herrera,70.0,0.0,-12.0,1.0,29.0,6.0,Gimnasio,1,0.0,53.6,1,100.0,En Riesgo
+2065,Lautaro Juárez,11.0,14.0,1.0,3.0,0.0,19.0,Gimnasio,0,0.82,6.6,0,4.9,Activo
+2066,Camila López,9.0,16.0,0.0,0.0,0.0,28.0,Gimnasio,0,1.0,5.4,0,4.9,Activo
+2067,Antonella Luna,2.0,15.0,1.0,1.0,0.0,17.0,Yoga,0,0.94,1.2,0,4.9,Activo
+2068,Benjamín Pérez,12.0,16.0,1.0,1.0,2.0,10.0,Gimnasio,0,0.94,8.0,0,4.9,Activo
+2069,Abril Morales,59.0,0.0,-7.0,7.0,14.0,43.0,Pilates,1,0.0,41.0,1,100.0,En Riesgo
+2070,Facundo Cabrera,4.0,11.0,-3.0,2.0,10.0,20.0,Pilates,0,0.85,6.4,0,4.9,Activo
+2071,Matías González,58.0,0.0,-4.0,6.0,24.0,7.0,Pilates,1,0.0,44.4,0,66.1,En Riesgo
+2072,Antonella Molina,0.0,17.0,5.0,0.0,2.0,81.0,Boxeo,0,1.0,0.8,0,4.9,Activo
+2073,Benjamín Benítez,64.0,0.0,-14.0,3.0,26.0,13.0,Danza,0,0.0,48.8,1,66.1,En Riesgo
+2074,Candela Flores,8.0,15.0,2.0,1.0,3.0,12.0,Danza,0,0.94,6.0,0,4.9,Activo
+2075,Nicolás Torres,20.0,1.0,-15.0,2.0,44.0,53.0,Boxeo,1,0.33,29.6,1,100.0,En Riesgo
+2076,Ezequiel Rodríguez,13.0,11.0,-2.0,0.0,3.0,27.0,Boxeo,0,1.0,9.0,0,4.9,Activo
+2077,Gonzalo López,11.0,12.0,-5.0,0.0,0.0,3.0,Gimnasio,0,1.0,6.6,1,4.9,Activo
+2078,Agustín Acosta,3.0,12.0,-1.0,2.0,10.0,7.0,Danza,0,0.86,5.8,0,4.9,Activo
+2079,Lautaro Castro,11.0,16.0,4.0,0.0,7.0,1.0,Yoga,0,1.0,9.4,0,4.9,Activo
+2080,Julieta Ferreyra,9.0,10.0,0.0,1.0,6.0,8.0,Danza,1,0.91,7.8,0,4.9,Activo
+2081,Ignacio Ferreyra,12.0,13.0,1.0,2.0,4.0,3.0,Danza,0,0.87,8.8,0,4.9,Activo
+2082,Joaquín Sosa,7.0,14.0,-2.0,0.0,2.0,4.0,Boxeo,0,1.0,5.0,0,4.9,Activo
+2083,Benjamín Ramírez,14.0,14.0,-4.0,0.0,3.0,6.0,Danza,0,1.0,9.6,0,4.9,Activo
+2084,Abril Gómez,18.0,5.0,-10.0,1.0,23.0,3.0,Gimnasio,1,0.83,20.0,1,100.0,En Riesgo
+2085,Delfina Herrera,8.0,12.0,-1.0,1.0,8.0,1.0,Yoga,0,0.92,8.0,0,4.9,Activo
+2086,Martina Silva,5.0,17.0,2.0,0.0,8.0,12.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+2087,Mía Suárez,14.0,13.0,-3.0,1.0,2.0,39.0,Danza,0,0.93,9.2,0,4.9,Activo
+2088,Ignacio Giménez,6.0,10.0,-5.0,2.0,3.0,33.0,Pilates,0,0.83,4.8,1,4.9,Activo
+2089,Victoria Godoy,40.0,0.0,-17.0,2.0,22.0,10.0,Gimnasio,1,0.0,32.8,1,66.1,En Riesgo
+2090,Abril Cabrera,39.0,0.0,-11.0,6.0,15.0,9.0,Gimnasio,0,0.0,29.4,1,100.0,En Riesgo
+2091,Ramiro Díaz,8.0,11.0,-4.0,0.0,3.0,5.0,Gimnasio,0,1.0,6.0,0,4.9,Activo
+2092,Mateo Benítez,22.0,0.0,-10.0,6.0,15.0,20.0,Gimnasio,0,0.0,19.2,1,100.0,En Riesgo
+2093,Mateo Morales,4.0,13.0,4.0,2.0,8.0,10.0,Pilates,0,0.87,5.6,0,4.9,Activo
+2094,Gonzalo Herrera,22.0,5.0,-8.0,2.0,35.0,44.0,Gimnasio,0,0.71,27.2,1,100.0,En Riesgo
+2095,Agustín Domínguez,22.0,2.0,-16.0,7.0,44.0,34.0,Danza,1,0.22,30.8,1,100.0,En Riesgo
+2096,Lara Aguirre,25.0,6.0,-8.0,3.0,24.0,2.0,Gimnasio,1,0.67,24.6,1,100.0,En Riesgo
+2097,Franco Rodríguez,12.0,13.0,-2.0,1.0,7.0,16.0,Gimnasio,0,0.93,10.0,0,4.9,Activo
+2098,Delfina Núñez,14.0,16.0,3.0,1.0,7.0,23.0,Yoga,0,0.94,11.2,0,4.9,Activo
+2099,Lucía Domínguez,11.0,1.0,-5.0,4.0,32.0,15.0,Boxeo,1,0.2,19.4,1,80.0,En Riesgo
+2100,Agustín Luna,4.0,12.0,2.0,1.0,1.0,31.0,Pilates,0,0.92,2.8,0,4.9,Activo
+2101,Abril Ferreyra,1.0,16.0,0.0,0.0,0.0,14.0,Danza,0,1.0,0.6,0,4.9,Activo
+2102,Franco Ortiz,15.0,12.0,-1.0,1.0,6.0,1.0,Pilates,0,0.92,11.4,0,4.9,Activo
+2103,Milagros López,0.0,18.0,3.0,1.0,3.0,20.0,Gimnasio,0,0.95,1.2,0,4.9,Activo
+2104,Matías Suárez,58.0,0.0,-15.0,3.0,29.0,32.0,Gimnasio,1,0.0,46.4,1,66.1,En Riesgo
+2105,Joaquín Medina,4.0,13.0,-2.0,2.0,8.0,6.0,Boxeo,0,0.87,5.6,0,4.9,Activo
+2106,Sofía Gutiérrez,3.0,15.0,2.0,1.0,8.0,16.0,Pilates,0,0.94,5.0,0,4.9,Activo
+2107,Julián Herrera,9.0,16.0,3.0,1.0,9.0,31.0,Boxeo,0,0.94,9.0,0,4.9,Activo
+2108,Sofía Sosa,4.0,14.0,2.0,0.0,7.0,32.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+2109,Facundo Pereyra,0.0,12.0,-5.0,2.0,11.0,12.0,Boxeo,0,0.86,4.4,1,4.9,Activo
+2110,Valentina Álvarez,61.0,0.0,-3.0,5.0,8.0,6.0,Gimnasio,1,0.0,39.8,0,66.1,En Riesgo
+2111,Julieta Pérez,4.0,14.0,-2.0,1.0,8.0,4.0,Pilates,0,0.93,5.6,0,4.9,Activo
+2112,Gonzalo Aguirre,38.0,4.0,-5.0,2.0,12.0,12.0,Pilates,0,0.67,27.6,1,100.0,En Riesgo
+2113,Catalina Moreno,11.0,0.0,-13.0,3.0,34.0,9.0,Danza,0,0.0,20.2,1,80.0,En Riesgo
+2114,Julián Flores,11.0,14.0,4.0,0.0,4.0,1.0,Danza,0,1.0,8.2,0,4.9,Activo
+2115,Lara Silva,3.0,14.0,-2.0,1.0,1.0,1.0,Pilates,0,0.93,2.2,0,4.9,Activo
+2116,Lara Gutiérrez,3.0,16.0,3.0,4.0,5.0,92.0,Boxeo,0,0.8,3.8,0,4.9,Activo
+2117,Lucía Ruiz,69.0,0.0,-6.0,7.0,28.0,9.0,Gimnasio,1,0.0,52.6,1,100.0,En Riesgo
+2118,Agustín Silva,11.0,0.0,-9.0,5.0,29.0,33.0,Gimnasio,1,0.0,18.2,1,80.0,En Riesgo
+2119,Delfina Ríos,11.0,2.0,-4.0,5.0,14.0,24.0,Pilates,0,0.29,12.2,0,80.0,En Riesgo
+2120,Sofía Sosa,53.0,0.0,-5.0,4.0,29.0,2.0,Gimnasio,0,0.0,43.4,1,66.1,En Riesgo
+2121,Agustín Suárez,12.0,14.0,1.0,0.0,1.0,36.0,Gimnasio,0,1.0,7.6,0,4.9,Activo
+2122,Victoria Domínguez,57.0,0.0,-6.0,3.0,17.0,8.0,Yoga,1,0.0,41.0,1,66.1,En Riesgo
+2123,Bautista Aguirre,58.0,0.0,-13.0,3.0,8.0,12.0,Yoga,1,0.0,38.0,1,66.1,En Riesgo
+2124,Mía González,12.0,10.0,-3.0,1.0,1.0,5.0,Boxeo,0,0.91,7.6,0,4.9,Activo
+2125,Victoria Cabrera,47.0,1.0,-3.0,6.0,16.0,2.0,Gimnasio,1,0.14,34.6,0,66.1,En Riesgo
+2126,Joaquín Gómez,24.0,0.0,-12.0,7.0,33.0,12.0,Danza,1,0.0,27.6,1,100.0,En Riesgo
+2127,Catalina Suárez,63.0,0.0,-11.0,3.0,14.0,25.0,Boxeo,1,0.0,43.4,1,66.1,En Riesgo
+2128,Lucía Giménez,11.0,13.0,0.0,1.0,11.0,10.0,Pilates,1,0.93,11.0,0,4.9,Activo
+2129,Antonella Martínez,7.0,15.0,3.0,3.0,7.0,17.0,Gimnasio,0,0.83,7.0,0,4.9,Activo
+2130,Delfina Torres,1.0,14.0,-4.0,0.0,7.0,11.0,Gimnasio,0,1.0,3.4,0,4.9,Activo
+2131,Julieta Fernández,9.0,15.0,4.0,2.0,1.0,8.0,Gimnasio,0,0.88,5.8,0,4.9,Activo
+2132,Gonzalo Benítez,15.0,12.0,-5.0,0.0,3.0,5.0,Boxeo,0,1.0,10.2,1,4.9,Activo
+2133,Leandro Núñez,16.0,15.0,2.0,0.0,0.0,5.0,Boxeo,1,1.0,9.6,0,100.0,En Riesgo
+2134,Benjamín Rojas,54.0,0.0,-13.0,7.0,11.0,3.0,Boxeo,1,0.0,36.8,1,100.0,En Riesgo
+2135,Agustín Romero,11.0,11.0,-4.0,0.0,1.0,3.0,Boxeo,0,1.0,7.0,0,4.9,Activo
+2136,Lautaro Molina,46.0,0.0,-9.0,3.0,27.0,4.0,Danza,0,0.0,38.4,1,66.1,En Riesgo
+2137,Julián Acosta,14.0,11.0,-4.0,1.0,5.0,1.0,Gimnasio,0,0.92,10.4,0,4.9,Activo
+2138,Santiago Flores,54.0,0.0,-16.0,4.0,12.0,5.0,Pilates,0,0.0,37.2,1,66.1,En Riesgo
+2139,Santiago Morales,8.0,9.0,-4.0,3.0,6.0,4.0,Gimnasio,0,0.75,7.2,0,4.9,Activo
+2140,Lucía Herrera,10.0,15.0,1.0,0.0,11.0,15.0,Pilates,0,1.0,10.4,0,4.9,Activo
+2141,Santiago Rojas,1.0,16.0,4.0,3.0,8.0,2.0,Gimnasio,0,0.84,3.8,0,4.9,Activo
+2142,Facundo Herrera,0.0,16.0,2.0,4.0,5.0,26.0,Danza,0,0.8,2.0,0,4.9,Activo
+2143,Benjamín López,8.0,14.0,-2.0,1.0,10.0,13.0,Gimnasio,0,0.93,8.8,0,4.9,Activo
+2144,Lucía López,57.0,0.0,-8.0,3.0,44.0,2.0,Yoga,1,0.0,51.8,1,100.0,En Riesgo
+2145,Gonzalo Ferreyra,10.0,12.0,-1.0,2.0,9.0,10.0,Yoga,0,0.86,9.6,0,4.9,Activo
+2146,Lucas Cabrera,12.0,13.0,-1.0,0.0,8.0,17.0,Gimnasio,0,1.0,10.4,0,4.9,Activo
+2147,Camila Silva,47.0,0.0,-17.0,3.0,24.0,1.0,Yoga,1,0.0,37.8,1,66.1,En Riesgo
+2148,Lara Luna,5.0,17.0,5.0,0.0,0.0,8.0,Pilates,0,1.0,3.0,0,4.9,Activo
+2149,Ignacio López,0.0,12.0,-2.0,1.0,9.0,1.0,Pilates,0,0.92,3.6,0,4.9,Activo
+2150,Ezequiel Rodríguez,2.0,17.0,-1.0,1.0,8.0,28.0,Gimnasio,0,0.94,4.4,0,4.9,Activo
+2151,Lara Romero,4.0,16.0,2.0,1.0,0.0,7.0,Gimnasio,0,0.94,2.4,0,4.9,Activo
+2152,Tomás Pereyra,41.0,0.0,-16.0,4.0,23.0,6.0,Gimnasio,1,0.0,33.8,1,66.1,En Riesgo
+2153,Gonzalo Pérez,13.0,8.0,-5.0,0.0,8.0,37.0,Pilates,0,1.0,11.0,1,4.9,Activo
+2154,Milagros Suárez,11.0,0.0,-15.0,1.0,23.0,5.0,Pilates,1,0.0,15.8,1,80.0,En Riesgo
+2155,Santiago Pereyra,40.0,0.0,-10.0,7.0,13.0,22.0,Yoga,1,0.0,29.2,1,100.0,En Riesgo
+2156,Santiago Ramírez,10.0,13.0,-3.0,0.0,4.0,18.0,Gimnasio,0,1.0,7.6,0,4.9,Activo
+2157,Lucas Giménez,0.0,18.0,3.0,2.0,0.0,21.0,Pilates,0,0.9,0.0,0,4.9,Activo
+2158,Emilia Pereyra,56.0,0.0,-8.0,4.0,19.0,23.0,Gimnasio,1,0.0,41.2,1,66.1,En Riesgo
+2159,Facundo Suárez,4.0,16.0,-2.0,0.0,2.0,10.0,Pilates,0,1.0,3.2,0,4.9,Activo
+2160,Joaquín Sosa,4.0,11.0,1.0,2.0,5.0,5.0,Danza,0,0.85,4.4,0,4.9,Activo
+2161,Antonella Acosta,11.0,9.0,-2.0,3.0,2.0,12.0,Pilates,0,0.75,7.4,0,4.9,Activo
+2162,Tomás González,59.0,0.0,-4.0,3.0,22.0,19.0,Yoga,0,0.0,44.2,0,66.1,En Riesgo
+2163,Ramiro Romero,36.0,3.0,-5.0,5.0,27.0,19.0,Gimnasio,1,0.38,32.4,1,66.1,En Riesgo
+2164,Juan Cruz Molina,15.0,16.0,3.0,1.0,2.0,1.0,Pilates,0,0.94,9.8,0,4.9,Activo
+2165,Ezequiel Ramírez,6.0,11.0,1.0,1.0,11.0,12.0,Boxeo,0,0.92,8.0,0,4.9,Activo
+2166,Emilia Godoy,4.0,14.0,2.0,4.0,10.0,13.0,Pilates,0,0.78,6.4,0,4.9,Activo
+2167,Valentina Martínez,38.0,2.0,-5.0,2.0,24.0,4.0,Gimnasio,0,0.5,32.4,1,66.1,En Riesgo
+2168,Matías Moreno,0.0,16.0,3.0,2.0,9.0,17.0,Gimnasio,0,0.89,3.6,0,4.9,Activo
+2169,Tomás Juárez,74.0,0.0,-14.0,3.0,23.0,20.0,Gimnasio,1,0.0,53.6,1,100.0,En Riesgo
+2170,Tomás Ríos,17.0,3.0,-11.0,7.0,25.0,21.0,Boxeo,1,0.3,20.2,1,100.0,En Riesgo
+2171,Victoria Benítez,11.0,17.0,0.0,0.0,8.0,24.0,Yoga,0,1.0,9.8,0,4.9,Activo
+2172,Mateo Ramírez,7.0,12.0,-3.0,3.0,4.0,17.0,Gimnasio,1,0.8,5.8,0,4.9,Activo
+2173,Paula Flores,0.0,15.0,0.0,0.0,7.0,1.0,Gimnasio,0,1.0,2.8,0,4.9,Activo
+2174,Antonella Moreno,37.0,1.0,-6.0,4.0,23.0,13.0,Pilates,0,0.2,31.4,1,100.0,En Riesgo
+2175,Nicolás Núñez,9.0,11.0,-1.0,1.0,11.0,20.0,Yoga,0,0.92,9.8,0,4.9,Activo
+2176,Victoria Cabrera,39.0,5.0,-4.0,1.0,14.0,4.0,Yoga,1,0.83,29.0,0,100.0,En Riesgo
+2177,Juan Cruz González,56.0,0.0,-14.0,2.0,28.0,1.0,Danza,0,0.0,44.8,1,66.1,En Riesgo
+2178,Lucas Godoy,6.0,16.0,3.0,0.0,11.0,2.0,Gimnasio,0,1.0,8.0,0,4.9,Activo
+2179,Matías Acosta,67.0,0.0,-10.0,6.0,15.0,29.0,Gimnasio,1,0.0,46.2,1,100.0,En Riesgo
+2180,Tomás Torres,4.0,17.0,1.0,0.0,7.0,11.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+2181,Ignacio Benítez,0.0,16.0,-3.0,0.0,6.0,11.0,Danza,0,1.0,2.4,0,4.9,Activo
+2182,Mateo Godoy,41.0,0.0,-10.0,6.0,13.0,4.0,Gimnasio,0,0.0,29.8,1,100.0,En Riesgo
+2183,Catalina Domínguez,13.0,10.0,-4.0,0.0,5.0,13.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+2184,Florencia Moreno,9.0,14.0,1.0,1.0,0.0,1.0,Boxeo,1,0.93,5.4,0,4.9,Activo
+2185,Tomás Molina,4.0,15.0,-2.0,1.0,6.0,6.0,Pilates,0,0.94,4.8,0,4.9,Activo
+2186,Agustín Molina,4.0,18.0,4.0,0.0,11.0,41.0,Gimnasio,0,1.0,6.8,0,4.9,Activo
+2187,Abril Núñez,1.0,20.0,5.0,1.0,2.0,28.0,Pilates,0,0.95,1.4,0,4.9,Activo
+2188,Abril Domínguez,24.0,3.0,-12.0,2.0,18.0,3.0,Yoga,1,0.6,21.6,1,100.0,En Riesgo
+2189,Benjamín Molina,16.0,11.0,-3.0,1.0,6.0,12.0,Gimnasio,1,0.92,12.0,0,100.0,En Riesgo
+2190,Catalina Ferreyra,8.0,12.0,-1.0,0.0,9.0,3.0,Gimnasio,0,1.0,8.4,0,4.9,Activo
+2191,Candela Molina,10.0,14.0,2.0,0.0,1.0,10.0,Gimnasio,0,1.0,6.4,0,4.9,Activo
+2192,Emilia Ruiz,14.0,12.0,1.0,1.0,5.0,12.0,Gimnasio,0,0.92,10.4,0,4.9,Activo
+2193,Emilia Benítez,13.0,14.0,4.0,1.0,6.0,29.0,Pilates,0,0.93,10.2,0,4.9,Activo
+2194,Leandro Ferreyra,24.0,6.0,-6.0,7.0,24.0,4.0,Gimnasio,1,0.46,24.0,1,100.0,En Riesgo
+2195,Ignacio Acosta,6.0,10.0,-4.0,1.0,11.0,5.0,Gimnasio,0,0.91,8.0,0,4.9,Activo
+2196,Sofía Flores,62.0,0.0,-9.0,1.0,30.0,40.0,Pilates,1,0.0,49.2,1,66.1,En Riesgo
+2197,Facundo Molina,50.0,0.0,-7.0,7.0,26.0,7.0,Boxeo,1,0.0,40.4,1,100.0,En Riesgo
+2198,Julieta Suárez,72.0,0.0,-17.0,6.0,41.0,1.0,Pilates,1,0.0,59.6,1,100.0,En Riesgo
+2199,Ramiro Díaz,11.0,12.0,1.0,1.0,7.0,7.0,Gimnasio,0,0.92,9.4,0,4.9,Activo
+2200,Candela Núñez,4.0,14.0,-1.0,1.0,2.0,34.0,Gimnasio,1,0.93,3.2,0,4.9,Activo
+2201,Lucas Domínguez,11.0,15.0,1.0,1.0,0.0,9.0,Gimnasio,0,0.94,6.6,0,4.9,Activo
+2202,Emilia Gutiérrez,51.0,0.0,-15.0,7.0,38.0,35.0,Boxeo,1,0.0,45.8,1,100.0,En Riesgo
+2203,Lucía Acosta,59.0,0.0,-14.0,7.0,31.0,1.0,Pilates,1,0.0,47.8,1,100.0,En Riesgo
+2204,Valentina Flores,2.0,18.0,5.0,2.0,2.0,84.0,Gimnasio,0,0.9,2.0,0,4.9,Activo
+2205,Paula Ríos,38.0,0.0,-14.0,2.0,37.0,6.0,Gimnasio,1,0.0,37.6,1,66.1,En Riesgo
+2206,Franco Romero,8.0,17.0,-1.0,0.0,7.0,18.0,Gimnasio,0,1.0,7.6,0,4.9,Activo
+2207,Agustín Gutiérrez,5.0,17.0,3.0,1.0,8.0,4.0,Gimnasio,0,0.94,6.2,0,4.9,Activo
+2208,Santiago Ortiz,12.0,9.0,-4.0,1.0,10.0,23.0,Pilates,0,0.9,11.2,0,4.9,Activo
+2209,Matías Romero,61.0,0.0,-15.0,6.0,29.0,4.0,Pilates,0,0.0,48.2,1,66.1,En Riesgo
+2210,Milagros Godoy,11.0,16.0,5.0,0.0,4.0,2.0,Gimnasio,0,1.0,8.2,0,4.9,Activo
+2211,Emilia Silva,3.0,11.0,-5.0,3.0,2.0,13.0,Pilates,0,0.79,2.6,1,4.9,Activo
+2212,Ignacio Sánchez,15.0,10.0,-2.0,0.0,9.0,20.0,Gimnasio,0,1.0,12.6,0,4.9,Activo
+2213,Sofía Acosta,45.0,0.0,-10.0,3.0,17.0,3.0,Danza,0,0.0,33.8,1,66.1,En Riesgo
+2214,Victoria Acosta,29.0,7.0,-5.0,2.0,27.0,34.0,Yoga,1,0.78,28.2,1,100.0,En Riesgo
+2215,Bautista Martínez,14.0,14.0,2.0,0.0,5.0,16.0,Boxeo,0,1.0,10.4,0,4.9,Activo
+2216,Matías Álvarez,11.0,5.0,-11.0,5.0,21.0,1.0,Gimnasio,1,0.5,15.0,1,80.0,En Riesgo
+2217,Delfina Medina,11.0,14.0,4.0,1.0,8.0,17.0,Gimnasio,0,0.93,9.8,0,4.9,Activo
+2218,Florencia Pereyra,9.0,19.0,0.0,2.0,5.0,8.0,Yoga,0,0.9,7.4,0,4.9,Activo
+2219,Julián Rojas,8.0,16.0,2.0,1.0,3.0,13.0,Pilates,0,0.94,6.0,0,4.9,Activo
+2220,Facundo Pérez,15.0,13.0,2.0,3.0,0.0,2.0,Gimnasio,0,0.81,9.0,0,4.9,Activo
+2221,Emilia Fernández,9.0,12.0,2.0,2.0,10.0,17.0,Yoga,0,0.86,9.4,0,4.9,Activo
+2222,Delfina López,45.0,0.0,-13.0,4.0,24.0,23.0,Gimnasio,0,0.0,36.6,1,66.1,En Riesgo
+2223,Julieta Romero,4.0,15.0,0.0,1.0,5.0,1.0,Danza,0,0.94,4.4,0,4.9,Activo
+2224,Paula Herrera,3.0,14.0,4.0,0.0,5.0,4.0,Yoga,0,1.0,3.8,0,4.9,Activo
+2225,Julieta Castro,52.0,0.0,-7.0,4.0,25.0,29.0,Pilates,1,0.0,41.2,1,66.1,En Riesgo
+2226,Bautista Fernández,3.0,17.0,0.0,2.0,4.0,7.0,Yoga,1,0.89,3.4,0,4.9,Activo
+2227,Sofía Fernández,11.0,10.0,-2.0,2.0,10.0,3.0,Boxeo,0,0.83,10.6,0,4.9,Activo
+2228,Matías Moreno,10.0,11.0,0.0,2.0,10.0,12.0,Pilates,0,0.85,10.0,0,4.9,Activo
+2229,Matías Gómez,2.0,18.0,1.0,0.0,9.0,72.0,Gimnasio,0,1.0,4.8,0,4.9,Activo
+2230,Ezequiel López,61.0,0.0,-8.0,3.0,33.0,1.0,Yoga,0,0.0,49.8,1,66.1,En Riesgo
+2231,Franco Silva,14.0,17.0,1.0,1.0,2.0,17.0,Gimnasio,0,0.94,9.2,0,4.9,Activo
+2232,Victoria Ramírez,42.0,0.0,-15.0,3.0,8.0,6.0,Danza,1,0.0,28.4,1,100.0,En Riesgo
+2233,Matías Sánchez,0.0,14.0,0.0,2.0,10.0,8.0,Boxeo,0,0.88,4.0,0,4.9,Activo
+2234,Julián Pérez,11.0,17.0,0.0,0.0,0.0,6.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+2235,Franco Juárez,2.0,16.0,4.0,0.0,4.0,17.0,Gimnasio,0,1.0,2.8,0,4.9,Activo
+2236,Julieta Pérez,1.0,18.0,5.0,1.0,5.0,74.0,Gimnasio,0,0.95,2.6,0,4.9,Activo
+2237,Brisa Cabrera,4.0,18.0,3.0,1.0,9.0,12.0,Pilates,0,0.95,6.0,0,4.9,Activo
+2238,Brisa Ríos,25.0,3.0,-10.0,3.0,29.0,19.0,Danza,0,0.5,26.6,1,100.0,En Riesgo
+2239,Mía Suárez,15.0,15.0,2.0,0.0,4.0,5.0,Boxeo,0,1.0,10.6,0,4.9,Activo
+2240,Franco Sánchez,3.0,14.0,4.0,1.0,8.0,31.0,Gimnasio,0,0.93,5.0,0,4.9,Activo
+2241,Joaquín Suárez,57.0,0.0,-3.0,7.0,13.0,1.0,Boxeo,1,0.0,39.4,0,100.0,En Riesgo
+2242,Milagros Giménez,38.0,2.0,-3.0,7.0,26.0,6.0,Gimnasio,1,0.22,33.2,0,100.0,En Riesgo
+2243,Benjamín Acosta,29.0,1.0,-12.0,2.0,8.0,9.0,Pilates,0,0.33,20.6,1,100.0,En Riesgo
+2244,Matías Rojas,2.0,18.0,4.0,2.0,10.0,18.0,Pilates,0,0.9,5.2,0,4.9,Activo
+2245,Gonzalo Rojas,1.0,13.0,-4.0,0.0,8.0,5.0,Yoga,0,1.0,3.8,0,4.9,Activo
+2246,Leandro Cabrera,0.0,11.0,2.0,3.0,5.0,17.0,Gimnasio,0,0.79,2.0,0,4.9,Activo
+2247,Lara Molina,5.0,11.0,-4.0,0.0,1.0,8.0,Gimnasio,0,1.0,3.4,0,4.9,Activo
+2248,Santiago Molina,67.0,0.0,-17.0,2.0,10.0,10.0,Gimnasio,1,0.0,44.2,1,100.0,En Riesgo
+2249,Rocío Morales,11.0,13.0,-4.0,1.0,8.0,7.0,Gimnasio,0,0.93,9.8,0,4.9,Activo
+2250,Santiago Flores,12.0,15.0,2.0,1.0,5.0,24.0,Gimnasio,0,0.94,9.2,0,4.9,Activo
+2251,Tomás Domínguez,49.0,0.0,-14.0,5.0,22.0,15.0,Gimnasio,1,0.0,38.2,1,66.1,En Riesgo
+2252,Delfina Fernández,6.0,11.0,-5.0,3.0,6.0,22.0,Gimnasio,0,0.79,6.0,1,4.9,Activo
+2253,Mateo Ortiz,3.0,15.0,1.0,4.0,9.0,15.0,Gimnasio,0,0.79,5.4,0,4.9,Activo
+2254,Antonella Ruiz,7.0,14.0,1.0,1.0,6.0,14.0,Boxeo,0,0.93,6.6,0,4.9,Activo
+2255,Rocío Ramírez,12.0,14.0,5.0,0.0,6.0,37.0,Gimnasio,0,1.0,9.6,0,4.9,Activo
+2256,Valentina Fernández,11.0,15.0,-1.0,1.0,3.0,22.0,Boxeo,0,0.94,7.8,0,4.9,Activo
+2257,Joaquín Silva,9.0,15.0,2.0,4.0,5.0,35.0,Danza,0,0.79,7.4,0,4.9,Activo
+2258,Lucía Martínez,7.0,12.0,-1.0,2.0,2.0,26.0,Yoga,0,0.86,5.0,0,4.9,Activo
+2259,Gonzalo Ríos,11.0,17.0,3.0,0.0,4.0,11.0,Boxeo,0,1.0,8.2,0,4.9,Activo
+2260,Florencia González,9.0,14.0,-2.0,0.0,11.0,19.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+2261,Joaquín Flores,29.0,3.0,-6.0,4.0,44.0,7.0,Gimnasio,1,0.43,35.0,1,100.0,En Riesgo
+2262,Joaquín Pérez,7.0,16.0,-1.0,2.0,1.0,12.0,Boxeo,0,0.89,4.6,0,4.9,Activo
+2263,Joaquín Benítez,15.0,16.0,5.0,0.0,0.0,3.0,Pilates,0,1.0,9.0,0,4.9,Activo
+2264,Victoria Fernández,1.0,16.0,5.0,1.0,5.0,15.0,Boxeo,0,0.94,2.6,0,4.9,Activo
+2265,Julieta Ferreyra,52.0,1.0,-4.0,6.0,16.0,39.0,Gimnasio,1,0.14,37.6,0,66.1,En Riesgo
+2266,Joaquín Moreno,7.0,12.0,-1.0,0.0,8.0,17.0,Yoga,0,1.0,7.4,0,4.9,Activo
+2267,Florencia Rodríguez,21.0,7.0,-4.0,2.0,33.0,25.0,Gimnasio,0,0.78,25.8,0,100.0,En Riesgo
+2268,Mateo Domínguez,19.0,2.0,-13.0,4.0,39.0,9.0,Yoga,0,0.33,27.0,1,100.0,En Riesgo
+2269,Lucas Núñez,9.0,11.0,-2.0,4.0,6.0,18.0,Danza,0,0.73,7.8,0,4.9,Activo
+2270,Facundo Aguirre,11.0,16.0,4.0,2.0,10.0,16.0,Pilates,0,0.89,10.6,0,4.9,Activo
+2271,Brisa Giménez,11.0,8.0,-5.0,2.0,6.0,17.0,Gimnasio,0,0.8,9.0,1,4.9,Activo
+2272,Benjamín González,11.0,12.0,-4.0,1.0,7.0,25.0,Gimnasio,0,0.92,9.4,0,4.9,Activo
+2273,Milagros Castro,5.0,15.0,2.0,0.0,8.0,39.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+2274,Abril Molina,14.0,12.0,-5.0,0.0,9.0,4.0,Pilates,0,1.0,12.0,1,4.9,Activo
+2275,Ramiro Benítez,14.0,10.0,-5.0,0.0,1.0,17.0,Gimnasio,0,1.0,8.8,1,4.9,Activo
+2276,Delfina Suárez,15.0,11.0,-2.0,0.0,10.0,7.0,Gimnasio,0,1.0,13.0,0,4.9,Activo
+2277,Camila Sosa,1.0,14.0,-1.0,0.0,9.0,2.0,Pilates,0,1.0,4.2,0,4.9,Activo
+2278,Martina Giménez,4.0,15.0,-2.0,0.0,5.0,2.0,Gimnasio,0,1.0,4.4,0,4.9,Activo
+2279,Martina Ramírez,2.0,16.0,1.0,0.0,0.0,11.0,Gimnasio,0,1.0,1.2,0,4.9,Activo
+2280,Paula González,13.0,17.0,4.0,0.0,7.0,19.0,Pilates,0,1.0,10.6,0,4.9,Activo
+2281,Sofía Ramírez,42.0,3.0,-5.0,3.0,10.0,4.0,Yoga,1,0.5,29.2,1,100.0,En Riesgo
+2282,Nicolás Acosta,2.0,17.0,-2.0,1.0,5.0,9.0,Gimnasio,0,0.94,3.2,0,4.9,Activo
+2283,Leandro Pérez,8.0,12.0,-3.0,2.0,0.0,20.0,Pilates,0,0.86,4.8,0,4.9,Activo
+2284,Martina Domínguez,35.0,0.0,-7.0,3.0,38.0,35.0,Danza,1,0.0,36.2,1,66.1,En Riesgo
+2285,Valentina Silva,7.0,17.0,0.0,1.0,1.0,18.0,Danza,0,0.94,4.6,0,4.9,Activo
+2286,Agustín Gutiérrez,1.0,16.0,2.0,0.0,8.0,12.0,Gimnasio,0,1.0,3.8,0,4.9,Activo
+2287,Florencia Pereyra,4.0,17.0,2.0,1.0,2.0,3.0,Gimnasio,0,0.94,3.2,0,4.9,Activo
+2288,Victoria Morales,8.0,12.0,-2.0,1.0,7.0,1.0,Boxeo,0,0.92,7.6,0,4.9,Activo
+2289,Lucía Godoy,34.0,1.0,-9.0,2.0,43.0,6.0,Gimnasio,1,0.33,37.6,1,100.0,En Riesgo
+2290,Delfina Núñez,5.0,14.0,1.0,1.0,7.0,4.0,Danza,0,0.93,5.8,0,4.9,Activo
+2291,Lucas González,28.0,1.0,-13.0,2.0,23.0,19.0,Yoga,0,0.33,26.0,1,100.0,En Riesgo
+2292,Catalina Godoy,47.0,3.0,-11.0,5.0,11.0,19.0,Yoga,0,0.38,32.6,1,66.1,En Riesgo
+2293,Matías Suárez,13.0,15.0,-1.0,1.0,6.0,10.0,Danza,0,0.94,10.2,0,4.9,Activo
+2294,Florencia Ferreyra,47.0,0.0,-14.0,1.0,39.0,37.0,Pilates,1,0.0,43.8,1,66.1,En Riesgo
+2295,Valentina Díaz,3.0,15.0,-4.0,2.0,2.0,19.0,Gimnasio,0,0.88,2.6,0,4.9,Activo
+2296,Leandro Romero,2.0,18.0,5.0,1.0,10.0,1.0,Pilates,0,0.95,5.2,0,4.9,Activo
+2297,Martina Giménez,12.0,13.0,-4.0,0.0,5.0,9.0,Gimnasio,0,1.0,9.2,0,4.9,Activo
+2298,Brisa Díaz,12.0,10.0,-3.0,0.0,1.0,3.0,Gimnasio,0,1.0,7.6,0,4.9,Activo
+2299,Abril Ferreyra,14.0,11.0,1.0,1.0,1.0,22.0,Gimnasio,0,0.92,8.8,0,4.9,Activo
+2300,Lara Herrera,15.0,12.0,-4.0,0.0,3.0,2.0,Boxeo,0,1.0,10.2,0,4.9,Activo
+2301,Nicolás Flores,4.0,12.0,-4.0,4.0,3.0,11.0,Gimnasio,0,0.75,3.6,0,4.9,Activo
+2302,Ramiro Domínguez,43.0,0.0,-7.0,6.0,8.0,14.0,Danza,0,0.0,29.0,1,100.0,En Riesgo
+2303,Brisa Godoy,11.0,10.0,-4.0,1.0,7.0,15.0,Gimnasio,0,0.91,9.4,0,4.9,Activo
+2304,Bautista Torres,1.0,15.0,1.0,0.0,1.0,19.0,Danza,0,1.0,1.0,0,4.9,Activo
+2305,Matías Romero,3.0,17.0,-2.0,0.0,4.0,1.0,Boxeo,1,1.0,3.4,0,4.9,Activo
+2306,Camila Sánchez,34.0,0.0,-14.0,2.0,8.0,18.0,Boxeo,1,0.0,23.6,1,100.0,En Riesgo
+2307,Julián Martínez,5.0,11.0,-1.0,3.0,8.0,7.0,Gimnasio,0,0.79,6.2,0,4.9,Activo
+2308,Facundo Sánchez,48.0,0.0,-18.0,1.0,38.0,1.0,Danza,1,0.0,44.0,1,66.1,En Riesgo
+2309,Leandro Domínguez,11.0,13.0,1.0,4.0,8.0,4.0,Gimnasio,0,0.76,9.8,0,4.9,Activo
+2310,Lautaro Flores,4.0,12.0,0.0,2.0,10.0,14.0,Yoga,0,0.86,6.4,0,4.9,Activo
+2311,Leandro Cabrera,55.0,0.0,-9.0,3.0,29.0,9.0,Gimnasio,0,0.0,44.6,1,66.1,En Riesgo
+2312,Facundo Suárez,12.0,10.0,-5.0,0.0,3.0,5.0,Pilates,0,1.0,8.4,1,4.9,Activo
+2313,Candela Godoy,35.0,12.0,-5.0,1.0,23.0,17.0,Gimnasio,1,0.92,30.2,1,100.0,En Riesgo
+2314,Franco Medina,9.0,14.0,-2.0,0.0,8.0,2.0,Boxeo,0,1.0,8.6,0,4.9,Activo
+2315,Gonzalo Ferreyra,4.0,13.0,-5.0,1.0,0.0,4.0,Pilates,0,0.93,2.4,1,4.9,Activo
+2316,Lara Medina,6.0,15.0,4.0,3.0,2.0,34.0,Yoga,0,0.83,4.4,0,4.9,Activo
+2317,Sofía Ferreyra,8.0,14.0,2.0,1.0,3.0,15.0,Yoga,0,0.93,6.0,0,4.9,Activo
+2318,Ignacio Acosta,0.0,16.0,4.0,2.0,10.0,19.0,Pilates,0,0.89,4.0,0,4.9,Activo
+2319,Tomás Ríos,8.0,13.0,-3.0,0.0,3.0,21.0,Yoga,0,1.0,6.0,0,4.9,Activo
+2320,Juan Cruz Ortiz,1.0,12.0,-5.0,2.0,8.0,25.0,Gimnasio,0,0.86,3.8,1,4.9,Activo
+2321,Mateo Sánchez,8.0,14.0,-1.0,1.0,11.0,2.0,Gimnasio,0,0.93,9.2,0,4.9,Activo
+2322,Emilia Morales,36.0,0.0,-7.0,6.0,30.0,17.0,Gimnasio,1,0.0,33.6,1,66.1,En Riesgo
+2323,Julieta Romero,7.0,19.0,5.0,0.0,5.0,10.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+2324,Lucas Gutiérrez,13.0,9.0,-3.0,1.0,0.0,12.0,Danza,0,0.9,7.8,0,4.9,Activo
+2325,Mía Moreno,2.0,18.0,5.0,0.0,11.0,15.0,Danza,0,1.0,5.6,0,4.9,Activo
+2326,Juan Cruz Giménez,13.0,11.0,-3.0,0.0,5.0,38.0,Boxeo,0,1.0,9.8,0,4.9,Activo
+2327,Franco Rodríguez,46.0,0.0,-15.0,6.0,15.0,1.0,Pilates,0,0.0,33.6,1,66.1,En Riesgo
+2328,Lucas Moreno,14.0,18.0,5.0,0.0,7.0,4.0,Boxeo,0,1.0,11.2,0,4.9,Activo
+2329,Agustín Domínguez,73.0,0.0,-9.0,5.0,11.0,14.0,Gimnasio,1,0.0,48.2,1,100.0,En Riesgo
+2330,Ignacio Juárez,12.0,13.0,0.0,2.0,4.0,42.0,Pilates,0,0.87,8.8,0,4.9,Activo
+2331,Gonzalo Juárez,22.0,3.0,-15.0,3.0,21.0,14.0,Pilates,1,0.5,21.6,1,100.0,En Riesgo
+2332,Joaquín Domínguez,42.0,0.0,-15.0,3.0,15.0,2.0,Yoga,1,0.0,31.2,1,100.0,En Riesgo
+2333,Abril Luna,15.0,14.0,-2.0,0.0,10.0,55.0,Pilates,0,1.0,13.0,0,4.9,Activo
+2334,Victoria Pereyra,57.0,0.0,-4.0,1.0,22.0,29.0,Danza,1,0.0,43.0,0,66.1,En Riesgo
+2335,Ezequiel Sosa,14.0,12.0,-1.0,2.0,10.0,13.0,Gimnasio,0,0.86,12.4,0,4.9,Activo
+2336,Gonzalo Aguirre,11.0,14.0,-2.0,0.0,7.0,9.0,Gimnasio,0,1.0,9.4,0,4.9,Activo
+2337,Tomás Ramírez,66.0,0.0,-9.0,4.0,42.0,13.0,Gimnasio,1,0.0,56.4,1,100.0,En Riesgo
+2338,Santiago Morales,11.0,15.0,4.0,0.0,11.0,21.0,Danza,0,1.0,11.0,0,4.9,Activo
+2339,Lucía Ramírez,46.0,0.0,-8.0,7.0,40.0,1.0,Gimnasio,1,0.0,43.6,1,100.0,En Riesgo
+2340,Lautaro Silva,4.0,18.0,5.0,1.0,6.0,15.0,Gimnasio,0,0.95,4.8,0,4.9,Activo
+2341,Julieta Morales,28.0,2.0,-6.0,2.0,36.0,31.0,Yoga,1,0.5,31.2,1,100.0,En Riesgo
+2342,Brisa Acosta,11.0,14.0,-2.0,1.0,5.0,16.0,Gimnasio,0,0.93,8.6,0,4.9,Activo
+2343,Florencia Medina,11.0,14.0,-1.0,1.0,2.0,3.0,Gimnasio,0,0.93,7.4,0,4.9,Activo
+2344,Juan Cruz Herrera,11.0,14.0,-1.0,0.0,5.0,6.0,Pilates,0,1.0,8.6,0,4.9,Activo
+2345,Leandro Ríos,29.0,1.0,-18.0,3.0,37.0,9.0,Gimnasio,1,0.25,32.2,1,66.1,En Riesgo
+2346,Joaquín Martínez,6.0,17.0,2.0,0.0,4.0,9.0,Yoga,0,1.0,5.2,0,4.9,Activo
+2347,Mía Suárez,6.0,19.0,3.0,1.0,2.0,14.0,Pilates,0,0.95,4.4,0,4.9,Activo
+2348,Matías Ramírez,15.0,15.0,1.0,1.0,0.0,12.0,Pilates,0,0.94,9.0,0,4.9,Activo
+2349,Catalina Romero,2.0,14.0,2.0,1.0,5.0,17.0,Boxeo,0,0.93,3.2,0,4.9,Activo
+2350,Delfina Castro,3.0,16.0,1.0,2.0,5.0,9.0,Pilates,0,0.89,3.8,0,4.9,Activo
+2351,Benjamín Pérez,16.0,4.0,-16.0,4.0,29.0,3.0,Danza,1,0.5,21.2,1,100.0,En Riesgo
+2352,Lucía Ferreyra,43.0,3.0,-7.0,1.0,10.0,1.0,Gimnasio,1,0.75,29.8,1,100.0,En Riesgo
+2353,Joaquín Ortiz,2.0,14.0,2.0,3.0,8.0,17.0,Gimnasio,0,0.82,4.4,0,4.9,Activo
+2354,Juan Cruz Martínez,15.0,13.0,1.0,0.0,3.0,8.0,Gimnasio,0,1.0,10.2,0,4.9,Activo
+2355,Facundo Rojas,42.0,0.0,-14.0,7.0,42.0,28.0,Gimnasio,1,0.0,42.0,1,100.0,En Riesgo
+2356,Delfina López,7.0,11.0,-1.0,0.0,7.0,1.0,Yoga,0,1.0,7.0,0,4.9,Activo
+2357,Catalina Giménez,15.0,11.0,3.0,2.0,6.0,6.0,Danza,0,0.85,11.4,0,4.9,Activo
+2358,Mateo Sánchez,7.0,11.0,-5.0,1.0,8.0,1.0,Pilates,0,0.92,7.4,1,4.9,Activo
+2359,Lucas Cabrera,28.0,0.0,-12.0,3.0,33.0,33.0,Gimnasio,0,0.0,30.0,1,100.0,En Riesgo
+2360,Santiago Acosta,57.0,0.0,-13.0,3.0,32.0,29.0,Gimnasio,1,0.0,47.0,1,66.1,En Riesgo
+2361,Lucas Torres,0.0,15.0,5.0,3.0,6.0,14.0,Danza,0,0.83,2.4,0,4.9,Activo
+2362,Victoria Acosta,45.0,2.0,-5.0,7.0,12.0,10.0,Yoga,1,0.22,31.8,1,100.0,En Riesgo
+2363,Florencia Gutiérrez,25.0,5.0,-4.0,6.0,32.0,43.0,Danza,0,0.45,27.8,0,100.0,En Riesgo
+2364,Leandro Juárez,8.0,14.0,-5.0,0.0,3.0,1.0,Yoga,1,1.0,6.0,1,4.9,Activo
+2365,Valentina Ríos,6.0,14.0,-2.0,2.0,3.0,37.0,Gimnasio,1,0.88,4.8,0,4.9,Activo
+2366,Nicolás Morales,2.0,17.0,-2.0,0.0,5.0,60.0,Gimnasio,0,1.0,3.2,0,4.9,Activo
+2367,Nicolás Martínez,17.0,12.0,-8.0,2.0,35.0,8.0,Yoga,1,0.86,24.2,1,100.0,En Riesgo
+2368,Matías Gutiérrez,27.0,4.0,-12.0,2.0,21.0,77.0,Gimnasio,1,0.67,24.6,1,100.0,En Riesgo
+2369,Florencia Martínez,2.0,19.0,2.0,0.0,0.0,3.0,Yoga,0,1.0,1.2,0,4.9,Activo
+2370,Nicolás Núñez,3.0,12.0,0.0,0.0,10.0,24.0,Pilates,1,1.0,5.8,0,4.9,Activo
+2371,Lucía Ferreyra,31.0,0.0,-14.0,5.0,24.0,15.0,Gimnasio,0,0.0,28.2,1,100.0,En Riesgo
+2372,Ezequiel Álvarez,3.0,18.0,1.0,2.0,11.0,8.0,Pilates,0,0.9,6.2,0,4.9,Activo
+2373,Victoria Acosta,3.0,16.0,1.0,0.0,9.0,53.0,Danza,0,1.0,5.4,0,4.9,Activo
+2374,Rocío Díaz,32.0,4.0,-6.0,5.0,10.0,8.0,Gimnasio,1,0.44,23.2,1,100.0,En Riesgo
+2375,Joaquín Juárez,10.0,12.0,-5.0,1.0,10.0,28.0,Gimnasio,0,0.92,10.0,1,4.9,Activo
+2376,Facundo Pereyra,30.0,6.0,-5.0,7.0,15.0,8.0,Gimnasio,1,0.46,24.0,1,100.0,En Riesgo
+2377,Martina López,7.0,21.0,2.0,0.0,9.0,6.0,Gimnasio,0,1.0,7.8,0,4.9,Activo
+2378,Facundo Juárez,8.0,15.0,-1.0,3.0,12.0,2.0,Gimnasio,1,0.83,9.6,0,80.0,En Riesgo
+2379,Tomás Ruiz,6.0,13.0,-3.0,0.0,11.0,6.0,Gimnasio,0,1.0,8.0,0,4.9,Activo
+2380,Gonzalo Domínguez,10.0,10.0,-3.0,2.0,8.0,1.0,Yoga,0,0.83,9.2,0,4.9,Activo
+2381,Florencia Benítez,2.0,11.0,-4.0,2.0,8.0,13.0,Gimnasio,0,0.85,4.4,0,4.9,Activo
+2382,Victoria Pereyra,47.0,0.0,-17.0,2.0,26.0,5.0,Danza,1,0.0,38.6,1,66.1,En Riesgo
+2383,Benjamín Díaz,46.0,12.0,-11.0,6.0,13.0,30.0,Pilates,0,0.67,32.8,1,66.1,En Riesgo
+2384,Bautista Juárez,61.0,0.0,-11.0,2.0,36.0,3.0,Danza,1,0.0,51.0,1,66.1,En Riesgo
+2385,Benjamín Castro,12.0,13.0,1.0,0.0,11.0,1.0,Pilates,0,1.0,11.6,0,4.9,Activo
+2386,Milagros Torres,5.0,14.0,-3.0,0.0,0.0,24.0,Gimnasio,0,1.0,3.0,0,4.9,Activo
+2387,Martina Pérez,17.0,5.0,-10.0,4.0,10.0,53.0,Gimnasio,1,0.56,14.2,1,100.0,En Riesgo
+2388,Juan Cruz Sánchez,57.0,0.0,-14.0,6.0,19.0,19.0,Pilates,1,0.0,41.8,1,66.1,En Riesgo
+2389,Juan Cruz Moreno,12.0,10.0,-2.0,0.0,2.0,60.0,Danza,0,1.0,8.0,0,4.9,Activo
+2390,Lara Ortiz,0.0,16.0,2.0,0.0,9.0,4.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+2391,Facundo Medina,12.0,14.0,4.0,1.0,2.0,1.0,Gimnasio,0,0.93,8.0,0,4.9,Activo
+2392,Agustín Rojas,9.0,14.0,-3.0,2.0,2.0,16.0,Boxeo,0,0.88,6.2,0,4.9,Activo
+2393,Lucía Martínez,11.0,12.0,-4.0,3.0,2.0,33.0,Danza,0,0.8,7.4,0,4.9,Activo
+2394,Florencia Silva,28.0,4.0,-12.0,1.0,20.0,18.0,Gimnasio,1,0.8,24.8,1,100.0,En Riesgo
+2395,Tomás Fernández,3.0,15.0,2.0,0.0,11.0,4.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+2396,Bautista Rodríguez,11.0,10.0,-4.0,1.0,2.0,12.0,Gimnasio,0,0.91,7.4,0,4.9,Activo
+2397,Santiago Acosta,65.0,0.0,-3.0,6.0,21.0,35.0,Gimnasio,1,0.0,47.4,0,100.0,En Riesgo
+2398,Tomás Flores,39.0,0.0,-17.0,4.0,9.0,17.0,Pilates,1,0.0,27.0,1,100.0,En Riesgo
+2399,Florencia Sosa,74.0,0.0,-12.0,5.0,36.0,5.0,Boxeo,1,0.0,58.8,1,100.0,En Riesgo
+2400,Mateo Moreno,33.0,4.0,-3.0,6.0,13.0,8.0,Yoga,1,0.4,25.0,0,100.0,En Riesgo
+2401,Florencia Ferreyra,30.0,0.0,-14.0,3.0,8.0,6.0,Pilates,1,0.0,21.2,1,100.0,En Riesgo
+2402,Lautaro Pereyra,1.0,13.0,0.0,4.0,6.0,1.0,Pilates,0,0.76,3.0,0,4.9,Activo
+2403,Nicolás Pereyra,11.0,11.0,-4.0,1.0,5.0,15.0,Pilates,0,0.92,8.6,0,4.9,Activo
+2404,Lara Cabrera,19.0,12.0,-13.0,2.0,32.0,4.0,Gimnasio,1,0.86,24.2,1,100.0,En Riesgo
+2405,Antonella Herrera,68.0,0.0,-13.0,6.0,41.0,2.0,Gimnasio,1,0.0,57.2,1,100.0,En Riesgo
+2406,Martina Rodríguez,0.0,10.0,-4.0,3.0,3.0,18.0,Gimnasio,0,0.77,1.2,0,4.9,Activo
+2407,Brisa Herrera,57.0,0.0,-11.0,1.0,19.0,2.0,Gimnasio,1,0.0,41.8,1,66.1,En Riesgo
+2408,Matías Fernández,3.0,16.0,-5.0,1.0,7.0,3.0,Yoga,0,0.94,4.6,1,4.9,Activo
+2409,Julieta Domínguez,72.0,0.0,-5.0,6.0,27.0,2.0,Gimnasio,1,0.0,54.0,1,100.0,En Riesgo
+2410,Lucía Flores,1.0,16.0,4.0,0.0,3.0,2.0,Yoga,0,1.0,1.8,0,4.9,Activo
+2411,Victoria Romero,2.0,16.0,-1.0,3.0,11.0,1.0,Yoga,0,0.84,5.6,0,4.9,Activo
+2412,Julián Ferreyra,31.0,3.0,-8.0,6.0,18.0,3.0,Pilates,0,0.33,25.8,1,100.0,En Riesgo
+2413,Camila Romero,35.0,7.0,-3.0,4.0,35.0,10.0,Yoga,1,0.64,35.0,0,66.1,En Riesgo
+2414,Leandro Benítez,1.0,17.0,0.0,1.0,0.0,2.0,Gimnasio,0,0.94,0.6,0,4.9,Activo
+2415,Lara Godoy,9.0,18.0,5.0,0.0,4.0,13.0,Gimnasio,0,1.0,7.0,0,4.9,Activo
+2416,Ramiro Romero,32.0,12.0,-6.0,5.0,36.0,1.0,Gimnasio,1,0.71,33.6,1,66.1,En Riesgo
+2417,Agustín Herrera,49.0,0.0,-9.0,5.0,18.0,11.0,Boxeo,0,0.0,36.6,1,66.1,En Riesgo
+2418,Franco Silva,60.0,0.0,-10.0,5.0,10.0,18.0,Danza,1,0.0,40.0,1,66.1,En Riesgo
+2419,Lara Pérez,36.0,8.0,-3.0,1.0,10.0,11.0,Pilates,1,0.89,25.6,0,100.0,En Riesgo
+2420,Ramiro Rojas,12.0,14.0,-1.0,0.0,0.0,6.0,Gimnasio,0,1.0,7.2,0,4.9,Activo
+2421,Agustín López,29.0,3.0,-11.0,4.0,25.0,1.0,Gimnasio,1,0.43,27.4,1,100.0,En Riesgo
+2422,Antonella Aguirre,8.0,10.0,-5.0,0.0,8.0,25.0,Gimnasio,0,1.0,8.0,1,4.9,Activo
+2423,Benjamín Domínguez,7.0,16.0,-2.0,2.0,5.0,17.0,Yoga,0,0.89,6.2,0,4.9,Activo
+2424,Ramiro González,1.0,19.0,3.0,0.0,11.0,3.0,Gimnasio,0,1.0,5.0,0,4.9,Activo
+2425,Valentina Flores,12.0,14.0,0.0,0.0,3.0,58.0,Boxeo,0,1.0,8.4,0,4.9,Activo
+2426,Benjamín Gutiérrez,37.0,6.0,-4.0,1.0,9.0,37.0,Gimnasio,1,0.86,25.8,0,100.0,En Riesgo
+2427,Julián Pérez,55.0,0.0,-11.0,7.0,24.0,14.0,Pilates,1,0.0,42.6,1,100.0,En Riesgo
+2428,Julián Aguirre,69.0,0.0,-12.0,6.0,44.0,27.0,Gimnasio,1,0.0,59.0,1,100.0,En Riesgo
+2429,Abril Flores,1.0,12.0,0.0,3.0,1.0,2.0,Yoga,0,0.8,1.0,0,4.9,Activo
+2430,Brisa Ramírez,14.0,15.0,3.0,0.0,0.0,40.0,Danza,0,1.0,8.4,0,4.9,Activo
+2431,Antonella Godoy,25.0,9.0,-8.0,2.0,8.0,13.0,Boxeo,1,0.82,18.2,1,100.0,En Riesgo
+2432,Lucía Ramírez,73.0,0.0,-14.0,7.0,29.0,14.0,Pilates,1,0.0,55.4,1,100.0,En Riesgo
+2433,Nicolás Flores,35.0,0.0,-17.0,2.0,44.0,8.0,Danza,1,0.0,38.6,1,100.0,En Riesgo
+2434,Ramiro Giménez,40.0,0.0,-15.0,6.0,31.0,13.0,Gimnasio,0,0.0,36.4,1,66.1,En Riesgo
+2435,Leandro Aguirre,8.0,9.0,-3.0,1.0,1.0,6.0,Gimnasio,0,0.9,5.2,0,4.9,Activo
+2436,Abril Acosta,2.0,12.0,0.0,3.0,9.0,12.0,Pilates,0,0.8,4.8,0,4.9,Activo
+2437,Emilia Ríos,34.0,0.0,-7.0,5.0,35.0,1.0,Pilates,0,0.0,34.4,1,66.1,En Riesgo
+2438,Benjamín Flores,0.0,17.0,5.0,0.0,2.0,25.0,Gimnasio,0,1.0,0.8,0,4.9,Activo
+2439,Lara Gutiérrez,11.0,14.0,-2.0,1.0,10.0,9.0,Gimnasio,0,0.93,10.6,0,4.9,Activo
+2440,Rocío Rojas,37.0,1.0,-5.0,4.0,39.0,18.0,Yoga,1,0.2,37.8,1,66.1,En Riesgo
+2441,Gonzalo Martínez,4.0,16.0,2.0,3.0,11.0,4.0,Yoga,0,0.84,6.8,0,4.9,Activo
+2442,Valentina Moreno,9.0,15.0,-2.0,0.0,10.0,10.0,Boxeo,0,1.0,9.4,0,4.9,Activo
+2443,Ignacio Pérez,13.0,11.0,-5.0,3.0,1.0,26.0,Yoga,0,0.79,8.2,1,4.9,Activo
+2444,Juan Cruz González,9.0,15.0,2.0,0.0,3.0,18.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+2445,Lautaro Moreno,45.0,0.0,-15.0,6.0,29.0,5.0,Pilates,0,0.0,38.6,1,66.1,En Riesgo
+2446,Tomás Luna,58.0,0.0,-14.0,5.0,33.0,13.0,Pilates,1,0.0,48.0,1,66.1,En Riesgo
+2447,Lara Luna,7.0,13.0,-2.0,1.0,9.0,3.0,Yoga,0,0.93,7.8,0,4.9,Activo
+2448,Facundo López,13.0,17.0,4.0,0.0,8.0,7.0,Yoga,0,1.0,11.0,0,4.9,Activo
+2449,Franco Flores,3.0,10.0,-4.0,1.0,6.0,3.0,Pilates,0,0.91,4.2,0,4.9,Activo
+2450,Rocío Castro,11.0,13.0,1.0,1.0,3.0,7.0,Danza,0,0.93,7.8,0,4.9,Activo
+2451,Leandro Ramírez,13.0,9.0,-1.0,2.0,4.0,9.0,Gimnasio,0,0.82,9.4,0,4.9,Activo
+2452,Franco Díaz,12.0,12.0,2.0,3.0,11.0,5.0,Gimnasio,0,0.8,11.6,0,4.9,Activo
+2453,Camila Rodríguez,3.0,18.0,4.0,0.0,9.0,2.0,Yoga,0,1.0,5.4,0,4.9,Activo
+2454,Lautaro Cabrera,1.0,18.0,4.0,4.0,5.0,15.0,Danza,0,0.82,2.6,0,4.9,Activo
+2455,Florencia Rojas,0.0,14.0,-4.0,0.0,0.0,7.0,Gimnasio,0,1.0,0.0,0,4.9,Activo
+2456,Ramiro Martínez,13.0,12.0,-4.0,0.0,8.0,1.0,Danza,0,1.0,11.0,0,4.9,Activo
+2457,Lautaro Giménez,11.0,12.0,3.0,1.0,9.0,17.0,Gimnasio,0,0.92,10.2,0,4.9,Activo
+2458,Catalina Pereyra,7.0,17.0,1.0,1.0,2.0,1.0,Boxeo,0,0.94,5.0,0,4.9,Activo
+2459,Matías Silva,4.0,12.0,-5.0,0.0,8.0,29.0,Gimnasio,0,1.0,5.6,1,4.9,Activo
+2460,Franco Romero,19.0,5.0,-5.0,6.0,37.0,37.0,Gimnasio,1,0.45,26.2,1,100.0,En Riesgo
+2461,Benjamín Sánchez,14.0,11.0,1.0,1.0,10.0,40.0,Pilates,0,0.92,12.4,0,4.9,Activo
+2462,Julián Benítez,10.0,15.0,-2.0,0.0,2.0,25.0,Gimnasio,0,1.0,6.8,0,4.9,Activo
+2463,Valentina Aguirre,20.0,1.0,-8.0,2.0,40.0,33.0,Danza,1,0.33,28.0,1,100.0,En Riesgo
+2464,Lautaro Romero,12.0,13.0,-3.0,2.0,9.0,22.0,Yoga,0,0.87,10.8,0,4.9,Activo
+2465,Bautista Núñez,9.0,16.0,1.0,1.0,7.0,35.0,Danza,0,0.94,8.2,0,4.9,Activo
+2466,Emilia Romero,3.0,17.0,2.0,1.0,6.0,5.0,Yoga,1,0.94,4.2,0,4.9,Activo
+2467,Ramiro Molina,8.0,14.0,0.0,2.0,10.0,19.0,Danza,1,0.88,8.8,0,4.9,Activo
+2468,Camila Aguirre,4.0,15.0,-2.0,1.0,5.0,37.0,Pilates,0,0.94,4.4,0,4.9,Activo
+2469,Santiago Flores,10.0,14.0,0.0,0.0,8.0,8.0,Gimnasio,0,1.0,9.2,0,4.9,Activo
+2470,Milagros Gómez,0.0,18.0,4.0,0.0,2.0,18.0,Boxeo,0,1.0,0.8,0,4.9,Activo
+2471,Gonzalo Benítez,31.0,3.0,-13.0,2.0,18.0,7.0,Gimnasio,1,0.6,25.8,1,100.0,En Riesgo
+2472,Benjamín Martínez,2.0,15.0,-2.0,1.0,0.0,4.0,Gimnasio,0,0.94,1.2,0,4.9,Activo
+2473,Sofía Domínguez,7.0,12.0,4.0,1.0,0.0,10.0,Yoga,0,0.92,4.2,0,4.9,Activo
+2474,Juan Cruz Moreno,14.0,15.0,0.0,0.0,9.0,6.0,Pilates,0,1.0,12.0,0,4.9,Activo
+2475,Camila González,4.0,15.0,-2.0,1.0,7.0,12.0,Gimnasio,1,0.94,5.2,0,4.9,Activo
+2476,Mía Luna,12.0,13.0,2.0,4.0,1.0,2.0,Gimnasio,0,0.76,7.6,0,4.9,Activo
+2477,Delfina Flores,10.0,16.0,4.0,3.0,8.0,35.0,Gimnasio,0,0.84,9.2,0,4.9,Activo
+2478,Santiago Castro,53.0,0.0,-8.0,7.0,10.0,12.0,Boxeo,1,0.0,35.8,1,100.0,En Riesgo
+2479,Florencia Medina,11.0,11.0,3.0,4.0,10.0,2.0,Boxeo,0,0.73,10.6,0,4.9,Activo
+2480,Martina Fernández,5.0,15.0,0.0,1.0,6.0,5.0,Danza,0,0.94,5.4,0,4.9,Activo
+2481,Florencia Medina,7.0,17.0,1.0,0.0,7.0,20.0,Yoga,0,1.0,7.0,0,4.9,Activo
+2482,Antonella Martínez,1.0,17.0,4.0,2.0,5.0,31.0,Yoga,0,0.89,2.6,0,4.9,Activo
+2483,Paula Fernández,61.0,0.0,-14.0,7.0,8.0,22.0,Yoga,1,0.0,39.8,1,100.0,En Riesgo
+2484,Catalina Juárez,7.0,15.0,-3.0,1.0,8.0,19.0,Pilates,0,0.94,7.4,0,4.9,Activo
+2485,Valentina Luna,12.0,9.0,-5.0,1.0,10.0,1.0,Gimnasio,0,0.9,11.2,1,4.9,Activo
+2486,Facundo Ramírez,51.0,0.0,-7.0,5.0,38.0,33.0,Boxeo,0,0.0,45.8,1,66.1,En Riesgo
+2487,Facundo Aguirre,24.0,3.0,-18.0,1.0,29.0,36.0,Yoga,1,0.75,26.0,1,100.0,En Riesgo
+2488,Lucas Ortiz,8.0,13.0,0.0,2.0,11.0,7.0,Pilates,0,0.87,9.2,0,4.9,Activo
+2489,Leandro Moreno,15.0,12.0,5.0,4.0,10.0,56.0,Gimnasio,0,0.75,13.0,0,4.9,Activo
+2490,Candela Castro,34.0,0.0,-14.0,3.0,43.0,6.0,Gimnasio,1,0.0,37.6,1,100.0,En Riesgo
+2491,Rocío Godoy,0.0,16.0,1.0,2.0,8.0,31.0,Gimnasio,0,0.89,3.2,0,4.9,Activo
+2492,Joaquín Gutiérrez,12.0,15.0,-2.0,0.0,9.0,20.0,Yoga,0,1.0,10.8,0,4.9,Activo
+2493,Leandro Rodríguez,0.0,14.0,-4.0,2.0,11.0,4.0,Pilates,0,0.88,4.4,0,4.9,Activo
+2494,Valentina Ramírez,7.0,18.0,4.0,0.0,1.0,6.0,Pilates,0,1.0,4.6,0,4.9,Activo
+2495,Sofía Castro,20.0,2.0,-14.0,1.0,33.0,18.0,Gimnasio,1,0.67,25.2,1,100.0,En Riesgo
+2496,Rocío Martínez,9.0,18.0,5.0,1.0,5.0,83.0,Danza,0,0.95,7.4,0,4.9,Activo
+2497,Mía Acosta,11.0,12.0,-1.0,0.0,1.0,8.0,Gimnasio,0,1.0,7.0,0,4.9,Activo
+2498,Abril Fernández,15.0,10.0,-5.0,1.0,1.0,3.0,Danza,0,0.91,9.4,1,4.9,Activo
+2499,Rocío Silva,15.0,12.0,-2.0,1.0,5.0,57.0,Danza,0,0.92,11.0,0,4.9,Activo
+2500,Emilia Ríos,11.0,14.0,4.0,1.0,5.0,15.0,Danza,0,0.93,8.6,0,4.9,Activo
+2501,Mateo Cabrera,11.0,12.0,5.0,0.0,8.0,1.0,Gimnasio,0,1.0,9.8,0,4.9,Activo
+2502,Lautaro Domínguez,11.0,14.0,-5.0,0.0,9.0,19.0,Pilates,0,1.0,10.2,1,4.9,Activo
+2503,Delfina Torres,1.0,17.0,2.0,1.0,8.0,10.0,Gimnasio,0,0.94,3.8,0,4.9,Activo
+2504,Tomás Moreno,15.0,14.0,1.0,3.0,10.0,4.0,Gimnasio,0,0.82,13.0,0,4.9,Activo
+2505,Mateo Ramírez,1.0,15.0,-1.0,0.0,2.0,21.0,Boxeo,0,1.0,1.4,0,4.9,Activo
+2506,Florencia Pereyra,43.0,0.0,-9.0,4.0,31.0,28.0,Danza,1,0.0,38.2,1,66.1,En Riesgo
+2507,Leandro Fernández,29.0,2.0,-9.0,1.0,12.0,6.0,Pilates,1,0.67,22.2,1,100.0,En Riesgo
+2508,Ignacio Romero,14.0,15.0,-1.0,0.0,0.0,3.0,Boxeo,0,1.0,8.4,0,4.9,Activo
+2509,Emilia Romero,12.0,12.0,5.0,0.0,5.0,6.0,Danza,0,1.0,9.2,0,4.9,Activo
+2510,Brisa Torres,12.0,12.0,-5.0,0.0,1.0,7.0,Pilates,0,1.0,7.6,1,4.9,Activo
+2511,Gonzalo Pereyra,0.0,16.0,1.0,0.0,9.0,41.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+2512,Mateo Ruiz,45.0,0.0,-13.0,2.0,30.0,4.0,Pilates,1,0.0,39.0,1,66.1,En Riesgo
+2513,Lara Ramírez,1.0,12.0,-5.0,1.0,2.0,10.0,Gimnasio,0,0.92,1.4,1,4.9,Activo
+2514,Abril Ortiz,9.0,8.0,-5.0,1.0,10.0,21.0,Gimnasio,0,0.89,9.4,1,4.9,Activo
+2515,Ezequiel Cabrera,63.0,0.0,-5.0,5.0,27.0,24.0,Danza,1,0.0,48.6,1,66.1,En Riesgo
+2516,Lautaro Luna,3.0,17.0,-5.0,0.0,2.0,10.0,Danza,0,1.0,2.6,1,4.9,Activo
+2517,Valentina Ortiz,37.0,3.0,-3.0,5.0,24.0,9.0,Gimnasio,1,0.38,31.8,0,66.1,En Riesgo
+2518,Florencia Ferreyra,8.0,13.0,-3.0,0.0,0.0,4.0,Gimnasio,0,1.0,4.8,0,4.9,Activo
+2519,Brisa González,9.0,11.0,-2.0,0.0,9.0,11.0,Gimnasio,0,1.0,9.0,0,4.9,Activo
+2520,Sofía Acosta,7.0,12.0,-3.0,0.0,6.0,11.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+2521,Benjamín Morales,2.0,10.0,-4.0,4.0,9.0,2.0,Danza,0,0.71,4.8,0,4.9,Activo
+2522,Juan Cruz Benítez,54.0,0.0,-11.0,7.0,24.0,13.0,Yoga,1,0.0,42.0,1,100.0,En Riesgo
+2523,Benjamín Moreno,11.0,12.0,-2.0,1.0,1.0,13.0,Danza,0,0.92,7.0,0,4.9,Activo
+2524,Martina Núñez,12.0,16.0,3.0,0.0,11.0,3.0,Gimnasio,0,1.0,11.6,0,4.9,Activo
+2525,Juan Cruz Suárez,8.0,18.0,4.0,1.0,3.0,6.0,Gimnasio,0,0.95,6.0,0,4.9,Activo
+2526,Mateo Fernández,9.0,13.0,-3.0,0.0,11.0,14.0,Yoga,0,1.0,9.8,0,4.9,Activo
+2527,Lucía Acosta,4.0,17.0,3.0,3.0,0.0,20.0,Boxeo,0,0.85,2.4,0,4.9,Activo
+2528,Lara Rojas,6.0,14.0,-3.0,0.0,4.0,17.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+2529,Lara Sosa,7.0,16.0,3.0,0.0,6.0,46.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+2530,Lucas Álvarez,10.0,15.0,2.0,2.0,2.0,5.0,Gimnasio,0,0.88,6.8,0,4.9,Activo
+2531,Ezequiel Núñez,0.0,12.0,-5.0,3.0,1.0,4.0,Gimnasio,0,0.8,0.4,1,4.9,Activo
+2532,Joaquín Domínguez,10.0,19.0,4.0,0.0,1.0,1.0,Gimnasio,0,1.0,6.4,0,4.9,Activo
+2533,Santiago Molina,13.0,13.0,0.0,2.0,8.0,14.0,Gimnasio,0,0.87,11.0,0,4.9,Activo
+2534,Catalina Suárez,1.0,15.0,2.0,1.0,11.0,16.0,Gimnasio,0,0.94,5.0,0,4.9,Activo
+2535,Tomás Luna,67.0,0.0,-7.0,2.0,21.0,11.0,Pilates,1,0.0,48.6,1,100.0,En Riesgo
+2536,Julián Pereyra,11.0,15.0,5.0,2.0,3.0,17.0,Gimnasio,0,0.88,7.8,0,4.9,Activo
+2537,Candela Rodríguez,12.0,14.0,4.0,3.0,8.0,9.0,Boxeo,0,0.82,10.4,0,4.9,Activo
+2538,Lucía Sánchez,0.0,16.0,3.0,1.0,2.0,31.0,Pilates,0,0.94,0.8,0,4.9,Activo
+2539,Juan Cruz Pérez,9.0,9.0,-3.0,2.0,8.0,29.0,Gimnasio,0,0.82,8.6,0,4.9,Activo
+2540,Gonzalo Díaz,5.0,15.0,-1.0,0.0,10.0,10.0,Gimnasio,0,1.0,7.0,0,4.9,Activo
+2541,Emilia Núñez,8.0,16.0,5.0,2.0,10.0,10.0,Gimnasio,0,0.89,8.8,0,4.9,Activo
+2542,Bautista Ortiz,10.0,13.0,2.0,2.0,10.0,3.0,Gimnasio,1,0.87,10.0,0,4.9,Activo
+2543,Rocío Pereyra,24.0,6.0,-5.0,4.0,13.0,20.0,Boxeo,1,0.6,19.6,1,100.0,En Riesgo
+2544,Leandro Domínguez,25.0,10.0,-3.0,2.0,17.0,13.0,Gimnasio,1,0.83,21.8,0,100.0,En Riesgo
+2545,Nicolás Suárez,15.0,11.0,-1.0,0.0,0.0,9.0,Yoga,0,1.0,9.0,0,4.9,Activo
+2546,Julián Pereyra,27.0,1.0,-6.0,7.0,38.0,36.0,Yoga,1,0.12,31.4,1,100.0,En Riesgo
+2547,Lucía Moreno,3.0,14.0,-1.0,0.0,0.0,2.0,Danza,0,1.0,1.8,0,4.9,Activo
+2548,Julián Suárez,4.0,14.0,0.0,0.0,1.0,15.0,Pilates,1,1.0,2.8,0,4.9,Activo
+2549,Mateo Álvarez,62.0,0.0,-5.0,5.0,34.0,8.0,Gimnasio,0,0.0,50.8,1,66.1,En Riesgo
+2550,Nicolás Giménez,12.0,10.0,-4.0,3.0,0.0,20.0,Gimnasio,0,0.77,7.2,0,4.9,Activo
+2551,Franco Ferreyra,1.0,17.0,0.0,3.0,4.0,11.0,Gimnasio,0,0.85,2.2,0,4.9,Activo
+2552,Matías Molina,9.0,13.0,-1.0,0.0,10.0,17.0,Gimnasio,0,1.0,9.4,0,4.9,Activo
+2553,Milagros Torres,16.0,0.0,-18.0,4.0,35.0,2.0,Gimnasio,1,0.0,23.6,1,100.0,En Riesgo
+2554,Julián Ramírez,50.0,1.0,-8.0,1.0,25.0,7.0,Boxeo,1,0.5,40.0,1,66.1,En Riesgo
+2555,Florencia Pereyra,10.0,12.0,-4.0,0.0,8.0,7.0,Yoga,0,1.0,9.2,0,4.9,Activo
+2556,Martina Romero,62.0,0.0,-11.0,3.0,28.0,20.0,Gimnasio,0,0.0,48.4,1,66.1,En Riesgo
+2557,Mateo Torres,11.0,0.0,-18.0,3.0,42.0,5.0,Pilates,1,0.0,23.4,1,80.0,En Riesgo
+2558,Julián Domínguez,74.0,0.0,-16.0,7.0,42.0,18.0,Gimnasio,1,0.0,61.2,1,100.0,En Riesgo
+2559,Julián Medina,6.0,13.0,-5.0,1.0,8.0,2.0,Danza,0,0.93,6.8,1,4.9,Activo
+2560,Bautista Luna,8.0,10.0,-4.0,2.0,8.0,4.0,Gimnasio,0,0.83,8.0,0,4.9,Activo
+2561,Delfina Sánchez,0.0,14.0,-4.0,0.0,9.0,23.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+2562,Ramiro Moreno,4.0,12.0,-5.0,3.0,4.0,2.0,Gimnasio,0,0.8,4.0,1,4.9,Activo
+2563,Julián Gutiérrez,8.0,14.0,3.0,0.0,1.0,7.0,Pilates,0,1.0,5.2,0,4.9,Activo
+2564,Benjamín Silva,1.0,15.0,-2.0,1.0,10.0,14.0,Pilates,0,0.94,4.6,0,4.9,Activo
+2565,Juan Cruz Ramírez,14.0,12.0,-5.0,1.0,2.0,16.0,Gimnasio,0,0.92,9.2,1,4.9,Activo
+2566,Tomás Giménez,12.0,13.0,-5.0,0.0,2.0,5.0,Yoga,0,1.0,8.0,1,4.9,Activo
+2567,Ezequiel Benítez,38.0,0.0,-14.0,3.0,18.0,16.0,Boxeo,1,0.0,30.0,1,100.0,En Riesgo
+2568,Lucas Domínguez,7.0,14.0,1.0,1.0,1.0,17.0,Pilates,0,0.93,4.6,0,4.9,Activo
+2569,Emilia Rodríguez,1.0,15.0,-5.0,0.0,4.0,9.0,Yoga,0,1.0,2.2,1,4.9,Activo
+2570,Agustín Morales,59.0,12.0,-8.0,5.0,19.0,15.0,Pilates,0,0.71,43.0,1,66.1,En Riesgo
+2571,Ezequiel Díaz,31.0,1.0,-6.0,5.0,24.0,9.0,Boxeo,1,0.17,28.2,1,100.0,En Riesgo
+2572,Matías Sánchez,15.0,13.0,1.0,2.0,1.0,8.0,Gimnasio,0,0.87,9.4,0,4.9,Activo
+2573,Lucía Moreno,2.0,21.0,5.0,0.0,1.0,11.0,Gimnasio,0,1.0,1.6,0,4.9,Activo
+2574,Gonzalo Gómez,10.0,13.0,0.0,0.0,10.0,1.0,Boxeo,0,1.0,10.0,0,4.9,Activo
+2575,Gonzalo Ferreyra,11.0,10.0,-1.0,4.0,1.0,2.0,Yoga,0,0.71,7.0,0,4.9,Activo
+2576,Julián Moreno,25.0,5.0,-14.0,2.0,23.0,3.0,Yoga,1,0.71,24.2,1,100.0,En Riesgo
+2577,Agustín Flores,9.0,13.0,-2.0,3.0,8.0,4.0,Gimnasio,0,0.81,8.6,0,4.9,Activo
+2578,Bautista Pereyra,9.0,10.0,-5.0,1.0,1.0,10.0,Boxeo,0,0.91,5.8,1,4.9,Activo
+2579,Julián Flores,13.0,13.0,2.0,3.0,4.0,16.0,Yoga,1,0.81,9.4,0,4.9,Activo
+2580,Facundo Domínguez,45.0,0.0,-15.0,5.0,30.0,6.0,Boxeo,0,0.0,39.0,1,66.1,En Riesgo
+2581,Leandro Ruiz,31.0,1.0,-12.0,2.0,27.0,11.0,Danza,1,0.33,29.4,1,100.0,En Riesgo
+2582,Candela Juárez,6.0,19.0,2.0,0.0,2.0,17.0,Yoga,0,1.0,4.4,0,4.9,Activo
+2583,Mía López,3.0,12.0,-3.0,1.0,5.0,14.0,Boxeo,0,0.92,3.8,0,4.9,Activo
+2584,Sofía Rodríguez,5.0,13.0,-5.0,2.0,8.0,4.0,Gimnasio,1,0.87,6.2,1,4.9,Activo
+2585,Antonella González,0.0,17.0,1.0,0.0,3.0,3.0,Gimnasio,0,1.0,1.2,0,4.9,Activo
+2586,Leandro Suárez,0.0,15.0,0.0,1.0,8.0,56.0,Yoga,0,0.94,3.2,0,4.9,Activo
+2587,Abril López,14.0,12.0,2.0,1.0,4.0,18.0,Yoga,0,0.92,10.0,0,4.9,Activo
+2588,Bautista Silva,21.0,4.0,-10.0,2.0,34.0,5.0,Pilates,0,0.67,26.2,1,100.0,En Riesgo
+2589,Santiago Ramírez,44.0,0.0,-13.0,1.0,28.0,15.0,Danza,1,0.0,37.6,1,66.1,En Riesgo
+2590,Tomás Rodríguez,15.0,14.0,5.0,0.0,5.0,14.0,Yoga,0,1.0,11.0,0,4.9,Activo
+2591,Tomás Domínguez,11.0,0.0,-16.0,6.0,31.0,3.0,Gimnasio,0,0.0,19.0,1,80.0,En Riesgo
+2592,Julián López,8.0,17.0,3.0,2.0,2.0,8.0,Boxeo,0,0.89,5.6,0,4.9,Activo
+2593,Agustín Álvarez,21.0,4.0,-10.0,6.0,21.0,43.0,Pilates,0,0.4,21.0,1,100.0,En Riesgo
+2594,Sofía Luna,43.0,2.0,-10.0,1.0,43.0,45.0,Boxeo,1,0.67,43.0,1,100.0,En Riesgo
+2595,Juan Cruz Díaz,3.0,13.0,-4.0,0.0,9.0,4.0,Gimnasio,0,1.0,5.4,0,4.9,Activo
+2596,Lucas Acosta,21.0,6.0,-5.0,6.0,11.0,1.0,Gimnasio,1,0.5,17.0,1,100.0,En Riesgo
+2597,Brisa Pereyra,1.0,17.0,-2.0,2.0,0.0,12.0,Boxeo,0,0.89,0.6,0,4.9,Activo
+2598,Bautista Ortiz,72.0,0.0,-4.0,5.0,22.0,8.0,Gimnasio,1,0.0,52.0,0,100.0,En Riesgo
+2599,Bautista Morales,11.0,10.0,-1.0,2.0,8.0,1.0,Pilates,0,0.83,9.8,0,4.9,Activo
+2600,Antonella Ramírez,10.0,12.0,3.0,2.0,9.0,23.0,Pilates,0,0.86,9.6,0,4.9,Activo
+2601,Lara Díaz,1.0,13.0,0.0,3.0,11.0,8.0,Boxeo,0,0.81,5.0,0,4.9,Activo
+2602,Brisa Moreno,30.0,4.0,-7.0,3.0,17.0,61.0,Gimnasio,1,0.57,24.8,1,100.0,En Riesgo
+2603,Paula Benítez,33.0,0.0,-4.0,5.0,29.0,12.0,Pilates,0,0.0,31.4,0,100.0,En Riesgo
+2604,Lautaro Gutiérrez,60.0,0.0,-12.0,2.0,25.0,4.0,Danza,1,0.0,46.0,1,66.1,En Riesgo
+2605,Juan Cruz Sánchez,11.0,20.0,5.0,0.0,10.0,1.0,Pilates,0,1.0,10.6,0,4.9,Activo
+2606,Ramiro Torres,14.0,14.0,0.0,1.0,2.0,17.0,Gimnasio,0,0.93,9.2,0,4.9,Activo
+2607,Ignacio Fernández,14.0,13.0,-1.0,0.0,0.0,11.0,Gimnasio,1,1.0,8.4,0,4.9,Activo
+2608,Lautaro Díaz,11.0,12.0,-2.0,1.0,11.0,19.0,Yoga,0,0.92,11.0,0,4.9,Activo
+2609,Julián Ferreyra,12.0,17.0,3.0,4.0,9.0,17.0,Pilates,0,0.81,10.8,0,4.9,Activo
+2610,Mateo Martínez,11.0,11.0,-3.0,0.0,7.0,20.0,Yoga,0,1.0,9.4,0,4.9,Activo
+2611,Leandro Aguirre,3.0,11.0,-3.0,4.0,5.0,25.0,Pilates,0,0.73,3.8,0,4.9,Activo
+2612,Lucía Fernández,2.0,13.0,-4.0,2.0,9.0,39.0,Danza,0,0.87,4.8,0,4.9,Activo
+2613,Ignacio Núñez,0.0,13.0,1.0,3.0,7.0,9.0,Gimnasio,0,0.81,2.8,0,4.9,Activo
+2614,Abril Fernández,66.0,0.0,-4.0,3.0,21.0,9.0,Pilates,1,0.0,48.0,0,100.0,En Riesgo
+2615,Joaquín Ortiz,10.0,10.0,2.0,1.0,3.0,21.0,Gimnasio,0,0.91,7.2,0,4.9,Activo
+2616,Facundo Rojas,0.0,12.0,3.0,0.0,8.0,4.0,Yoga,0,1.0,3.2,0,4.9,Activo
+2617,Milagros Domínguez,15.0,12.0,-4.0,0.0,6.0,8.0,Pilates,0,1.0,11.4,0,4.9,Activo
+2618,Facundo Sánchez,20.0,7.0,-6.0,3.0,33.0,15.0,Gimnasio,1,0.7,25.2,1,100.0,En Riesgo
+2619,Rocío Godoy,15.0,13.0,0.0,0.0,3.0,2.0,Gimnasio,0,1.0,10.2,0,4.9,Activo
+2620,Gonzalo Núñez,15.0,9.0,-4.0,2.0,1.0,21.0,Pilates,0,0.82,9.4,0,4.9,Activo
+2621,Franco Rodríguez,8.0,14.0,-2.0,0.0,3.0,18.0,Gimnasio,0,1.0,6.0,0,4.9,Activo
+2622,Ezequiel Díaz,9.0,15.0,-1.0,0.0,8.0,4.0,Danza,0,1.0,8.6,0,4.9,Activo
+2623,Facundo Luna,11.0,3.0,-4.0,5.0,19.0,20.0,Gimnasio,1,0.38,14.2,0,80.0,En Riesgo
+2624,Julieta Romero,3.0,12.0,0.0,0.0,8.0,12.0,Gimnasio,0,1.0,5.0,0,4.9,Activo
+2625,Abril Díaz,12.0,14.0,3.0,2.0,5.0,33.0,Pilates,0,0.88,9.2,0,4.9,Activo
+2626,Benjamín Ruiz,9.0,15.0,4.0,1.0,1.0,10.0,Danza,0,0.94,5.8,0,4.9,Activo
+2627,Tomás Ortiz,3.0,15.0,-2.0,0.0,9.0,23.0,Pilates,0,1.0,5.4,0,4.9,Activo
+2628,Mateo Álvarez,3.0,16.0,-1.0,1.0,0.0,3.0,Gimnasio,0,0.94,1.8,0,4.9,Activo
+2629,Emilia Pérez,11.0,18.0,2.0,0.0,2.0,10.0,Gimnasio,0,1.0,7.4,0,4.9,Activo
+2630,Brisa Gómez,33.0,8.0,-6.0,1.0,10.0,2.0,Danza,1,0.89,23.8,1,100.0,En Riesgo
+2631,Juan Cruz Sánchez,6.0,15.0,2.0,2.0,11.0,5.0,Pilates,0,0.88,8.0,0,4.9,Activo
+2632,Delfina Herrera,1.0,13.0,0.0,2.0,4.0,16.0,Pilates,0,0.87,2.2,0,4.9,Activo
+2633,Leandro Ramírez,16.0,8.0,-3.0,4.0,8.0,3.0,Boxeo,1,0.67,12.8,0,100.0,En Riesgo
+2634,Abril Díaz,45.0,0.0,-10.0,5.0,18.0,11.0,Gimnasio,1,0.0,34.2,1,66.1,En Riesgo
+2635,Leandro Molina,7.0,16.0,2.0,0.0,10.0,23.0,Gimnasio,0,1.0,8.2,0,4.9,Activo
+2636,Candela Rojas,3.0,16.0,2.0,2.0,8.0,4.0,Yoga,0,0.89,5.0,0,4.9,Activo
+2637,Valentina Rodríguez,57.0,0.0,-10.0,2.0,20.0,10.0,Gimnasio,1,0.0,42.2,1,66.1,En Riesgo
+2638,Milagros Sosa,11.0,10.0,-5.0,1.0,1.0,46.0,Gimnasio,0,0.91,7.0,1,4.9,Activo
+2639,Ramiro Moreno,6.0,17.0,0.0,0.0,5.0,23.0,Pilates,0,1.0,5.6,0,4.9,Activo
+2640,Milagros Pereyra,17.0,11.0,1.0,2.0,8.0,11.0,Gimnasio,1,0.85,13.4,0,100.0,En Riesgo
+2641,Franco Suárez,32.0,3.0,-8.0,3.0,15.0,2.0,Pilates,1,0.5,25.2,1,100.0,En Riesgo
+2642,Florencia Núñez,28.0,0.0,-17.0,7.0,30.0,2.0,Gimnasio,1,0.0,28.8,1,100.0,En Riesgo
+2643,Lautaro Torres,29.0,6.0,-3.0,5.0,16.0,21.0,Danza,1,0.55,23.8,0,100.0,En Riesgo
+2644,Lautaro Ríos,60.0,0.0,-5.0,6.0,26.0,22.0,Gimnasio,1,0.0,46.4,1,66.1,En Riesgo
+2645,Facundo González,11.0,9.0,-3.0,3.0,7.0,5.0,Yoga,1,0.75,9.4,0,4.9,Activo
+2646,Matías López,13.0,12.0,-1.0,1.0,1.0,3.0,Yoga,0,0.92,8.2,0,4.9,Activo
+2647,Rocío Sánchez,8.0,14.0,-2.0,0.0,1.0,13.0,Gimnasio,0,1.0,5.2,0,4.9,Activo
+2648,Camila Aguirre,12.0,9.0,-5.0,3.0,7.0,24.0,Gimnasio,0,0.75,10.0,1,4.9,Activo
+2649,Leandro Álvarez,21.0,7.0,-9.0,2.0,15.0,14.0,Yoga,0,0.78,18.6,1,100.0,En Riesgo
+2650,Lucas Núñez,11.0,12.0,-5.0,0.0,7.0,103.0,Yoga,0,1.0,9.4,1,4.9,Activo
+2651,Ignacio Suárez,27.0,3.0,-8.0,5.0,22.0,24.0,Danza,1,0.38,25.0,1,100.0,En Riesgo
+2652,Camila Silva,12.0,11.0,-4.0,3.0,6.0,60.0,Gimnasio,0,0.79,9.6,0,4.9,Activo
+2653,Lautaro Álvarez,15.0,11.0,-5.0,2.0,8.0,19.0,Danza,1,0.85,12.2,1,4.9,Activo
+2654,Bautista Gutiérrez,2.0,13.0,1.0,1.0,5.0,12.0,Boxeo,0,0.93,3.2,0,4.9,Activo
+2655,Ramiro Rojas,7.0,13.0,-5.0,1.0,11.0,6.0,Pilates,0,0.93,8.6,1,4.9,Activo
+2656,Candela Ruiz,2.0,17.0,2.0,0.0,1.0,3.0,Danza,0,1.0,1.6,0,4.9,Activo
+2657,Gonzalo Gómez,53.0,0.0,-7.0,2.0,27.0,8.0,Gimnasio,1,0.0,42.6,1,66.1,En Riesgo
+2658,Martina Domínguez,9.0,14.0,0.0,0.0,3.0,4.0,Yoga,0,1.0,6.6,0,4.9,Activo
+2659,Tomás Ruiz,11.0,0.0,-7.0,5.0,9.0,9.0,Danza,1,0.0,10.2,1,80.0,En Riesgo
+2660,Julieta Benítez,36.0,0.0,-16.0,4.0,16.0,9.0,Gimnasio,0,0.0,28.0,1,100.0,En Riesgo
+2661,Benjamín Romero,20.0,11.0,-5.0,1.0,8.0,1.0,Gimnasio,1,0.92,15.2,1,100.0,En Riesgo
+2662,Nicolás Molina,13.0,13.0,-5.0,1.0,7.0,7.0,Pilates,1,0.93,10.6,1,4.9,Activo
+2663,Brisa Aguirre,4.0,17.0,2.0,0.0,8.0,4.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+2664,Facundo Godoy,57.0,0.0,-8.0,6.0,22.0,7.0,Gimnasio,0,0.0,43.0,1,66.1,En Riesgo
+2665,Matías Castro,14.0,12.0,1.0,0.0,7.0,10.0,Pilates,0,1.0,11.2,0,4.9,Activo
+2666,Ezequiel Ferreyra,1.0,14.0,-5.0,1.0,4.0,13.0,Danza,0,0.93,2.2,1,4.9,Activo
+2667,Agustín Núñez,8.0,15.0,5.0,4.0,11.0,10.0,Gimnasio,0,0.79,9.2,0,4.9,Activo
+2668,Abril López,23.0,7.0,-7.0,5.0,36.0,12.0,Gimnasio,0,0.58,28.2,1,100.0,En Riesgo
+2669,Matías Juárez,0.0,19.0,3.0,1.0,4.0,19.0,Pilates,0,0.95,1.6,0,4.9,Activo
+2670,Santiago Torres,11.0,9.0,-5.0,0.0,8.0,21.0,Pilates,0,1.0,9.8,1,4.9,Activo
+2671,Facundo Ríos,44.0,0.0,-11.0,2.0,44.0,24.0,Yoga,1,0.0,44.0,1,100.0,En Riesgo
+2672,Delfina Herrera,9.0,13.0,-4.0,4.0,5.0,38.0,Boxeo,0,0.76,7.4,0,4.9,Activo
+2673,Bautista Romero,33.0,0.0,-10.0,4.0,25.0,14.0,Pilates,1,0.0,29.8,1,100.0,En Riesgo
+2674,Agustín Romero,41.0,0.0,-15.0,4.0,11.0,41.0,Danza,0,0.0,29.0,1,100.0,En Riesgo
+2675,Matías Ortiz,12.0,15.0,1.0,0.0,2.0,7.0,Danza,0,1.0,8.0,0,4.9,Activo
+2676,Bautista Álvarez,36.0,0.0,-16.0,4.0,24.0,10.0,Danza,0,0.0,31.2,1,100.0,En Riesgo
+2677,Lucía Gutiérrez,1.0,11.0,-3.0,1.0,9.0,18.0,Gimnasio,0,0.92,4.2,0,4.9,Activo
+2678,Ezequiel Ramírez,1.0,17.0,2.0,0.0,7.0,38.0,Gimnasio,0,1.0,3.4,0,4.9,Activo
+2679,Ignacio Castro,3.0,11.0,-5.0,0.0,6.0,20.0,Danza,0,1.0,4.2,1,4.9,Activo
+2680,Julián Díaz,7.0,13.0,0.0,3.0,7.0,4.0,Danza,0,0.81,7.0,0,4.9,Activo
+2681,Mateo Suárez,1.0,13.0,-3.0,0.0,4.0,5.0,Pilates,0,1.0,2.2,0,4.9,Activo
+2682,Tomás Giménez,54.0,0.0,-5.0,7.0,38.0,1.0,Pilates,1,0.0,47.6,1,100.0,En Riesgo
+2683,Tomás Ramírez,12.0,13.0,1.0,1.0,11.0,37.0,Pilates,0,0.93,11.6,0,4.9,Activo
+2684,Joaquín Ferreyra,15.0,12.0,-3.0,0.0,6.0,72.0,Pilates,1,1.0,11.4,0,4.9,Activo
+2685,Florencia Medina,8.0,15.0,3.0,0.0,1.0,1.0,Pilates,0,1.0,5.2,0,4.9,Activo
+2686,Facundo Silva,9.0,13.0,-4.0,0.0,1.0,3.0,Yoga,0,1.0,5.8,0,4.9,Activo
+2687,Lucía Ruiz,6.0,15.0,-3.0,2.0,11.0,11.0,Yoga,1,0.88,8.0,0,4.9,Activo
+2688,Julián Herrera,0.0,13.0,-4.0,0.0,7.0,1.0,Pilates,0,1.0,2.8,0,4.9,Activo
+2689,Mía Álvarez,16.0,11.0,-5.0,2.0,4.0,21.0,Gimnasio,1,0.85,11.2,1,100.0,En Riesgo
+2690,Santiago Medina,4.0,15.0,5.0,1.0,0.0,5.0,Pilates,0,0.94,2.4,0,4.9,Activo
+2691,Ramiro Silva,25.0,1.0,-14.0,5.0,17.0,5.0,Gimnasio,1,0.17,21.8,1,100.0,En Riesgo
+2692,Matías Sosa,5.0,15.0,1.0,4.0,8.0,14.0,Pilates,0,0.79,6.2,0,4.9,Activo
+2693,Leandro Rojas,13.0,12.0,-4.0,0.0,6.0,4.0,Yoga,0,1.0,10.2,0,4.9,Activo
+2694,Bautista Moreno,8.0,13.0,2.0,1.0,4.0,14.0,Yoga,0,0.93,6.4,0,4.9,Activo
+2695,Ignacio Molina,3.0,12.0,-2.0,3.0,5.0,2.0,Yoga,0,0.8,3.8,0,4.9,Activo
+2696,Mía Sánchez,60.0,0.0,-5.0,3.0,35.0,16.0,Boxeo,1,0.0,50.0,1,66.1,En Riesgo
+2697,Nicolás Moreno,3.0,14.0,1.0,1.0,4.0,1.0,Gimnasio,0,0.93,3.4,0,4.9,Activo
+2698,Lara Sosa,2.0,12.0,-1.0,1.0,0.0,8.0,Yoga,1,0.92,1.2,0,4.9,Activo
+2699,Agustín Moreno,3.0,17.0,4.0,0.0,9.0,22.0,Danza,0,1.0,5.4,0,4.9,Activo
+2700,Lara Herrera,4.0,17.0,-2.0,0.0,1.0,24.0,Gimnasio,0,1.0,2.8,0,4.9,Activo
+2701,Agustín Luna,14.0,12.0,2.0,3.0,9.0,14.0,Gimnasio,1,0.8,12.0,0,4.9,Activo
+2702,Facundo Rojas,0.0,14.0,-2.0,1.0,10.0,11.0,Boxeo,0,0.93,4.0,0,4.9,Activo
+2703,Milagros Giménez,1.0,17.0,3.0,1.0,6.0,13.0,Pilates,0,0.94,3.0,0,4.9,Activo
+2704,Mateo Ramírez,3.0,11.0,-5.0,1.0,7.0,4.0,Boxeo,0,0.92,4.6,1,4.9,Activo
+2705,Mateo Luna,1.0,18.0,4.0,1.0,3.0,6.0,Gimnasio,0,0.95,1.8,0,4.9,Activo
+2706,Delfina Gutiérrez,10.0,12.0,-1.0,1.0,6.0,28.0,Gimnasio,0,0.92,8.4,0,4.9,Activo
+2707,Nicolás Gómez,14.0,13.0,0.0,0.0,6.0,17.0,Gimnasio,1,1.0,10.8,0,4.9,Activo
+2708,Ignacio Suárez,18.0,6.0,-8.0,4.0,18.0,7.0,Gimnasio,1,0.6,18.0,1,100.0,En Riesgo
+2709,Delfina Molina,11.0,17.0,2.0,0.0,8.0,13.0,Pilates,0,1.0,9.8,0,4.9,Activo
+2710,Emilia Juárez,3.0,17.0,5.0,1.0,3.0,9.0,Yoga,0,0.94,3.0,0,4.9,Activo
+2711,Lara Giménez,2.0,18.0,-2.0,1.0,7.0,19.0,Gimnasio,0,0.95,4.0,0,4.9,Activo
+2712,Milagros Giménez,2.0,16.0,-1.0,0.0,11.0,17.0,Boxeo,0,1.0,5.6,0,4.9,Activo
+2713,Facundo Domínguez,13.0,12.0,-2.0,0.0,12.0,6.0,Gimnasio,1,1.0,12.6,0,80.0,En Riesgo
+2714,Mateo Juárez,57.0,0.0,-8.0,6.0,32.0,50.0,Danza,0,0.0,47.0,1,66.1,En Riesgo
+2715,Rocío Flores,2.0,11.0,-3.0,1.0,5.0,36.0,Gimnasio,0,0.92,3.2,0,4.9,Activo
+2716,Brisa Sánchez,13.0,12.0,-1.0,2.0,6.0,26.0,Gimnasio,1,0.86,10.2,0,4.9,Activo
+2717,Milagros Romero,4.0,13.0,4.0,1.0,0.0,19.0,Boxeo,0,0.93,2.4,0,4.9,Activo
+2718,Mateo Gutiérrez,3.0,15.0,-3.0,1.0,4.0,8.0,Gimnasio,0,0.94,3.4,0,4.9,Activo
+2719,Victoria González,10.0,8.0,-5.0,4.0,2.0,21.0,Pilates,0,0.67,6.8,1,80.0,En Riesgo
+2720,Sofía Pereyra,3.0,17.0,3.0,0.0,0.0,55.0,Yoga,0,1.0,1.8,0,4.9,Activo
+2721,Santiago Juárez,18.0,12.0,-5.0,5.0,8.0,18.0,Pilates,1,0.71,14.0,1,100.0,En Riesgo
+2722,Abril Fernández,6.0,12.0,0.0,4.0,1.0,12.0,Gimnasio,0,0.75,4.0,0,4.9,Activo
+2723,Lucía Suárez,6.0,12.0,-3.0,1.0,10.0,19.0,Gimnasio,0,0.92,7.6,0,4.9,Activo
+2724,Facundo Torres,26.0,5.0,-9.0,4.0,18.0,1.0,Gimnasio,0,0.56,22.8,1,100.0,En Riesgo
+2725,Ramiro Molina,38.0,0.0,-18.0,5.0,36.0,1.0,Gimnasio,1,0.0,37.2,1,66.1,En Riesgo
+2726,Lautaro Morales,74.0,0.0,-14.0,1.0,33.0,40.0,Gimnasio,1,0.0,57.6,1,100.0,En Riesgo
+2727,Delfina Giménez,50.0,0.0,-11.0,4.0,32.0,9.0,Pilates,1,0.0,42.8,1,66.1,En Riesgo
+2728,Antonella Ruiz,11.0,10.0,-5.0,0.0,5.0,2.0,Yoga,0,1.0,8.6,1,4.9,Activo
+2729,Delfina Acosta,0.0,19.0,2.0,2.0,9.0,15.0,Pilates,0,0.9,3.6,0,4.9,Activo
+2730,Julián Suárez,9.0,14.0,1.0,0.0,6.0,13.0,Pilates,0,1.0,7.8,0,4.9,Activo
+2731,Joaquín Medina,10.0,13.0,-3.0,1.0,2.0,8.0,Boxeo,0,0.93,6.8,0,4.9,Activo
+2732,Camila Gutiérrez,11.0,8.0,-5.0,2.0,0.0,1.0,Gimnasio,0,0.8,6.6,1,4.9,Activo
+2733,Tomás Cabrera,18.0,0.0,-12.0,7.0,29.0,5.0,Yoga,1,0.0,22.4,1,100.0,En Riesgo
+2734,Emilia Rojas,6.0,15.0,-2.0,0.0,0.0,25.0,Danza,0,1.0,3.6,0,4.9,Activo
+2735,Antonella Pérez,23.0,5.0,-10.0,1.0,40.0,20.0,Gimnasio,1,0.83,29.8,1,100.0,En Riesgo
+2736,Sofía Juárez,23.0,0.0,-11.0,7.0,23.0,1.0,Gimnasio,1,0.0,23.0,1,100.0,En Riesgo
+2737,Catalina Castro,4.0,12.0,-5.0,1.0,1.0,8.0,Pilates,0,0.92,2.8,1,4.9,Activo
+2738,Milagros Álvarez,58.0,0.0,-18.0,4.0,42.0,56.0,Danza,1,0.0,51.6,1,100.0,En Riesgo
+2739,Julián Giménez,44.0,0.0,-8.0,3.0,33.0,5.0,Pilates,1,0.0,39.6,1,66.1,En Riesgo
+2740,Victoria Juárez,0.0,16.0,3.0,0.0,5.0,6.0,Boxeo,0,1.0,2.0,0,4.9,Activo
+2741,Mateo Aguirre,8.0,15.0,1.0,0.0,9.0,30.0,Gimnasio,0,1.0,8.4,0,4.9,Activo
+2742,Martina Moreno,27.0,2.0,-5.0,6.0,16.0,22.0,Pilates,0,0.25,22.6,1,100.0,En Riesgo
+2743,Brisa Silva,12.0,10.0,-3.0,0.0,9.0,5.0,Yoga,0,1.0,10.8,0,4.9,Activo
+2744,Tomás Flores,23.0,6.0,-11.0,2.0,26.0,20.0,Danza,1,0.75,24.2,1,100.0,En Riesgo
+2745,Lucía Medina,20.0,7.0,-5.0,4.0,27.0,5.0,Danza,1,0.64,22.8,1,100.0,En Riesgo
+2746,Ezequiel Silva,0.0,15.0,-4.0,4.0,11.0,3.0,Gimnasio,0,0.79,4.4,0,4.9,Activo
+2747,Sofía Gutiérrez,1.0,18.0,2.0,0.0,5.0,5.0,Danza,0,1.0,2.6,0,4.9,Activo
+2748,Florencia Domínguez,8.0,18.0,2.0,3.0,6.0,31.0,Danza,0,0.86,7.2,0,4.9,Activo
+2749,Santiago López,35.0,0.0,-11.0,6.0,23.0,18.0,Gimnasio,0,0.0,30.2,1,100.0,En Riesgo
+2750,Martina Pérez,25.0,2.0,-7.0,4.0,19.0,9.0,Boxeo,1,0.33,22.6,1,100.0,En Riesgo
+2751,Florencia Gutiérrez,11.0,11.0,-5.0,1.0,11.0,31.0,Boxeo,0,0.92,11.0,1,4.9,Activo
+2752,Joaquín González,25.0,0.0,-10.0,3.0,24.0,10.0,Gimnasio,1,0.0,24.6,1,100.0,En Riesgo
+2753,Valentina Fernández,1.0,17.0,0.0,0.0,3.0,17.0,Pilates,0,1.0,1.8,0,4.9,Activo
+2754,Valentina Flores,46.0,0.0,-11.0,5.0,36.0,1.0,Gimnasio,1,0.0,42.0,1,66.1,En Riesgo
+2755,Joaquín Núñez,70.0,0.0,-6.0,6.0,44.0,19.0,Pilates,1,0.0,59.6,1,100.0,En Riesgo
+2756,Mateo Torres,12.0,16.0,2.0,0.0,3.0,11.0,Danza,0,1.0,8.4,0,4.9,Activo
+2757,Milagros Ramírez,11.0,14.0,3.0,2.0,4.0,5.0,Boxeo,0,0.88,8.2,0,4.9,Activo
+2758,Valentina Rodríguez,9.0,15.0,1.0,2.0,2.0,5.0,Pilates,0,0.88,6.2,0,4.9,Activo
+2759,Ramiro Álvarez,11.0,0.0,-16.0,3.0,32.0,12.0,Gimnasio,1,0.0,19.4,1,80.0,En Riesgo
+2760,Delfina Núñez,10.0,9.0,-2.0,0.0,10.0,25.0,Yoga,0,1.0,10.0,0,4.9,Activo
+2761,Julián Domínguez,62.0,0.0,-16.0,7.0,42.0,16.0,Gimnasio,1,0.0,54.0,1,100.0,En Riesgo
+2762,Juan Cruz Ruiz,13.0,16.0,5.0,1.0,9.0,31.0,Gimnasio,0,0.94,11.4,0,4.9,Activo
+2763,Victoria Gutiérrez,11.0,10.0,-1.0,0.0,6.0,24.0,Pilates,0,1.0,9.0,0,4.9,Activo
+2764,Santiago Núñez,1.0,14.0,-3.0,1.0,11.0,13.0,Gimnasio,0,0.93,5.0,0,4.9,Activo
+2765,Ezequiel Moreno,63.0,0.0,-10.0,2.0,28.0,54.0,Pilates,1,0.0,49.0,1,66.1,En Riesgo
+2766,Antonella Ríos,36.0,0.0,-18.0,3.0,32.0,1.0,Pilates,1,0.0,34.4,1,66.1,En Riesgo
+2767,Sofía Pérez,11.0,13.0,-4.0,3.0,3.0,32.0,Gimnasio,0,0.81,7.8,0,4.9,Activo
+2768,Juan Cruz Fernández,3.0,17.0,-2.0,1.0,0.0,14.0,Yoga,0,0.94,1.8,0,4.9,Activo
+2769,Mía Martínez,14.0,10.0,-5.0,1.0,2.0,9.0,Danza,0,0.91,9.2,1,4.9,Activo
+2770,Ignacio Moreno,24.0,3.0,-13.0,3.0,13.0,8.0,Gimnasio,1,0.5,19.6,1,100.0,En Riesgo
+2771,Victoria Suárez,12.0,11.0,-3.0,2.0,8.0,14.0,Gimnasio,0,0.85,10.4,0,4.9,Activo
+2772,Mía Gómez,13.0,14.0,-1.0,0.0,4.0,4.0,Gimnasio,0,1.0,9.4,0,4.9,Activo
+2773,Rocío Álvarez,7.0,14.0,-5.0,1.0,3.0,4.0,Pilates,0,0.93,5.4,1,4.9,Activo
+2774,Santiago Ferreyra,11.0,13.0,1.0,0.0,8.0,32.0,Pilates,0,1.0,9.8,0,4.9,Activo
+2775,Sofía Cabrera,11.0,12.0,-4.0,2.0,9.0,13.0,Gimnasio,0,0.86,10.2,0,4.9,Activo
+2776,Brisa Torres,10.0,11.0,-5.0,1.0,2.0,2.0,Gimnasio,0,0.92,6.8,1,4.9,Activo
+2777,Benjamín González,8.0,15.0,5.0,2.0,5.0,1.0,Gimnasio,0,0.88,6.8,0,4.9,Activo
+2778,Victoria Godoy,29.0,4.0,-9.0,3.0,12.0,21.0,Yoga,0,0.57,22.2,1,100.0,En Riesgo
+2779,Delfina Ramírez,57.0,1.0,-13.0,2.0,8.0,15.0,Yoga,1,0.33,37.4,1,66.1,En Riesgo
+2780,Mateo Ortiz,70.0,0.0,-6.0,5.0,28.0,6.0,Danza,1,0.0,53.2,1,100.0,En Riesgo
+2781,Victoria Sosa,40.0,0.0,-15.0,6.0,14.0,1.0,Yoga,1,0.0,29.6,1,100.0,En Riesgo
+2782,Lara Domínguez,59.0,0.0,-11.0,4.0,40.0,53.0,Gimnasio,1,0.0,51.4,1,100.0,En Riesgo
+2783,Santiago Ramírez,23.0,8.0,-8.0,2.0,37.0,5.0,Danza,0,0.8,28.6,1,100.0,En Riesgo
+2784,Catalina Gutiérrez,8.0,14.0,-5.0,1.0,5.0,7.0,Pilates,0,0.93,6.8,1,4.9,Activo
+2785,Agustín Cabrera,7.0,13.0,1.0,0.0,8.0,3.0,Pilates,0,1.0,7.4,0,4.9,Activo
+2786,Sofía Medina,7.0,13.0,-4.0,1.0,1.0,3.0,Yoga,0,0.93,4.6,0,4.9,Activo
+2787,Victoria Domínguez,11.0,19.0,5.0,0.0,8.0,19.0,Yoga,0,1.0,9.8,0,4.9,Activo
+2788,Bautista Godoy,4.0,14.0,-2.0,3.0,2.0,26.0,Gimnasio,0,0.82,3.2,0,4.9,Activo
+2789,Mía Pereyra,15.0,8.0,0.0,1.0,9.0,3.0,Gimnasio,0,0.89,12.6,0,4.9,Activo
+2790,Joaquín Castro,10.0,13.0,0.0,3.0,11.0,24.0,Pilates,1,0.81,10.4,0,4.9,Activo
+2791,Lautaro Juárez,15.0,12.0,5.0,0.0,1.0,3.0,Yoga,0,1.0,9.4,0,4.9,Activo
+2792,Nicolás Ferreyra,7.0,17.0,3.0,3.0,1.0,3.0,Gimnasio,0,0.85,4.6,0,4.9,Activo
+2793,Florencia Pereyra,11.0,14.0,-3.0,3.0,4.0,6.0,Pilates,0,0.82,8.2,0,4.9,Activo
+2794,Abril Flores,0.0,15.0,2.0,3.0,0.0,30.0,Pilates,0,0.83,0.0,0,4.9,Activo
+2795,Gonzalo Díaz,7.0,12.0,-3.0,0.0,2.0,13.0,Gimnasio,0,1.0,5.0,0,4.9,Activo
+2796,Lara Sánchez,53.0,0.0,-3.0,5.0,29.0,7.0,Danza,1,0.0,43.4,0,66.1,En Riesgo
+2797,Lucas Herrera,3.0,14.0,-3.0,1.0,9.0,2.0,Boxeo,0,0.93,5.4,0,4.9,Activo
+2798,Santiago Martínez,3.0,13.0,0.0,0.0,3.0,3.0,Gimnasio,0,1.0,3.0,0,4.9,Activo
+2799,Sofía Benítez,1.0,18.0,0.0,1.0,8.0,16.0,Gimnasio,0,0.95,3.8,0,4.9,Activo
+2800,Ignacio Benítez,9.0,12.0,0.0,1.0,0.0,2.0,Gimnasio,0,0.92,5.4,0,4.9,Activo
+2801,Candela Pereyra,7.0,17.0,4.0,0.0,6.0,14.0,Pilates,0,1.0,6.6,0,4.9,Activo
+2802,Leandro Gómez,5.0,15.0,-4.0,0.0,3.0,15.0,Yoga,1,1.0,4.2,0,4.9,Activo
+2803,Agustín Núñez,12.0,16.0,4.0,2.0,3.0,4.0,Pilates,0,0.89,8.4,0,4.9,Activo
+2804,Julián Godoy,0.0,15.0,3.0,2.0,0.0,2.0,Yoga,0,0.88,0.0,0,4.9,Activo
+2805,Florencia Herrera,30.0,0.0,-17.0,6.0,37.0,12.0,Boxeo,1,0.0,32.8,1,66.1,En Riesgo
+2806,Paula Cabrera,15.0,13.0,1.0,0.0,10.0,89.0,Gimnasio,0,1.0,13.0,0,4.9,Activo
+2807,Gonzalo Godoy,15.0,10.0,-4.0,0.0,11.0,13.0,Yoga,0,1.0,13.4,0,4.9,Activo
+2808,Juan Cruz Medina,11.0,12.0,-3.0,1.0,5.0,13.0,Gimnasio,0,0.92,8.6,0,4.9,Activo
+2809,Rocío Gutiérrez,4.0,15.0,-1.0,1.0,3.0,1.0,Yoga,0,0.94,3.6,0,4.9,Activo
+2810,Delfina Núñez,9.0,14.0,0.0,0.0,11.0,1.0,Boxeo,0,1.0,9.8,0,4.9,Activo
+2811,Milagros Moreno,72.0,0.0,-8.0,1.0,43.0,10.0,Boxeo,1,0.0,60.4,1,100.0,En Riesgo
+2812,Ezequiel Juárez,11.0,14.0,4.0,1.0,7.0,55.0,Yoga,0,0.93,9.4,0,4.9,Activo
+2813,Sofía Romero,13.0,18.0,5.0,1.0,5.0,3.0,Gimnasio,0,0.95,9.8,0,4.9,Activo
+2814,Lucía Rojas,6.0,14.0,-2.0,3.0,2.0,21.0,Yoga,0,0.82,4.4,0,4.9,Activo
+2815,Ezequiel Silva,72.0,0.0,-11.0,7.0,25.0,7.0,Gimnasio,1,0.0,53.2,1,100.0,En Riesgo
+2816,Brisa Cabrera,13.0,8.0,-4.0,4.0,11.0,3.0,Boxeo,0,0.67,12.2,0,80.0,En Riesgo
+2817,Ezequiel Suárez,64.0,0.0,-8.0,5.0,28.0,12.0,Pilates,1,0.0,49.6,1,66.1,En Riesgo
+2818,Julián Pereyra,9.0,14.0,-3.0,0.0,2.0,47.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+2819,Agustín Romero,52.0,0.0,-5.0,3.0,31.0,12.0,Gimnasio,0,0.0,43.6,1,66.1,En Riesgo
+2820,Lautaro Sánchez,5.0,11.0,-5.0,1.0,0.0,8.0,Pilates,0,0.92,3.0,1,4.9,Activo
+2821,Milagros Torres,7.0,16.0,3.0,1.0,8.0,15.0,Danza,0,0.94,7.4,0,4.9,Activo
+2822,Camila Flores,69.0,0.0,-9.0,1.0,18.0,16.0,Pilates,1,0.0,48.6,1,100.0,En Riesgo
+2823,Ignacio Ramírez,33.0,2.0,-7.0,5.0,8.0,15.0,Boxeo,1,0.29,23.0,1,100.0,En Riesgo
+2824,Santiago Luna,34.0,3.0,-7.0,4.0,27.0,36.0,Gimnasio,0,0.43,31.2,1,100.0,En Riesgo
+2825,Rocío Giménez,11.0,7.0,-5.0,3.0,13.0,3.0,Boxeo,0,0.7,11.8,1,80.0,En Riesgo
+2826,Victoria Ríos,8.0,12.0,-3.0,0.0,9.0,67.0,Boxeo,0,1.0,8.4,0,4.9,Activo
+2827,Lara Cabrera,12.0,14.0,4.0,0.0,8.0,24.0,Boxeo,0,1.0,10.4,0,4.9,Activo
+2828,Brisa Martínez,9.0,11.0,-4.0,3.0,6.0,13.0,Danza,0,0.79,7.8,0,4.9,Activo
+2829,Facundo Suárez,20.0,1.0,-17.0,6.0,40.0,2.0,Gimnasio,1,0.14,28.0,1,100.0,En Riesgo
+2830,Milagros López,11.0,11.0,-4.0,2.0,8.0,11.0,Gimnasio,0,0.85,9.8,0,4.9,Activo
+2831,Franco Aguirre,4.0,17.0,-1.0,0.0,2.0,4.0,Gimnasio,0,1.0,3.2,0,4.9,Activo
+2832,Victoria Morales,10.0,12.0,-5.0,1.0,7.0,10.0,Yoga,0,0.92,8.8,1,4.9,Activo
+2833,Lucía Pereyra,0.0,15.0,-5.0,0.0,5.0,1.0,Yoga,0,1.0,2.0,1,4.9,Activo
+2834,Franco Cabrera,34.0,5.0,-4.0,4.0,24.0,10.0,Boxeo,0,0.56,30.0,0,100.0,En Riesgo
+2835,Ramiro Rojas,8.0,17.0,3.0,0.0,3.0,14.0,Gimnasio,0,1.0,6.0,0,4.9,Activo
+2836,Matías Rojas,9.0,15.0,-3.0,2.0,5.0,10.0,Gimnasio,0,0.88,7.4,0,4.9,Activo
+2837,Joaquín Romero,60.0,0.0,-16.0,4.0,21.0,31.0,Danza,1,0.0,44.4,1,66.1,En Riesgo
+2838,Lucía Juárez,8.0,15.0,4.0,1.0,9.0,20.0,Pilates,0,0.94,8.4,0,4.9,Activo
+2839,Abril Herrera,61.0,0.0,-13.0,3.0,19.0,65.0,Gimnasio,1,0.0,44.2,1,66.1,En Riesgo
+2840,Benjamín Díaz,14.0,14.0,4.0,1.0,8.0,17.0,Yoga,0,0.93,11.6,0,4.9,Activo
+2841,Ezequiel Gutiérrez,29.0,0.0,-13.0,5.0,29.0,8.0,Pilates,1,0.0,29.0,1,100.0,En Riesgo
+2842,Florencia Benítez,61.0,0.0,-3.0,4.0,21.0,4.0,Gimnasio,1,0.0,45.0,0,66.1,En Riesgo
+2843,Ignacio Godoy,3.0,17.0,1.0,1.0,5.0,19.0,Danza,1,0.94,3.8,0,4.9,Activo
+2844,Gonzalo Luna,32.0,1.0,-18.0,3.0,10.0,19.0,Gimnasio,1,0.25,23.2,1,100.0,En Riesgo
+2845,Victoria Domínguez,12.0,13.0,-1.0,1.0,3.0,16.0,Boxeo,0,0.93,8.4,0,4.9,Activo
+2846,Julián Giménez,10.0,13.0,1.0,0.0,8.0,11.0,Pilates,0,1.0,9.2,0,4.9,Activo
+2847,Lara Díaz,21.0,3.0,-8.0,6.0,41.0,15.0,Yoga,1,0.33,29.0,1,100.0,En Riesgo
+2848,Benjamín Herrera,15.0,14.0,4.0,0.0,0.0,4.0,Gimnasio,0,1.0,9.0,0,4.9,Activo
+2849,Ezequiel Díaz,74.0,0.0,-6.0,5.0,44.0,17.0,Pilates,1,0.0,62.0,1,100.0,En Riesgo
+2850,Mateo Sosa,11.0,0.0,-3.0,5.0,21.0,5.0,Gimnasio,1,0.0,15.0,0,80.0,En Riesgo
+2851,Agustín Morales,13.0,17.0,5.0,2.0,1.0,10.0,Gimnasio,0,0.89,8.2,0,4.9,Activo
+2852,Sofía Flores,5.0,15.0,0.0,1.0,1.0,9.0,Yoga,0,0.94,3.4,0,4.9,Activo
+2853,Mía Silva,26.0,3.0,-12.0,2.0,19.0,13.0,Boxeo,0,0.6,23.2,1,100.0,En Riesgo
+2854,Julieta Ruiz,6.0,15.0,2.0,2.0,4.0,41.0,Gimnasio,0,0.88,5.2,0,4.9,Activo
+2855,Santiago Martínez,9.0,14.0,2.0,4.0,8.0,7.0,Danza,0,0.78,8.6,0,4.9,Activo
+2856,Florencia Ferreyra,30.0,0.0,-11.0,5.0,31.0,27.0,Gimnasio,1,0.0,30.4,1,100.0,En Riesgo
+2857,Ramiro Pérez,34.0,0.0,-13.0,7.0,26.0,1.0,Pilates,1,0.0,30.8,1,100.0,En Riesgo
+2858,Leandro Giménez,1.0,14.0,-4.0,2.0,8.0,25.0,Yoga,0,0.88,3.8,0,4.9,Activo
+2859,Facundo Martínez,2.0,12.0,-5.0,1.0,7.0,21.0,Yoga,0,0.92,4.0,1,4.9,Activo
+2860,Santiago Gutiérrez,30.0,5.0,-7.0,2.0,13.0,12.0,Gimnasio,1,0.71,23.2,1,100.0,En Riesgo
+2861,Sofía Medina,7.0,16.0,4.0,1.0,8.0,5.0,Yoga,0,0.94,7.4,0,4.9,Activo
+2862,Benjamín Molina,3.0,18.0,4.0,1.0,7.0,11.0,Gimnasio,0,0.95,4.6,0,4.9,Activo
+2863,Leandro Martínez,14.0,10.0,-5.0,1.0,9.0,4.0,Danza,0,0.91,12.0,1,4.9,Activo
+2864,Tomás Giménez,58.0,0.0,-4.0,3.0,34.0,1.0,Yoga,1,0.0,48.4,0,66.1,En Riesgo
+2865,Ramiro Sánchez,4.0,15.0,-4.0,3.0,7.0,2.0,Gimnasio,0,0.83,5.2,0,4.9,Activo
+2866,Nicolás Sosa,21.0,1.0,-6.0,7.0,23.0,5.0,Pilates,1,0.12,21.8,1,100.0,En Riesgo
+2867,Tomás Moreno,32.0,1.0,-7.0,6.0,15.0,12.0,Boxeo,0,0.14,25.2,1,100.0,En Riesgo
+2868,Mateo Cabrera,40.0,1.0,-3.0,5.0,37.0,1.0,Gimnasio,1,0.17,38.8,0,66.1,En Riesgo
+2869,Bautista Silva,61.0,0.0,-10.0,7.0,30.0,68.0,Gimnasio,1,0.0,48.6,1,100.0,En Riesgo
+2870,Matías Pereyra,3.0,19.0,4.0,1.0,1.0,20.0,Pilates,0,0.95,2.2,0,4.9,Activo
+2871,Gonzalo Sosa,18.0,2.0,-15.0,5.0,35.0,17.0,Danza,1,0.29,24.8,1,100.0,En Riesgo
+2872,Antonella Cabrera,14.0,10.0,-5.0,0.0,6.0,7.0,Gimnasio,0,1.0,10.8,1,4.9,Activo
+2873,Joaquín Pereyra,10.0,16.0,1.0,1.0,2.0,39.0,Gimnasio,0,0.94,6.8,0,4.9,Activo
+2874,Abril Medina,39.0,0.0,-11.0,6.0,23.0,12.0,Boxeo,1,0.0,32.6,1,66.1,En Riesgo
+2875,Emilia Ríos,4.0,11.0,-3.0,4.0,5.0,3.0,Gimnasio,0,0.73,4.4,0,4.9,Activo
+2876,Abril Aguirre,10.0,12.0,-4.0,0.0,10.0,20.0,Gimnasio,1,1.0,10.0,0,4.9,Activo
+2877,Nicolás Martínez,42.0,0.0,-9.0,3.0,18.0,5.0,Gimnasio,1,0.0,32.4,1,66.1,En Riesgo
+2878,Lara Medina,6.0,12.0,-5.0,1.0,9.0,11.0,Gimnasio,0,0.92,7.2,1,4.9,Activo
+2879,Facundo López,6.0,14.0,-1.0,1.0,10.0,19.0,Gimnasio,0,0.93,7.6,0,4.9,Activo
+2880,Mateo Benítez,4.0,12.0,-4.0,0.0,8.0,35.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+2881,Matías Silva,9.0,11.0,-1.0,3.0,11.0,13.0,Yoga,0,0.79,9.8,0,4.9,Activo
+2882,Tomás Domínguez,65.0,0.0,-6.0,7.0,38.0,14.0,Gimnasio,1,0.0,54.2,1,100.0,En Riesgo
+2883,Mateo Moreno,1.0,16.0,1.0,1.0,11.0,5.0,Yoga,0,0.94,5.0,0,4.9,Activo
+2884,Juan Cruz Moreno,12.0,15.0,5.0,4.0,0.0,4.0,Gimnasio,0,0.79,7.2,0,4.9,Activo
+2885,Valentina Pereyra,12.0,13.0,-2.0,0.0,3.0,7.0,Gimnasio,0,1.0,8.4,0,4.9,Activo
+2886,Nicolás Domínguez,52.0,0.0,-16.0,4.0,20.0,16.0,Yoga,0,0.0,39.2,1,66.1,En Riesgo
+2887,Florencia González,8.0,14.0,1.0,0.0,2.0,34.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+2888,Mateo Herrera,11.0,14.0,2.0,2.0,3.0,4.0,Gimnasio,0,0.88,7.8,0,4.9,Activo
+2889,Delfina Castro,15.0,12.0,-1.0,2.0,0.0,8.0,Danza,0,0.86,9.0,0,4.9,Activo
+2890,Matías Romero,32.0,2.0,-14.0,1.0,12.0,15.0,Gimnasio,1,0.67,24.0,1,100.0,En Riesgo
+2891,Catalina Fernández,4.0,19.0,4.0,0.0,11.0,8.0,Gimnasio,0,1.0,6.8,0,4.9,Activo
+2892,Candela Sánchez,11.0,0.0,-6.0,6.0,16.0,2.0,Gimnasio,1,0.0,13.0,1,80.0,En Riesgo
+2893,Brisa Ramírez,5.0,13.0,1.0,0.0,1.0,3.0,Gimnasio,0,1.0,3.4,0,4.9,Activo
+2894,Lucas Álvarez,0.0,17.0,5.0,2.0,9.0,9.0,Gimnasio,0,0.89,3.6,0,4.9,Activo
+2895,Paula Díaz,14.0,13.0,5.0,2.0,9.0,39.0,Boxeo,0,0.87,12.0,0,4.9,Activo
+2896,Emilia Ortiz,3.0,11.0,-4.0,0.0,10.0,16.0,Boxeo,0,1.0,5.8,0,4.9,Activo
+2897,Julieta Romero,0.0,17.0,0.0,0.0,0.0,63.0,Danza,0,1.0,0.0,0,4.9,Activo
+2898,Abril Pereyra,15.0,13.0,1.0,0.0,5.0,2.0,Pilates,1,1.0,11.0,0,4.9,Activo
+2899,Paula Ruiz,4.0,14.0,0.0,0.0,5.0,1.0,Gimnasio,1,1.0,4.4,0,4.9,Activo
+2900,Florencia Ruiz,40.0,0.0,-12.0,5.0,36.0,10.0,Danza,0,0.0,38.4,1,66.1,En Riesgo
+2901,Valentina Medina,11.0,16.0,3.0,0.0,11.0,2.0,Yoga,0,1.0,11.0,0,4.9,Activo
+2902,Victoria Godoy,1.0,12.0,-4.0,3.0,8.0,20.0,Boxeo,0,0.8,3.8,0,4.9,Activo
+2903,Leandro Gutiérrez,13.0,12.0,-5.0,1.0,5.0,6.0,Danza,0,0.92,9.8,1,4.9,Activo
+2904,Sofía Silva,8.0,14.0,2.0,0.0,7.0,22.0,Gimnasio,1,1.0,7.6,0,4.9,Activo
+2905,Joaquín Ferreyra,51.0,0.0,-3.0,4.0,44.0,20.0,Danza,1,0.0,48.2,0,100.0,En Riesgo
+2906,Ignacio Moreno,31.0,0.0,-16.0,7.0,17.0,9.0,Pilates,1,0.0,25.4,1,100.0,En Riesgo
+2907,Franco Herrera,51.0,2.0,-4.0,1.0,14.0,7.0,Gimnasio,1,0.67,36.2,0,66.1,En Riesgo
+2908,Ezequiel Álvarez,58.0,0.0,-18.0,1.0,43.0,28.0,Gimnasio,1,0.0,52.0,1,100.0,En Riesgo
+2909,Joaquín Rojas,7.0,11.0,-4.0,1.0,8.0,92.0,Boxeo,0,0.92,7.4,0,4.9,Activo
+2910,Bautista Rodríguez,11.0,14.0,-5.0,1.0,3.0,6.0,Danza,0,0.93,7.8,1,4.9,Activo
+2911,Matías González,4.0,15.0,-1.0,0.0,1.0,8.0,Gimnasio,0,1.0,2.8,0,4.9,Activo
+2912,Gonzalo Gutiérrez,4.0,16.0,1.0,1.0,8.0,5.0,Pilates,0,0.94,5.6,0,4.9,Activo
+2913,Milagros Benítez,42.0,0.0,-3.0,4.0,30.0,19.0,Boxeo,1,0.0,37.2,0,66.1,En Riesgo
+2914,Julieta Herrera,57.0,0.0,-3.0,7.0,38.0,4.0,Yoga,1,0.0,49.4,0,100.0,En Riesgo
+2915,Martina Aguirre,25.0,3.0,-9.0,4.0,30.0,10.0,Gimnasio,0,0.43,27.0,1,100.0,En Riesgo
+2916,Benjamín Juárez,7.0,12.0,-3.0,2.0,7.0,4.0,Gimnasio,0,0.86,7.0,0,4.9,Activo
+2917,Nicolás Ríos,53.0,0.0,-16.0,3.0,27.0,11.0,Yoga,1,0.0,42.6,1,66.1,En Riesgo
+2918,Delfina Medina,7.0,17.0,1.0,0.0,7.0,41.0,Boxeo,0,1.0,7.0,0,4.9,Activo
+2919,Tomás Romero,5.0,14.0,0.0,2.0,8.0,10.0,Pilates,0,0.88,6.2,0,4.9,Activo
+2920,Lara Díaz,6.0,12.0,0.0,0.0,7.0,44.0,Pilates,0,1.0,6.4,0,4.9,Activo
+2921,Lucas Cabrera,53.0,0.0,-12.0,5.0,19.0,3.0,Gimnasio,1,0.0,39.4,1,66.1,En Riesgo
+2922,Bautista Herrera,3.0,14.0,-4.0,1.0,7.0,4.0,Danza,0,0.93,4.6,0,4.9,Activo
+2923,Joaquín Gómez,2.0,12.0,5.0,0.0,6.0,42.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+2924,Brisa Moreno,6.0,16.0,5.0,4.0,7.0,17.0,Boxeo,0,0.8,6.4,0,4.9,Activo
+2925,Mía Gutiérrez,36.0,0.0,-8.0,6.0,33.0,26.0,Danza,0,0.0,34.8,1,66.1,En Riesgo
+2926,Milagros Pereyra,9.0,13.0,2.0,3.0,2.0,1.0,Gimnasio,0,0.81,6.2,0,4.9,Activo
+2927,Brisa Ortiz,4.0,15.0,1.0,1.0,2.0,33.0,Gimnasio,0,0.94,3.2,0,4.9,Activo
+2928,Sofía Cabrera,48.0,0.0,-12.0,5.0,38.0,13.0,Danza,1,0.0,44.0,1,66.1,En Riesgo
+2929,Santiago Juárez,11.0,11.0,-4.0,0.0,9.0,2.0,Gimnasio,0,1.0,10.2,0,4.9,Activo
+2930,Martina Ferreyra,2.0,13.0,-4.0,2.0,8.0,5.0,Gimnasio,0,0.87,4.4,0,4.9,Activo
+2931,Martina Suárez,2.0,12.0,-2.0,0.0,10.0,23.0,Pilates,1,1.0,5.2,0,4.9,Activo
+2932,Catalina Núñez,6.0,14.0,-4.0,1.0,2.0,6.0,Yoga,0,0.93,4.4,0,4.9,Activo
+2933,Lautaro Ríos,5.0,17.0,4.0,0.0,0.0,1.0,Gimnasio,0,1.0,3.0,0,4.9,Activo
+2934,Franco Ruiz,5.0,12.0,-4.0,0.0,9.0,2.0,Gimnasio,0,1.0,6.6,0,4.9,Activo
+2935,Nicolás Morales,0.0,11.0,-4.0,3.0,6.0,12.0,Gimnasio,0,0.79,2.4,0,4.9,Activo
+2936,Franco Juárez,55.0,0.0,-11.0,2.0,35.0,9.0,Gimnasio,1,0.0,47.0,1,66.1,En Riesgo
+2937,Martina Sánchez,9.0,15.0,4.0,0.0,2.0,2.0,Gimnasio,0,1.0,6.2,0,4.9,Activo
+2938,Emilia Ferreyra,13.0,15.0,4.0,0.0,4.0,30.0,Pilates,0,1.0,9.4,0,4.9,Activo
+2939,Catalina Romero,4.0,20.0,5.0,0.0,8.0,9.0,Gimnasio,0,1.0,5.6,0,4.9,Activo
+2940,Ezequiel Juárez,7.0,15.0,2.0,0.0,3.0,21.0,Gimnasio,0,1.0,5.4,0,4.9,Activo
+2941,Santiago Ríos,1.0,17.0,-1.0,1.0,3.0,26.0,Gimnasio,0,0.94,1.8,0,4.9,Activo
+2942,Emilia Ramírez,4.0,16.0,-1.0,0.0,3.0,1.0,Boxeo,0,1.0,3.6,0,4.9,Activo
+2943,Abril Ruiz,29.0,4.0,-6.0,6.0,18.0,4.0,Gimnasio,1,0.4,24.6,1,100.0,En Riesgo
+2944,Tomás Giménez,40.0,0.0,-9.0,5.0,8.0,2.0,Pilates,1,0.0,27.2,1,100.0,En Riesgo
+2945,Julián Aguirre,15.0,17.0,5.0,0.0,5.0,4.0,Yoga,0,1.0,11.0,0,4.9,Activo
+2946,Joaquín Romero,15.0,13.0,1.0,0.0,1.0,19.0,Gimnasio,0,1.0,9.4,0,4.9,Activo
+2947,Leandro Sánchez,11.0,15.0,0.0,2.0,2.0,22.0,Gimnasio,0,0.88,7.4,0,4.9,Activo
+2948,Milagros Moreno,6.0,13.0,-5.0,2.0,7.0,2.0,Boxeo,0,0.87,6.4,1,4.9,Activo
+2949,Candela Acosta,26.0,1.0,-17.0,6.0,32.0,39.0,Danza,1,0.14,28.4,1,100.0,En Riesgo
+2950,Lucas Gutiérrez,21.0,0.0,-18.0,5.0,34.0,6.0,Gimnasio,1,0.0,26.2,1,100.0,En Riesgo
+2951,Camila Luna,6.0,17.0,5.0,1.0,5.0,9.0,Yoga,0,0.94,5.6,0,4.9,Activo
+2952,Brisa Romero,67.0,0.0,-3.0,3.0,28.0,7.0,Danza,1,0.0,51.4,0,100.0,En Riesgo
+2953,Joaquín Morales,8.0,16.0,3.0,0.0,7.0,2.0,Boxeo,0,1.0,7.6,0,4.9,Activo
+2954,Antonella Ríos,10.0,12.0,-5.0,0.0,6.0,32.0,Danza,0,1.0,8.4,1,4.9,Activo
+2955,Victoria Sosa,11.0,12.0,1.0,3.0,9.0,5.0,Yoga,0,0.8,10.2,0,4.9,Activo
+2956,Lucas Rojas,48.0,2.0,-6.0,2.0,22.0,8.0,Gimnasio,0,0.5,37.6,1,66.1,En Riesgo
+2957,Lara Gutiérrez,6.0,19.0,5.0,0.0,8.0,1.0,Gimnasio,0,1.0,6.8,0,4.9,Activo
+2958,Martina Acosta,41.0,2.0,-7.0,4.0,20.0,43.0,Gimnasio,1,0.33,32.6,1,66.1,En Riesgo
+2959,Martina Ramírez,9.0,13.0,-5.0,0.0,10.0,9.0,Boxeo,0,1.0,9.4,1,4.9,Activo
+2960,Rocío Ramírez,13.0,8.0,-3.0,3.0,6.0,20.0,Danza,0,0.73,10.2,0,4.9,Activo
+2961,Julián Sosa,1.0,12.0,3.0,0.0,4.0,23.0,Gimnasio,0,1.0,2.2,0,4.9,Activo
+2962,Bautista Ríos,10.0,13.0,3.0,3.0,0.0,56.0,Danza,0,0.81,6.0,0,4.9,Activo
+2963,Lautaro Giménez,8.0,13.0,-5.0,0.0,7.0,11.0,Gimnasio,0,1.0,7.6,1,4.9,Activo
+2964,Delfina Silva,36.0,0.0,-13.0,4.0,42.0,9.0,Yoga,1,0.0,38.4,1,100.0,En Riesgo
+2965,Mía Suárez,11.0,14.0,0.0,0.0,10.0,13.0,Gimnasio,0,1.0,10.6,0,4.9,Activo
+2966,Ramiro Benítez,15.0,14.0,-2.0,0.0,6.0,12.0,Pilates,0,1.0,11.4,0,4.9,Activo
+2967,Paula Medina,52.0,0.0,-13.0,3.0,41.0,2.0,Pilates,1,0.0,47.6,1,100.0,En Riesgo
+2968,Santiago Álvarez,10.0,14.0,3.0,1.0,6.0,5.0,Boxeo,0,0.93,8.4,0,4.9,Activo
+2969,Nicolás Acosta,41.0,0.0,-14.0,5.0,9.0,34.0,Gimnasio,1,0.0,28.2,1,100.0,En Riesgo
+2970,Sofía Sánchez,7.0,16.0,3.0,1.0,4.0,25.0,Gimnasio,0,0.94,5.8,0,4.9,Activo
+2971,Antonella Torres,7.0,15.0,-2.0,0.0,4.0,26.0,Danza,0,1.0,5.8,0,4.9,Activo
+2972,Martina Martínez,10.0,17.0,5.0,0.0,10.0,10.0,Yoga,0,1.0,10.0,0,4.9,Activo
+2973,Rocío Núñez,11.0,12.0,-5.0,0.0,1.0,2.0,Pilates,0,1.0,7.0,1,4.9,Activo
+2974,Juan Cruz Luna,67.0,0.0,-11.0,2.0,38.0,14.0,Gimnasio,1,0.0,55.4,1,100.0,En Riesgo
+2975,Juan Cruz Molina,10.0,11.0,-5.0,0.0,2.0,21.0,Gimnasio,0,1.0,6.8,1,4.9,Activo
+2976,Bautista Núñez,3.0,15.0,3.0,0.0,5.0,11.0,Gimnasio,0,1.0,3.8,0,4.9,Activo
+2977,Camila Godoy,1.0,14.0,1.0,0.0,2.0,9.0,Yoga,0,1.0,1.4,0,4.9,Activo
+2978,Benjamín Godoy,4.0,16.0,2.0,0.0,4.0,12.0,Boxeo,0,1.0,4.0,0,4.9,Activo
+2979,Ezequiel Gutiérrez,15.0,9.0,-2.0,0.0,8.0,10.0,Yoga,0,1.0,12.2,0,4.9,Activo
+2980,Nicolás Sánchez,11.0,12.0,-3.0,0.0,8.0,30.0,Boxeo,0,1.0,9.8,0,4.9,Activo
+2981,Santiago Díaz,11.0,12.0,-2.0,3.0,11.0,11.0,Yoga,0,0.8,11.0,0,4.9,Activo
+2982,Lucía Aguirre,8.0,12.0,0.0,0.0,1.0,2.0,Danza,0,1.0,5.2,0,4.9,Activo
+2983,Delfina González,2.0,15.0,-4.0,0.0,6.0,8.0,Gimnasio,0,1.0,3.6,0,4.9,Activo
+2984,Victoria Núñez,68.0,0.0,-13.0,6.0,27.0,12.0,Danza,1,0.0,51.6,1,100.0,En Riesgo
+2985,Camila Benítez,9.0,11.0,-2.0,0.0,8.0,29.0,Gimnasio,0,1.0,8.6,0,4.9,Activo
+2986,Catalina Sánchez,10.0,14.0,4.0,0.0,6.0,26.0,Danza,0,1.0,8.4,0,4.9,Activo
+2987,Ramiro Medina,15.0,11.0,-3.0,0.0,11.0,15.0,Yoga,0,1.0,13.4,0,4.9,Activo
+2988,Lara Ferreyra,6.0,10.0,-3.0,3.0,7.0,2.0,Boxeo,0,0.77,6.4,0,4.9,Activo
+2989,Benjamín Ramírez,3.0,12.0,-5.0,0.0,8.0,40.0,Danza,0,1.0,5.0,1,4.9,Activo
+2990,Candela Torres,8.0,13.0,-5.0,1.0,8.0,27.0,Yoga,0,0.93,8.0,1,4.9,Activo
+2991,Rocío Flores,60.0,0.0,-16.0,3.0,26.0,1.0,Yoga,1,0.0,46.4,1,66.1,En Riesgo
+2992,Tomás Ríos,11.0,14.0,-2.0,0.0,4.0,10.0,Pilates,0,1.0,8.2,0,4.9,Activo
+2993,Tomás Moreno,11.0,17.0,-3.0,0.0,7.0,2.0,Gimnasio,0,1.0,9.4,0,4.9,Activo
+2994,Antonella Ríos,46.0,0.0,-14.0,6.0,25.0,11.0,Gimnasio,0,0.0,37.6,1,66.1,En Riesgo
+2995,Ignacio Ramírez,14.0,14.0,-5.0,0.0,4.0,12.0,Danza,0,1.0,10.0,1,4.9,Activo
+2996,Antonella Suárez,2.0,13.0,-2.0,0.0,8.0,2.0,Yoga,0,1.0,4.4,0,4.9,Activo
+2997,Juan Cruz Cabrera,1.0,12.0,-4.0,1.0,11.0,27.0,Gimnasio,0,0.92,5.0,0,4.9,Activo
+2998,Brisa Ruiz,73.0,12.0,-6.0,2.0,41.0,23.0,Boxeo,1,0.86,60.2,1,80.0,En Riesgo
+2999,Benjamín Aguirre,64.0,0.0,-10.0,3.0,35.0,6.0,Pilates,1,0.0,52.4,1,66.1,En Riesgo
+3000,Florencia Ruiz,15.0,13.0,0.0,1.0,11.0,48.0,Danza,0,0.93,13.4,0,4.9,Activo
